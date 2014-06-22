@@ -1,0 +1,10 @@
+name: "BSidesVienna"
+description: "BSidesVienna"
+
+url: "http://bsidesvienna.at"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
