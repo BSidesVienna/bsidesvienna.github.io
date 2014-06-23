@@ -2,9 +2,12 @@ name: "BSidesVienna"
 description: "BSidesVienna"
 
 url: "http://bsidesvienna.at"
+#url: "http://localhost:4000"
 
 paginate: 10
 
 markdown: rdiscount
 permalink: pretty
 pygments: true
+
+exclude: [Gemfile, Gemfile.lock, CNAME, Readme.md]

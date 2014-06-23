@@ -4,16 +4,22 @@
   <meta charset='utf-8'>
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
+  <base href="{{ site.url }}">
+
   <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
   <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
   <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
-  <title>{{ site.name }}</title>
+
+  <title>{{ site.name }} - {{ page.title }} </title>
 </head>
 
 <body>
   <header>
     <div class="container">
-      <h1>{{ site.name }}</h1>
-      <h2></h2>
+      <h1>{{ page.title }}</h1>
     </div>
+    <div class="container">
+    <p><a href="/">Index</a> <a href="/cfp/">Call for Papers</a> <a href="/schedule/">Schedule</a> <a href="/location/">Location</a></p>
+    </div>
+
   </header>
