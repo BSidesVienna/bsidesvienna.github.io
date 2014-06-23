@@ -1,8 +1,9 @@
 name: "BSidesVienna"
 description: "BSidesVienna"
+year: 2014
 
-url: "http://bsidesvienna.at"
-#url: "http://localhost:4000"
+#url: "http://bsidesvienna.at"
+url: "http://localhost:4000"
 
 paginate: 10
 
@@ -11,3 +12,15 @@ permalink: pretty
 pygments: true
 
 exclude: [Gemfile, Gemfile.lock, CNAME, Readme.md]
+
+navigation:
+- text: Index
+  url: /
+- text: Call for Papers
+  url: /cfp/
+- text: Schedule
+  url: /schedule/
+- text: Venue
+  url: /venue/
+- text: Sponsors
+  url: /sponsors/

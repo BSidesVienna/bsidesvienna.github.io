@@ -8,18 +8,28 @@
 
   <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
   <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-  <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+  <link rel="stylesheet" type="text/css" href="stylesheets/social.css" />
 
-  <title>{{ site.name }} - {{ page.title }} </title>
+  <title>{{ site.name }} {{ site.year }} - {{ page.title }} </title>
 </head>
 
 <body>
   <header>
     <div class="container">
+      <div class="soc-links">
+        <a class="soc-link-facebook" href="https://www.facebook.com/xxxxx" target="_blank"></a>
+        <a class="soc-link-twitter" href="https://twitter.com/xxxxx" target="_blank"></a>
+        <a class="soc-link-google" href="https://plus.google.com/xxxxx" target="_blank"></a>
+      </div>
+      <h2>{{ site.name }} {{ site.year }}</h2>    
       <h1>{{ page.title }}</h1>
     </div>
     <div class="container">
-    <p><a href="/">Index</a> <a href="/cfp/">Call for Papers</a> <a href="/schedule/">Schedule</a> <a href="/location/">Location</a></p>
+    <p>
+    {% for link in site.navigation %}
+      <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
+    {% endfor %}
+    </p>
     </div>
 
   </header>
