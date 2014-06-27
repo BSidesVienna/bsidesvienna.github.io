@@ -26,8 +26,11 @@
     </div>
     <div class="container">
     <p>
-    {% for link in site.navigation %}
-      <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a>
+    {% assign sorted_pages = site.pages | sort:"name" %}
+    {% for p in sorted_pages %}
+      {% unless p.nomenu == true %}
+        <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
+      {% endunless %}
     {% endfor %}
     </p>
     </div>
