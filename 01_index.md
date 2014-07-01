@@ -19,7 +19,7 @@ to be defined
 <h2> Volunteers </h2>
 You want to volunteer? Get in touch with us via twitter.
 
-<h2> Tag for twitter, flicker etc. </h2>
+<h2> Tag for twitter, flickr etc. </h2>
 Please use #BSidesVienna for content related to this event.
 
 <h2> Crew </h2>
