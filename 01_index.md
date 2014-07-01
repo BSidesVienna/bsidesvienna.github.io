@@ -3,4 +3,24 @@ title: Index
 layout: default
 permalink: /
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<h1>BSidesVienna 2014</h1>
+BSidesVienna will open it's doors again in 2014. Be part of it and stay tuned.<br>
+More information will follow via twitter or this website.
+
+Learn more about Security BSides events: <a href="http://www.securitybsides.com/">Security BSides</a>
+
+<h2> Event details </h2>
+When: to be defined<br>
+Where: to be defined
+
+<h2> Cost </h2>
+to be defined
+
+<h2> Volunteers </h2>
+You want to volunteer? Get in touch with us via twitter.
+
+<h2> Tag for twitter, flicker etc. </h2>
+Please use #BSidesVienna for content related to this event.
+
+<h2> Crew </h2>
+
