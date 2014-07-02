@@ -3,34 +3,31 @@
 <head>
   <meta charset='utf-8'>
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <base href="{{ site.url }}">
 
-  <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-  <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-  <link rel="stylesheet" type="text/css" href="stylesheets/social.css" />
+  <!-- Theme from https://github.com/kristopolous/BOOTSTRA.386 -->
+  <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap-responsive.css" media="screen" />
 
   <title>{{ site.name }} {{ site.year }} - {{ page.title }} </title>
 </head>
 
-<body>
-  <header>
-    <div class="container">
-      <div class="soc-links">
-        <a class="soc-link-twitter" href="https://twitter.com/BSidesVienna" target="_blank"></a>
-      </div>
-      <h2>{{ site.name }} {{ site.year }}</h2>    
-      <h1>{{ page.title }}</h1>
-    </div>
-    <div class="container">
-    <p>
-    {% assign sorted_pages = site.pages | sort:"name" %}
-    {% for p in sorted_pages %}
-      {% unless p.nomenu == true %}
-        <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
-      {% endunless %}
-    {% endfor %}
-    </p>
-    </div>
+<body data-spy="scroll" data-target=".bs-docs-sidebar">
 
-  </header>
+  <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        {% assign sorted_pages = site.pages | sort:"name" %}
+          {% for p in sorted_pages %}
+            {% unless p.nomenu == true %}
+              {% if page.url == p.url %}
+                {% assign class_active = 'active' %}
+              {% endif %}
+              <a href="{{p.permalink}}" title="{{p.title}}" class="brand">{{p.title}}</a>
+            {% endunless %}
+          {% endfor %}
+      </div>
+    </div>
+  </div>
