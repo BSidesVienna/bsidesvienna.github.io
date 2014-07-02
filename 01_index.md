@@ -23,4 +23,5 @@ You want to volunteer? Get in touch with us via twitter.
 Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for content related to this event.
 
 ### Crew
-[azet](https://twitter.com/a_z_e_t)
+[azet](https://twitter.com/a_z_e_t)    
+..and anonymous others

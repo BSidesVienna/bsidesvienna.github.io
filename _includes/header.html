@@ -24,11 +24,14 @@
           {% for p in sorted_pages %}
             {% unless p.nomenu == true %}
               {% if page.url == p.url %}
-                {% assign class_active = 'active' %}
-              {% endif %}
-              <li class="">
-                <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
-              </li>   
+                <li class="active">
+                  <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
+                </li>   
+	      {% else %}
+                <li>
+                  <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
+                </li>   
+	      {% endif %}
             {% endunless %}
           {% endfor %}
         </ul>
