@@ -24,4 +24,5 @@ Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for conten
 
 ### Crew
 [azet](https://twitter.com/a_z_e_t)    
+[FireFart](https://twitter.com/_FireFart_)    
 ..and anonymous others
