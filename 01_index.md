@@ -4,13 +4,13 @@ layout: default
 permalink: /
 ---
 ### Hi there!
-BSidesVienna will open it's doors again in 2014. Be part of it and stay tuned.
+BSidesVienna will open it's doors again in 2014. Be part of it and stay tuned.    
 More information will follow via twitter or this website.
 
 Learn more about Security BSides events: [Security BSides](http://www.securitybsides.com/)
 
 ### Event details
-When: to be defined
+When: to be defined    
 Where: to be defined
 
 ### Cost
