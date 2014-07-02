@@ -13,21 +13,25 @@
 
   <title>{{ site.name }} {{ site.year }} - {{ page.title }} </title>
 </head>
-
-<body data-spy="scroll" data-target=".bs-docs-sidebar">
-
-  <div class="navbar navbar-inverse navbar-fixed-top">
-    <div class="navbar-inner">
-      <div class="container">
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="brand" href="/">BSidesVienna 0x7DE</a>
+      <div class="nav-collapse collapse">
+        <ul class="nav">
         {% assign sorted_pages = site.pages | sort:"name" %}
           {% for p in sorted_pages %}
             {% unless p.nomenu == true %}
               {% if page.url == p.url %}
                 {% assign class_active = 'active' %}
               {% endif %}
-              <a href="{{p.permalink}}" title="{{p.title}}" class="brand">{{p.title}}</a>
+              <li class="">
+                <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
+              </li>   
             {% endunless %}
           {% endfor %}
-      </div>
+        </ul>
     </div>
   </div>
+</div>
