@@ -3,7 +3,7 @@ title: Call for Papers
 layout: default
 permalink: /cfp/
 ---
-We're looking for high quality submissions in the field of information security, reverse engineering, incident response, security operations and basically on everything that has [hack value](https://en.wikipedia.org/wiki/Hacker_(programmer_subculture))
+We're looking for high quality submissions in the fields of information security, reverse engineering, incident response, security operations and basically on everything that has [hack value](https://www.princeton.edu/~achaney/tmve/wiki100k/docs/Hack_value.html).
 
-Deadline and a CFP will be opened soon.
+Deadline and a CFP will be announced soon.
 
