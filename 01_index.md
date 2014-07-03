@@ -23,7 +23,8 @@ You want to volunteer? Get in touch with us [via twitter](https://twitter.com/BS
 Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for content related to this event.
 
 ### Crew
-[azet](https://twitter.com/a_z_e_t)    
+[azet](https://twitter.com/a_z_e_t)   
+[b00010111](https://twitter.com/b00010111)    
 [FireFart](https://twitter.com/_FireFart_)    
 [MacLemon](https://twitter.com/MacLemon)    
 ..and anonymous others
