@@ -27,4 +27,5 @@ Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for conten
 [b00010111](https://twitter.com/b00010111)    
 [FireFart](https://twitter.com/_FireFart_)    
 [MacLemon](https://twitter.com/MacLemon)    
+[Chris John Riley](https://twitter.com/ChrisJohnRiley)  
 ..and anonymous others
