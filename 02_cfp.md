@@ -3,4 +3,7 @@ title: Call for Papers
 layout: default
 permalink: /cfp/
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We're looking for high quality submissions in the field of information security, reverse engineering, incident response, security operations and basically on everything that has [hack value](https://en.wikipedia.org/wiki/Hacker_(programmer_subculture))
+
+Deadline and a CFP will be opened soon.
+
