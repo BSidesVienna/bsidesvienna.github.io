@@ -17,7 +17,7 @@ Where: to be defined
 to be defined
 
 ### Volunteers
-You want to volunteer? Get in touch with us [via twitter](https://twitter.com/BSidesVienna).
+You want to volunteer? Get in touch with us [via twitter](https://twitter.com/BSidesVienna) or be old fashioned and send us an e-mail to crew@bsidesvienna.at.
 
 ### Tag for twitter, flickr etc.
 Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for content related to this event.
