@@ -10,7 +10,7 @@ More information will follow via twitter or this website.
 Learn more about Security BSides events: [Security BSides](http://www.securitybsides.com/)
 
 ### Event details
-When: to be defined    
+When: 22.November.2014    
 Where: to be defined
 
 ### Cost
