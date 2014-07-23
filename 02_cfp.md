@@ -36,7 +36,7 @@ To apply, please fill out the details of your talk proposal and contact info usi
 ==========================
 
 CFP will close on 30.September.2014    
-If you have any questions, please contact us at crew [at] bsidesvienna [dot] at    
+If you have any questions, please contact us at crew [at] bsidesvienna [dot] at.    
 
 Sponsoring    
 
