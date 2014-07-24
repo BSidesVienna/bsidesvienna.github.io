@@ -8,10 +8,14 @@
   <base href="{{ site.url }}">
 
   <!-- Theme from https://github.com/kristopolous/BOOTSTRA.386 -->
-  <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" media="screen" />
-  <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap-responsive.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.min.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap-responsive.min.css" media="screen" />
+  <!-- override css settings -->
+  <style>body { background-color: #000000; }</style>
   <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="scripts/bsides.js"></script>
+  <!-- disable animation -->
+  <script>_386 = { fastLoad: true };</script>
 
   <title>{{ site.name }} {{ site.year }} - {{ page.title }} </title>
 </head>
@@ -19,6 +23,7 @@
 <div class="navbar navbar-inverse navbar-fixed-top">
   <div class="navbar-inner">
     <div class="container">
+    <button type="button" class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse"></button>
       <a class="brand" href="/">BSidesVienna 0x7DE</a>
       <div class="nav-collapse collapse">
         <ul class="nav">
@@ -29,11 +34,11 @@
                 <li class="active">
                   <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
                 </li>   
-	      {% else %}
+              {% else %}
                 <li>
                   <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
                 </li>   
-	      {% endif %}
+              {% endif %}
             {% endunless %}
           {% endfor %}
         </ul>
