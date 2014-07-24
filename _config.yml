@@ -2,9 +2,6 @@ name: "BSidesVienna"
 description: "BSidesVienna"
 year: 2014
 
-url: "http://bsidesvienna.at"
-#url: "http://localhost:4000"
-
 markdown: rdiscount
 permalink: pretty
 pygments: true
