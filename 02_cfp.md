@@ -5,8 +5,9 @@ permalink: /cfp/
 ---
 
 You can't keep a good con down… so after a year off sunning ourselves BSidesVienna is back for 2014!    
-Just because we like to change things up, this time around we're teaming up with the very fine folks over at [DeepSec](https://deepsec.net/) to throw a BSides event straight after their conference at the end of November. In true BSides fashion we're looking for a good mix of security and hacker talks designed to wow the crowd and keep them coming back for more.    
-We are currently seeking a selection of hands-on workshops, presetations and shorter (15-minute) lightning talks.    
+Just because we like to change things up, this time around we're teaming up with the very fine folks over at [DeepSec](https://deepsec.net/) to throw a BSides event straight after their conference at the end of November. In true BSides fashion we're looking for a good mix of security and hacker talks designed to wow the crowd and keep them coming back for more.   
+
+We are currently seeking a selection of hands-on workshops, presentations and shorter (15-minute) lightning talks.    
 BSides is an open, international event, the official conference language for all talks, trainings and workshops (as well as submitted abstracts) is English to ensure our foreign friends don't feel all sad panda about missing things.    
 Topics of interest include (but are in no way limited to) the following:    
 
@@ -40,5 +41,6 @@ If you have any questions, please contact us at crew [at] bsidesvienna [dot] at.
 
 Sponsoring    
 
-BSides Vienna is a non-profit community driven event, and relies on the kind sponsorship of people and companies like you to succeed.     
+BSides Vienna is a non-profit community driven event, and relies on the kind sponsorship of people and companies like you to succeed.
+
 If you want to support the initiative and gain visibility by sponsoring, please contact us by writing an e-mail to crew [at] bsidesvienna [dot] at
