@@ -12,17 +12,21 @@
   <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap-responsive.min.css" media="screen" />
   <!-- override css settings -->
   <style>
+    /* darken the background and loading effect */
     body {
+      visibility: hidden;
       background-color: #000000;
     }
     .page-header {
-      margin: 2em 1em 1em 1em;
+      margin-top: 2em;
+    }
+    #wrap386, #bar386, #cursor386 {
+      background: #000000;
     }
   </style>
   <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="scripts/bsides.js"></script>
-  <!-- disable animation -->
-  <script>_386 = { fastLoad: true };</script>
+  <script>_386 = { onePass: false, speedFactor: 1.8 };</script>
 
   <title>{{ site.name }} {{ site.year }} - {{ page.title }} </title>
 </head>
