@@ -13,12 +13,10 @@ More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter
 
 # News
 ### [1406160000]: Call for Papers opened
-| Present your research!    
-| CFP is open until the end September, more information over [here](cfp/).
+Present your research: CFP is open until the end September, more information over [here](cfp/).
 
 ### [1403251200]: It is decided
-| ["BSides thing is go!"](https://twitter.com/MacLemon/status/480033272836407297)    
-| Old and new volunteers have decided to host another - long overdue - BSides in Vienna.
+["BSides thing is go!"](https://twitter.com/MacLemon/status/480033272836407297)
 
 
 # Event details
