@@ -24,7 +24,7 @@ Present your research: CFP is open until the end September, more information ove
 22.November.2014
 
 #### Where
-to be defined
+[Topkino](venue/)
 
 #### Cost
 to be defined
