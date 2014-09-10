@@ -12,6 +12,10 @@ More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter
 
 
 # News
+### [1410285600]: Location fixed
+We've decided on a location for our event: Topkino (see [venue](venue/)).
+It's a cinema with bar and restaurant! BSidesVienna will be a free event.
+
 ### [1406160000]: Call for Papers opened
 Present your research: CFP is open until the end September, more information over [here](cfp/).
 
@@ -27,7 +31,7 @@ Present your research: CFP is open until the end September, more information ove
 [Topkino](venue/)
 
 #### Cost
-to be defined
+F-R-E-E!
 
 #### Volunteers
 You want to volunteer? Get in touch with us [via twitter](https://twitter.com/BSidesVienna)
