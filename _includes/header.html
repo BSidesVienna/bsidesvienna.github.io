@@ -20,6 +20,14 @@
     #wrap386, #bar386, #cursor386 {
       background: #000000;
     }
+    /* overwrite image styles with defaults, otherwise images are rendered incorrect */
+    img {
+      -webkit-filter: contrast(100%);
+      -moz-filter: contrast(100%);
+      -ms-filter: contrast(100%);
+      -o-filter: contrast(100%);
+      filter: contrast(100%);
+    }
   </style>
   <script src="//code.jquery.com/jquery-1.11.1.min.js" type="text/javascript"></script>
   <script src="/scripts/bsides.js" type="text/javascript"></script>
