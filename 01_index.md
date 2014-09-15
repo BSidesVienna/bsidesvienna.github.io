@@ -12,6 +12,11 @@ More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter
 
 
 # News
+
+### [1410777159]: Early Bird tickets available
+Get your ticket early... more tickets to be released soon
+[Register for tickets](https://www.eventbrite.com/e/bsidesvienna-2014-tickets-1523297223)
+
 ### [1410285600]: Location fixed
 We've decided on a location for our event: Topkino (see [venue](venue/)).
 It's a cinema with bar and restaurant! BSidesVienna will be a free event.
