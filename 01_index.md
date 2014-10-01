@@ -13,6 +13,10 @@ More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter
 
 # News
 
+### [1412193600]: CFP extended
+We've received so many good talks we're looking at adding another track.
+So we extended the [CFP](cfp/) to 18th October 2014 23:59:59.
+
 ### [1410777159]: Early Bird tickets available
 Get your ticket early... more tickets to be released soon
 [Register for tickets](https://www.eventbrite.com/e/bsidesvienna-2014-tickets-1523297223)

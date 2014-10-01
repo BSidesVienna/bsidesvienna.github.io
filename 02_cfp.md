@@ -43,7 +43,7 @@ Topics of interest include (but are in no way limited to) the following:
 To apply, please provide the details of your talk proposal and contact info [via easychair](https://easychair.org/conferences/?conf=bsv14).
 
 
-CFP will close on **30th September 2014**.    
+CFP will close on ~~30th September 2014~~ **18th October 2014 23:59:59**.
 If you have any questions, please contact us at crew [at] bsidesvienna [dot] at.
 
 # Sponsoring
