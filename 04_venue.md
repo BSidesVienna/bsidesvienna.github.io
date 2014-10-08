@@ -4,10 +4,8 @@ layout: default
 permalink: /venue/
 ---
 
-#Location:
-**Top Kino**    
-
-Rahlgasse 1 (Ecke Theobaldgasse), 1060 Wien
+#Location
+**Top Kino:** Rahlgasse 1 (Ecke Theobaldgasse), 1060 Wien
 
 ![Map](http://www.topkino.at/jart/projects/top-kino/images/img-db/1107355478353-614x308-center.jpeg)
 
