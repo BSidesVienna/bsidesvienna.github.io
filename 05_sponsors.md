@@ -15,12 +15,16 @@ than welcome to participate in any way you feel appropriate.
 
 [Ing. Diba](https://www.ing-diba.at/)
 
-![Ing. Diba](/img/sponsors/ing_diba.png =200x)
+[![Ing. Diba](/img/sponsors/ing_diba.png =200x)](https://www.ing-diba.at/)
 
 [cert.at](https://cert.at/)
 
-![cert.at](/img/sponsors/cert_at.jpg =200x)
+[![cert.at](/img/sponsors/cert_at.jpg =200x)](https://cert.at/)
+
+[Defcon Switzerland](https://www.defcon-switzerland.org/)
+
+[![Defcon Switzerland](/img/sponsors/defcon_switzerland.jpg =200x)](https://www.defcon-switzerland.org/)
 
 [codeship](https://codeship.io/)
 
-![codeship.io](/img/sponsors/codeship_io.png =200x)
+[![codeship.io](/img/sponsors/codeship_io.png =200x)](https://codeship.io/)
