@@ -28,3 +28,5 @@ than welcome to participate in any way you feel appropriate.
 [codeship](https://codeship.io/)
 
 [![codeship.io](/img/sponsors/codeship_io.png =200x)](https://codeship.io/)
+
+[![WKÖ IT-Security Experts](/img/sponsors/wko_it_security.png =200x)](https://www.wko.at/itsecurity)
