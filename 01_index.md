@@ -13,6 +13,9 @@ More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter
 
 # News
 
+### [1414619100]: Talks added
+All accepted talks were added to the [Schedule](schedule/) page
+
 ### [1412193600]: CFP extended
 We've received so many good talks we're looking at adding another track.
 So we extended the [CFP](cfp/) to 18th October 2014 23:59:59.
