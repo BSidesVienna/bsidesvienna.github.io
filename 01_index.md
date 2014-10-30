@@ -14,7 +14,7 @@ More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter
 # News
 
 ### [1414619100]: Talks added
-All accepted talks were added to the [Schedule](schedule/) page
+All accepted talks were added to the [Talks](talks/) page
 
 ### [1412193600]: CFP extended
 We've received so many good talks we're looking at adding another track.
