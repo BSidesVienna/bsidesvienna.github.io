@@ -13,6 +13,9 @@ More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter
 
 # News
 
+### [1414674307]: Abstracts
+We added all abstracts to our talks to the [Talks](talks/) page
+
 ### [1414619100]: Talks added
 All accepted talks were added to the [Talks](talks/) page
 
