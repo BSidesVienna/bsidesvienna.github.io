@@ -13,6 +13,9 @@ More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter
 
 # News
 
+### [1415388600]: Talk removed
+We had to remove the Talk "How secure is your Android PIN? - A method of breaking Android standard Security" by Daniel Kroiss because he can not attend the conference
+
 ### [1414674307]: Abstracts
 We added all abstracts to our talks to the [Talks](talks/) page
 
