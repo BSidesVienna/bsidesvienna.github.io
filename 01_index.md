@@ -13,6 +13,9 @@ More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter
 
 # News
 
+### [1415653200]: Schedule finalized
+Our schedule is now finalized and can be viewed on the [Schedule](schedule/) page
+
 ### [1415484900]: New talk
 We added a new last minute talk by Sebastian Garcia: "Identifying and Detecting Botnet Behaviors in the Network"
 

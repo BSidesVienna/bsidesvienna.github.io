@@ -28,6 +28,15 @@
       -o-filter: contrast(100%);
       filter: contrast(100%);
     }
+    table, td, tr {
+      border-style: solid;
+      border-color: #00aaaa;
+      padding: 10px;
+    }
+    thead {
+      background-color: #00aaaa;
+      color: #000000;
+    }
   </style>
   <script src="//code.jquery.com/jquery-1.11.1.min.js" type="text/javascript"></script>
   <script src="/scripts/bsides.js" type="text/javascript"></script>
@@ -57,11 +66,11 @@
               {% if page.url == p.url %}
                 <li class="active">
                   <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
-                </li>   
+                </li>
               {% else %}
                 <li>
                   <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
-                </li>   
+                </li>
               {% endif %}
             {% endunless %}
           {% endfor %}
