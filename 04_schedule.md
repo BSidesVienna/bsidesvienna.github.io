@@ -4,7 +4,7 @@ layout: default
 permalink: /schedule/
 ---
 
-|   | Time          | small cinema                                                                                                           | big cinema                                                                               |
+|   | Time          | big cinema                                                                                                             | small cinema                                                                             |
 | - | ------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 |1  | 10:00 - 10:40 | Marion Marschalek. The A and the P of the T                                                                            | Dobin Rutishauser. Sentinel - Semi automated web application testing                     |
 |2  | 10:45 - 11:25 | Aljosha Judmayer, Lukas Krammer and Wolfgang Kastner. On the security of security extensions for IP-based KNX networks | Louis Duruflé. OSPF - Open Shortest Pwn First                                            |
