@@ -32,3 +32,7 @@ than welcome to participate in any way you feel appropriate.
 [WKÖ IT-Security Experts](https://www.wko.at/itsecurity)
 
 [![WKÖ IT-Security Experts](/img/sponsors/wko_it_security.png =200x)](https://www.wko.at/itsecurity)
+
+[BruCON](http://www.brucon.org)
+
+[![BruCON](/img/sponsors/brucon.jpg)](http://www.brucon.org)
