@@ -35,4 +35,4 @@ than welcome to participate in any way you feel appropriate.
 
 [BruCON](http://www.brucon.org)
 
-[![BruCON](/img/sponsors/brucon.jpg)](http://www.brucon.org)
+[![BruCON](/img/sponsors/brucon.jpg =200x)](http://www.brucon.org)
