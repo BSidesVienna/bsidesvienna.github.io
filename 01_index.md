@@ -13,6 +13,11 @@ More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter
 
 # News
 
+### [1416402897]: Final planning
+Final planning is in progress... so keep an eye here and on our twitter feed for up to date news.
+
+IMPORTANT: Doors of Topkino wil be opening at 09:30... feel free to arrive earlier if you like standing outside (warning, it may be cold ;)
+
 ### [1415653200]: Schedule finalized
 Our schedule is now finalized and can be viewed on the [Schedule](schedule/) page
 
