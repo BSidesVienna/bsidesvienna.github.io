@@ -48,6 +48,7 @@
 - title: "Sentinel - Semi automated web application testing"
   author: "Dobin Rutishauser"
   id: 10
+  slides: 2014/sentinel_semi_automated_web_application_testing.pdf
   abstract: "Sentinel is a burp plugin to assist the penetration tester on finding security vulnerabilities. Unlike fully automated scanners, Sentinel displays valuable information about the sent and received HTTP requests, which aids the tester in finding weaknesses and strange behaviour. The talk will present an introduction in the tool and practical example of finding blind sql injections."
 
 - title: "Smashing the Buffer"
