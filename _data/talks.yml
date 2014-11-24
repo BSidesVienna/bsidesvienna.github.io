@@ -7,6 +7,7 @@
   author: "Paul Coggin"
   author_url: "http://www.dynetics.com/"
   id: 2
+  slides: "2014/bending_and_twisting_networks.pdf"
   abstract: "The telecommunications networks are one of our most important critical infrastructure assets. In fact all of the other critical infrastructure domains are dependent upon the telecommunications critical infrastructure for operation for example ICS/SCADA. In this talk we will discuss a quick overview of telecommunication architectures and operations for border gateway protocol (BGP) services with references to the recent BGP prefix hijacking attacks. The discussion will then pivot to how Multi-protocol Label Switch (MPLS) networks may be attacked in telecommunications networks. Could it be that the MPLS networks are being attacked similar to BGP? How would someone go about targeting MPLS networks? The MPLS discussion will provide an overview of MPLS VPN's and MPLS traffic engineering architectures and operations including packet captures of label traffic for reference. Attack vectors for targeting MPLS networks will be addressed in addition to a couple new ideas for gathering intel from MPLS networks. Recommendations for monitoring and securing BGP and MPLS networks will be discussed as well."
 
 - title: "Vulnerability Assessments on SCADA Networks: Outsmarting the Smart Grid"
@@ -48,7 +49,7 @@
 - title: "Sentinel - Semi automated web application testing"
   author: "Dobin Rutishauser"
   id: 10
-  slides: 2014/sentinel_semi_automated_web_application_testing.pdf
+  slides: "2014/sentinel_semi_automated_web_application_testing.pdf"
   abstract: "Sentinel is a burp plugin to assist the penetration tester on finding security vulnerabilities. Unlike fully automated scanners, Sentinel displays valuable information about the sent and received HTTP requests, which aids the tester in finding weaknesses and strange behaviour. The talk will present an introduction in the tool and practical example of finding blind sql injections."
 
 - title: "Smashing the Buffer"
