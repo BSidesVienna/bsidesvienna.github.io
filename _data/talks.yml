@@ -70,6 +70,7 @@
 - title: "Antivirus Evasion with ShCoLo/ExLo - Why Malware Works in face of Antivirus Software"
   author: "Matthias Deeg"
   id: 13
+  slides: "2014/why_malware_works_in_face_of_antivirus_software.pdf"
   abstract: "For many years, different types of malware rank among the biggest IT security threats both in the business and the private domain. In order to protect oneself from the dangers of malware, numerous software manufacturers offer IT security products like antivirus and endpoint protection software. But these products alone offer no sufficient protection from malware that knows some tricks, as the results of our recent research with the topic antivirus evasion shows."
 
 - title: "Alternative Cashout Strategies"
