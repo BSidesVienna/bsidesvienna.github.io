@@ -45,6 +45,7 @@
   author: "Louis Duruflé"
   author_url: "https://louisdurufle.eu"
   id: 9
+  slides: "2014/ospf_open_shortest_pwn_first.pdf"
   abstract: "IT-Network are becoming a vital part of every infrastructure. With the growth of the networks, maintaining the routing tables of every router had become complex and time-consuming. To automate this process, routing protocol like RIP or OSPF have been developed. These protocols allow routers to communicate and exchange route with each other and ensure that every IP packet emitted by a computer reaches its destination. The good configuration of these protocols is crucial for the availability and the security of the networks. A wrong or naive configuration can lead to potential great disaster for the global security of all data transmitted over the network. In this talk I will present the routing protocol, what is it used for, how does it work and where is it used. I will then present the security aspects of routing protocols with focus on OSPF. In the last part I'll introduce some attacks that can be launched against routing protocols and their consequences."
 
 - title: "Sentinel - Semi automated web application testing"
