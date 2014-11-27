@@ -13,26 +13,8 @@ than welcome to participate in any way you feel appropriate.
 
 # Our sponsors
 
-[Ing. Diba](https://www.ing-diba.at/)
+{% for sponsor in site.data.sponsors %}
+[{{ sponsor.name }}]({{ sponsor.url }})
 
-[![Ing. Diba](/img/sponsors/ing_diba.png =200x)](https://www.ing-diba.at/)
-
-[cert.at](https://cert.at/)
-
-[![cert.at](/img/sponsors/cert_at.jpg =200x)](https://cert.at/)
-
-[Defcon Switzerland](https://www.defcon-switzerland.org/)
-
-[![Defcon Switzerland](/img/sponsors/defcon_switzerland.jpg =200x)](https://www.defcon-switzerland.org/)
-
-[codeship](https://codeship.io/)
-
-[![codeship.io](/img/sponsors/codeship_io.png =200x)](https://codeship.io/)
-
-[WKÖ IT-Security Experts](https://www.wko.at/itsecurity)
-
-[![WKÖ IT-Security Experts](/img/sponsors/wko_it_security.png =200x)](https://www.wko.at/itsecurity)
-
-[BruCON](http://www.brucon.org)
-
-[![BruCON](/img/sponsors/brucon.jpg =200x)](http://www.brucon.org)
+[![{{ sponsor.name }}]({{ sponsor.image }} =200x)]({{ sponsor.url }})
+{% endfor %}
