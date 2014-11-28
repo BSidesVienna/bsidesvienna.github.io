@@ -1,13 +1,14 @@
 - title: "On the security of security extensions for IP-based KNX networks"
   author: "Aljosha Judmayer, Lukas Krammer and Wolfgang Kastner"
   id: 1
+  slides: "/slides/2014/on_the_security_of_security_extensions_for_ip_based_knx_networks.pdf"
   abstract: "The traditional areas of building automation like heating, ventilation and air conditioning as well as lighting and shading are more and more extended by services requiring a more robust security infrastructure like alarm-and access control systems. Additionally, building automation networks get integrated into existing IP-based networks, or even communicate directly over the Internet. Therefore, the attack surface of building automation systems has increased. This requires a solid security architecture and a profound knowledge of possible attack vectors. This work reviews two security extensions for KNXnet/IP regarding their individual security properties. Thereby, it is pointed out that the current version of the specification, called KNXnet/IP Secure, lacks some relevant details and has certain limitations concerning the provided level of security. Additionally, it is demonstrated that authenticity, integrity, confidentiality and data freshness cannot be guaranteed in classical KNX communication."
 
 - title: "Hijacking label switched networks in the cloud"
   author: "Paul Coggin"
   author_url: "http://www.dynetics.com/"
   id: 2
-  slides: "2014/bending_and_twisting_networks.pdf"
+  slides: "/slides/2014/bending_and_twisting_networks.pdf"
   abstract: "The telecommunications networks are one of our most important critical infrastructure assets. In fact all of the other critical infrastructure domains are dependent upon the telecommunications critical infrastructure for operation for example ICS/SCADA. In this talk we will discuss a quick overview of telecommunication architectures and operations for border gateway protocol (BGP) services with references to the recent BGP prefix hijacking attacks. The discussion will then pivot to how Multi-protocol Label Switch (MPLS) networks may be attacked in telecommunications networks. Could it be that the MPLS networks are being attacked similar to BGP? How would someone go about targeting MPLS networks? The MPLS discussion will provide an overview of MPLS VPN's and MPLS traffic engineering architectures and operations including packet captures of label traffic for reference. Attack vectors for targeting MPLS networks will be addressed in addition to a couple new ideas for gathering intel from MPLS networks. Recommendations for monitoring and securing BGP and MPLS networks will be discussed as well."
 
 - title: "Vulnerability Assessments on SCADA Networks: Outsmarting the Smart Grid"
@@ -20,13 +21,13 @@
   author: "Marion Marschalek"
   author_url: "http://www.0x1338.at"
   id: 5
-  slides: "2014/the_a_and_the_p_of_the_t.pdf"
+  slides: "/slides/2014/the_a_and_the_p_of_the_t.pdf"
   abstract: "The cyber threat landscape has undergone a massive transformation since 2010 - in structure as well as in buzz wording. Numbers of mass malware have skyrocketed, cases of data breaches caused by targeted attacks also. In reality, the operators of both, mass as well as targeted malware, are not necessarily different groups any more. The term advanced persistent threat has been created to describe malicious software, which is difficult to detect, thus advanced, and remains on infected systems for a long period of time, thus persistent. Yet, the true nature of targeted malware in general remains unclear, their sophistication hard to evaluate. This talk will introduce measures of complexity for current malware and apply these measures to a chosen set of recently used targeted malware. Examples of such measures are sandbox and analysis resistance, detection evasion and the level of system infiltration and persistence on infected machines. By better understanding threat complexity the defending side can gain a crucial advantage countering whoever might be their enemy."
 
 - title: "Hacking Online Banking Trojans"
   author: "Sebastian Bachmann and Tibor Éliás"
   id: 6
-  slides: "2014/how_we_hacked_online_banking_malware.pdf"
+  slides: "/slides/2014/how_we_hacked_online_banking_malware.pdf"
   abstract: "Banks all over the world encourage their users to use their online banking services for comfort and convenience. While these services and banking applications do help in our everyday life by making our management of transactions easier using a so called mTAN, some criminals want a piece of the pie as well. Using all kinds of targeted messages (e-mail/SMS) customers can be tricked into installing applications (like banking Trojans/Malware) by these cyber criminals. Fortunately so far these applications have not been intelligent in any way on how they operated. This seems to be changing: In the spring of 2014, an aggressive banking Trojan called Hesperbot appeared, that once installed, can be controlled by SMS messages received from an attacker. Now, these capabilities were already well known and were seen in almost all Banking Malware that appeared in the wild. This Trojan differentiates its self from the other Malware families, by incorporating its own defense mechanism that activates, once the user tries to revoke the Administrator rights from the attacker's application. At this point the host device becomes almost useless to its user. At first we were not aware of this capability and fell into its trap. Fortunately with a clever exploitation strategy we've managed to unlock the infected device and save it from the grasps of cyber criminals."
 
 - title: "The wrong side of history - everything that is old is new again"
@@ -38,27 +39,27 @@
 - title: "Attack points in health apps & wearable fitness devices"
   author: "Candid Wueest"
   id: 8
-  slides: "2014/attack_points_in_health_apps_wearable_devices.pdf"
+  slides: "/slides/2014/attack_points_in_health_apps_wearable_devices.pdf"
   abstract: "Each day, millions of people worldwide are recording every aspect of their lives in an activity known as self-tracking or quantified self, often using wearable devices. These people have various reasons for doing this, but are they thinking about the risk involved in this process? Given the amount of personal data that is generated, transmitted, and stored at various locations during self-tracking, we wanted to analyse how well this data is protected against attackers, since the quantified self involves more than just the personally identifiable information (PII) that we are used to. We analysed the top health applications that are currently available for smartphones and found all sorts of worrying behaviour. Many apps are not following security best practice guidelines. For example, some apps submit passwords in clear text, transmit activity details over HTTP, allow for user enumeration, or store information insecurely. Other applications contact up to 14 different service providers, spreading personal information even further. To make matters worse, more than half of all of the apps did not have any privacy policy at all. These findings raise several questions: how much data is actually gathered? Who has access to this data? How securely is it stored? How can the be attacked? We will explain the different attack vectors and attack scenarios against wearable devices and their corresponding applications. We will provide concrete examples, such as how cybercriminals could misuse this information. For example, quantified-self devices could be a spammer's dream come true, as the devices allow the spammer to harvest complete user profiles with contact information and relevant contextual details. Furthermore, we discovered that none of the analysed quantified-self sports bracelets implemented the full spectrum of available privacy functions. As a result, people using these activity trackers could be tracked without their knowledge by any unrelated third party. This raises concerning opportunities for stalkers or other attackers. We created a proof-of-concept Bluetooth low energy (BTLE) scanner based on a Raspberry Pi and performed tests in different European cities. We will discuss the recently completed scan results and show a demo of the device. When this tracking is combined with the leakage of personal identifiable information, the dream of the quantified self can quickly become a nightmare."
 
 - title: "OSPF - Open Shortest Pwn First"
   author: "Louis Duruflé"
   author_url: "https://louisdurufle.eu"
   id: 9
-  slides: "2014/ospf_open_shortest_pwn_first.pdf"
+  slides: "/slides/2014/ospf_open_shortest_pwn_first.pdf"
   abstract: "IT-Network are becoming a vital part of every infrastructure. With the growth of the networks, maintaining the routing tables of every router had become complex and time-consuming. To automate this process, routing protocol like RIP or OSPF have been developed. These protocols allow routers to communicate and exchange route with each other and ensure that every IP packet emitted by a computer reaches its destination. The good configuration of these protocols is crucial for the availability and the security of the networks. A wrong or naive configuration can lead to potential great disaster for the global security of all data transmitted over the network. In this talk I will present the routing protocol, what is it used for, how does it work and where is it used. I will then present the security aspects of routing protocols with focus on OSPF. In the last part I'll introduce some attacks that can be launched against routing protocols and their consequences."
 
 - title: "Sentinel - Semi automated web application testing"
   author: "Dobin Rutishauser"
   id: 10
-  slides: "2014/sentinel_semi_automated_web_application_testing.pdf"
+  slides: "/slides/2014/sentinel_semi_automated_web_application_testing.pdf"
   abstract: "Sentinel is a burp plugin to assist the penetration tester on finding security vulnerabilities. Unlike fully automated scanners, Sentinel displays valuable information about the sent and received HTTP requests, which aids the tester in finding weaknesses and strange behaviour. The talk will present an introduction in the tool and practical example of finding blind sql injections."
 
 - title: "Smashing the Buffer"
   author: "Miroslav Stampar"
   author_url: "http://www.zsis.hr"
   id: 11
-  slides: "2014/smashing_the_buffer.pdf"
+  slides: "/slides/2014/smashing_the_buffer.pdf"
   abstract: "Smashing the Buffer hands-on workshop should consist of two parts. In the first (introductory) part all protection mechanisms accompanied with respective attack vectors used in exploitation of the buffer overflow vulnerability should be presented in form of a regular presentation (e.g. http://www.slideshare.net/stamparm/f-sec-2014miroslavstamparridingtheoverflowthenandnow). In part two, practical presentation would be given consisting of a step-by-step guided instructions for all popular attack vectors: ret2libc, ret2reg, SEH bypass, egg hunting, ROP chaining and heap spraying."
 
 - title: "Screw Compliance! Why security standards kill security!"
@@ -70,7 +71,7 @@
 - title: "Antivirus Evasion with ShCoLo/ExLo - Why Malware Works in face of Antivirus Software"
   author: "Matthias Deeg"
   id: 13
-  slides: "2014/why_malware_works_in_face_of_antivirus_software.pdf"
+  slides: "/slides/2014/why_malware_works_in_face_of_antivirus_software.pdf"
   abstract: "For many years, different types of malware rank among the biggest IT security threats both in the business and the private domain. In order to protect oneself from the dangers of malware, numerous software manufacturers offer IT security products like antivirus and endpoint protection software. But these products alone offer no sufficient protection from malware that knows some tricks, as the results of our recent research with the topic antivirus evasion shows."
 
 - title: "Alternative Cashout Strategies"
@@ -87,7 +88,7 @@
   author: "Marco	Lancini and Roberto Puricelli"
   author_url: "http://www.marcolancini.it/"
   id: 16
-  slides: "2014/enhancing_mobile_malware_an_android_rat_case_study.pdf"
+  slides: "/slides/2014/enhancing_mobile_malware_an_android_rat_case_study.pdf"
   abstract: "Cyber-attacks are quite common nowadays: data breaches, malware, botnets, phishing are some of the (buzz)words we hear almost constantly in the media. Indeed, while these attacks were once carried out by 'white hat' hackers, whose purpose was to bypass security systems as a hobby or intellectual challenge, now they are performed mostly by criminals, with the aim of making profit. The constantly growing interest in this sector enables the proliferation of attack toolkits, sold also in underground markets, potentially allowing more people to perform cyber-attacks. Moreover, the discover of new vulnerabilities is often accompanied by blog posts or proof of concepts from researchers or security firms that demonstrate the technical details of their exploits. Despite their purpose of raising awareness, these information could also be used to perform attacks. In this context, the goal of this talk is to demonstrate how it is possible to easily create powerful malware, combining public available attack toolkits and exploits of known vulnerabilities. In particular, we focused on mobile devices as the latest trends show how these kinds of terminals are becoming more often target of attacks. Remote Access Toolkits (RATs) for mobile devices are widespread and they could be considered an enabler for attacks aimed to obtain the control of the device itself. Moreover, given the source code of a RAT, it is possible to extend its features, adapting or modifying its behavior to the attacker's needs; for example “hiding” malicious features inside another application, or adding exploits in order to escalate privileges thus obtaining access to the administrative device’s features. Therefore, we propose a proof-of-concept mobile malware, embedded in a legitimate application, that enhances the features of a well-know RAT application. The attack scenario that we propose is then subdivided into several incremental phases. The first step is the installation of a malicious application from an alternative (non-official) store, which allows the attacker to remotely control the device. In general this is a common user behavior, especially in case of such paid applications, which are then provided free of charge. The RAT, once installed, allows the attacker to control the phone remotely, obtaining access to certain sensitive information (such as contacts, calls & SMS logs, photos, files stored on the SD card, GPS geolocation), and potentially using the device for malicious purposes (create alerts, open links in the browser, make calls or send SMS, take pictures, use the microphone to intercept environmental audio, intercept calls). Moreover, if the attacker compromises a consistent number of devices, he could use them to create a botnet to perform attacks against third parties (e.g., DDOS attack against a website). Subsequently, the attacker can also attempt to escalate his privileges in order to gain complete access to the device's resources. Embedding exploits for known kernel or driver vulnerabilities in the RAT, the attacker can then silently obtain root privileges and, therefore, complete access to the device. This allows, in addition to gaining access to many additional features (like the complete access to the internal memory, the possibility to install other packages, and to edit configurations), also a number of new attacks, like the exfiltration of protected system files, the 'transparent' installation of new applications, or the interception of all the communications (e.g., performing a MITM attack by configuring a system proxy on the device). In the talk we will describe the process that led us to realize the proof-of-concept of a mobile malware, starting from the public sources of a mobile RAT, to the integration of new and customized functionalities. We will also show a live demo of the proof-of-concept, following the steps described above."
 
 - title: "Identifying and Detecting Botnet Behaviors in the Network"
