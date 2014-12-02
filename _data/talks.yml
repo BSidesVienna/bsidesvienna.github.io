@@ -15,7 +15,7 @@
   author: "Fadli B. Sidek"
   author_url: "http://sg.linkedin.com/pub/fadli-b-sidek/68/a65/b38"
   id: 4
-  slides: "/slides/2014/vulnerability_assessments_on_scada_networks_outsmarting_the_smart_grid"
+  slides: "/slides/2014/vulnerability_assessments_on_scada_networks_outsmarting_the_smart_grid.pdf"
   abstract: "Critical Infrastructure security has been on the news and the talk of the town since 2005. While there are many talks and demonstrations about how to penetrate and exploit SCADA systems, little discussions about the pre-exploitation phase were shared and discussed. I'm talking of course about the Vulnerability Assessment phase. Some may have performed such assessment before and many are curious as to how to start it in the first place. Questions like, what are the methodologies used in performing an assessment on SCADA networks? What information is required before we click the 'Start Scan Now' button? What plugins should be used? And do my scans guarantee that these ultra sensitive systems will not go down? And which approach (automatic or manual) should be used in which situation. This talk is to share my personal experience and challenges faced during a SCADA assessment. I will also give an overview of a typical SCADA environment, the tools used for the assessment, the type of vulnerabilities found and how possible it is for an attacker to potentially 'own' a Critical Infrastructure."
 
 - title: "The A and the P of the T"
