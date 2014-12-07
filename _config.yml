@@ -1,6 +1,5 @@
 name: "BSidesVienna"
 description: "BSidesVienna"
-year: 2014
 
 markdown: rdiscount
 permalink: pretty

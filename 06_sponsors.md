@@ -13,7 +13,7 @@ than welcome to participate in any way you feel appropriate.
 
 # Our sponsors
 
-{% for sponsor in site.data.sponsors %}
+{% for sponsor in site.data.2014.sponsors %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 
 [![{{ sponsor.name }}]({{ sponsor.image }} =200x)]({{ sponsor.url }})

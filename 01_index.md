@@ -13,7 +13,7 @@ More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter
 
 # News
 
-{% for news_entry in site.data.news %}
+{% for news_entry in site.data.2014.news %}
 ### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
 {{ news_entry.content }}
 {% endfor %}
@@ -37,10 +37,5 @@ or be old fashioned and send us an e-mail to crew [at] bsidesvienna [dot] at.
 Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for content related to this event.
 
 #### Crew
-
-[azet](https://twitter.com/a_z_e_t)   
-[b00010111](https://twitter.com/b00010111)    
-[FireFart](https://twitter.com/_FireFart_)    
-[MacLemon](https://twitter.com/MacLemon)    
-[Chris John Riley](https://twitter.com/ChrisJohnRiley)  
+{% for member in site.data.2014.crew %}[{{ member.name }}]({{ member.url }})<br />{% endfor %}
 ..and anonymous others
