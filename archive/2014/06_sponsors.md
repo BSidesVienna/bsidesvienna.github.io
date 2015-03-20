@@ -1,8 +1,9 @@
 ---
 title: Sponsors
-layout: default
-year: 2015
-permalink: /sponsors/
+layout: archive
+year: "2014"
+archive: true
+permalink: /archive/2014/sponsors/
 ---
 # Up your karma: sponsor hacker knowledge aquisition
 Getting a community event going (possibly for free) is not easy. We're looking for sponsoring to provide
@@ -14,7 +15,7 @@ than welcome to participate in any way you feel appropriate.
 
 # Our sponsors
 
-{% for sponsor in site.data.2015.sponsors %}
+{% for sponsor in site.data.2014.sponsors %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 
 [![{{ sponsor.name }}]({{ sponsor.image }} =200x)]({{ sponsor.url }})

@@ -50,31 +50,36 @@
     </style>
   </noscript>
 
-  <title>{{ site.name }} 2015 - {{ page.title }} </title>
+  <title>{{ site.name }} - {{ page.title }} </title>
 </head>
 <body>
 <div class="navbar navbar-inverse navbar-fixed-top">
   <div class="navbar-inner">
     <div class="container">
       <button type="button" class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse"></button>
-      <a class="brand" href="/">BSidesVienna 0x7DF</a>
+      <a class="brand" href="/archives/{{ year }}/">Archive {{ year }}</a>
       <div class="nav-collapse collapse">
         <ul class="nav">
+          <li>
+            <a href="/" title="main">Current year</a>
+          </li>
         {% assign sorted_pages = site.pages | sort:"name" %}
           {% for p in sorted_pages %}
-            {% unless p.archive == true %}
-              {% unless p.nomenu == true %}
-                {% if page.url == p.url %}
-                  <li class="active">
-                    <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
-                  </li>
-                {% else %}
-                  <li>
-                    <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
-                  </li>
-                {% endif %}
-              {% endunless %}
-            {% endunless %}
+            {% if p.archive == true %}
+              {% if p.year == year %}
+                {% unless p.nomenu == true %}
+                  {% if page.url == p.url %}
+                    <li class="active">
+                      <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
+                    </li>
+                  {% else %}
+                    <li>
+                      <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
+                    </li>
+                  {% endif %}
+                {% endunless %}
+              {% endif %}
+            {% endif %}
           {% endfor %}
         </ul>
       </div>

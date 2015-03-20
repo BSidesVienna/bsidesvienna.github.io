@@ -1,19 +1,13 @@
 ---
 title: Index
 layout: default
+year: 2015
 permalink: /
 ---
-# Hi there!
-BSidesVienna will open it's doors again in 2014. Be part of it and stay tuned.
-
-Learn more about Security BSides events: [Security BSides](http://www.securitybsides.com/)
-
-More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter.com/BSidesVienna) and on this website.
-
 
 # News
 
-{% for news_entry in site.data.2014.news %}
+{% for news_entry in site.data.2015.news %}
 ### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
 {{ news_entry.content }}
 {% endfor %}
@@ -21,10 +15,10 @@ More information on BSidesVienna 0x7DE will follow [via twitter](https://twitter
 
 # Event details
 #### When
-22.November.2014
+To be defined
 
 #### Where
-[Topkino](venue/)
+To be defined
 
 #### Cost
 F-R-E-E!
@@ -37,5 +31,5 @@ or be old fashioned and send us an e-mail to crew [at] bsidesvienna [dot] at.
 Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for content related to this event.
 
 #### Crew
-{% for member in site.data.2014.crew %}[{{ member.name }}]({{ member.url }})<br />{% endfor %}
+{% for member in site.data.2015.crew %}[{{ member.name }}]({{ member.url }})<br />{% endfor %}
 ..and anonymous others

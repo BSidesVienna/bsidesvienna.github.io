@@ -1,21 +1,8 @@
 ---
 title: Schedule
 layout: default
+year: 2015
 permalink: /schedule/
 ---
 
-|   | Time          | big cinema                                                                                                                          | Time          | small cinema                                                                                           |
-| - | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------ |
-|1  | 10:00 - 10:40 | [Marion Marschalek. The A and the P of the T](/talks/#5)                                                                            | 10:00 - 10:40 | [Dobin Rutishauser. Sentinel - Semi automated web application testing](/talks/#10)                     |
-|2  | 10:45 - 11:25 | [Aljosha Judmayer, Lukas Krammer and Wolfgang Kastner. On the security of security extensions for IP-based KNX networks](/talks/#1) | 10:45 - 11:25 | [Louis Duruflé. OSPF - Open Shortest Pwn First](/talks/#9)                                             |
-|3  | 11:30 - 12:10 | [Paul Coggin. HIJACKING LABEL SWITCHED NETWORKS IN THE CLOUD](/talks/#2)                                                            | 11:30 - 12:10 | [Sebastian Bachmann and Tibor Éliás. Hacking Online Banking Trojans](/talks/#6)                        |
-|4  | 12:10 - 13:10 | LUNCH                                                                                                                               | 12:10 - 13:10 | LUNCH                                                                                                  |
-|5  | 13:10 - 13:50 | [Matthias Deeg. Antivirus Evasion with ShCoLo/ExLo - Why Malware Works in face of Antivirus Software](/talks/#13)                   | 13:10 - 13:50 | [Marco Lancini and Roberto Puricelli. Enhancing Mobile Malware: an Android RAT Case Study](/talks/#16) |
-|6  | 13:55 - 14:35 | [Fadli B. Sidek. Vulnerability Assessments on SCADA Networks: Outsmarting the Smart Grid](/talks/#4)                                | 13:55 - 14:35 | [Lockpicking Talk/Workshop](/talks/#18)<br />(take note: workshop will continue hands-on outside of the track)                                                                |
-|7  | 14:40 - 15:20 | [Candid Wueest. Attack points in health apps & wearable fitness devices](/talks/#8)                                                 | 14:40 - 15:20 | Lightning Talk 1                                                                                       |
-|8  | 15:20 - 15:40 | BREAK<br />(take note: afternoon tracks vary in length)                                                                             | 15:20 - 15:40 | BREAK<br />(take note: afternoon tracks vary in length)                                                                                                  |
-|9  | 15:40 - 16:25 | [Arron Finnon. The wrong side of history - everything that is old is new again](/talks/#7)                                          | 15:40 - 16:20 | [Johannes Stillig. Screw Compliance! Why security standards kill security!](/talks/#12)                |
-|10 | 16:25 - 16:40<br /><br /><hr><br />16:50 - 17:10 | \[CONT.\] [Arron Finnon. The wrong side of history - everything that is old is new again](/talks/#7)<br /></br /><hr></br />[Alex Hutton. Analytics Killed the Risk Management Star](/talks/#15)                                 | 16:25 - 17:05 | [Benjamin Brown. Alternative Cashout Strategies](/talks/#14)                                           |
-|11 | 17:10 - 17:50 | \[CONT.\] [Alex Hutton. Analytics Killed the Risk Management Star](/talks/#15)                                                                | 17:10 - 17:50 | [Miroslav Stampar. Smashing the Buffer](/talks/#11)                                                    |
-|12 | 17:55 - 18:35 | [Sebastian Garcia. Identifying and Detecting Botnet Behaviors in the Network](/talks/#17)                                           | 17:55 - 18:35 | \[CONT.\] [Miroslav Stampar. Smashing the Buffer](/talks/#11)                                           |
-|13 | 18:40 - 18:50 | Closing                                                                                                                             | Closing | (in Big Cinema)                                                                                              |
+To be defined
