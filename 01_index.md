@@ -5,6 +5,13 @@ year: 2015
 permalink: /
 ---
 
+# What is BSides?
+Each BSides is a community-driven framework for building events for and by information security community members.  The goal is to expand the spectrum of conversation beyond the traditional confines of space and time.  It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening.
+
+Learn more about Security BSides events: [Security BSides](http://www.securitybsides.com/)
+
+More information on BSidesVienna 0x7DF will follow [via twitter](https://twitter.com/BSidesVienna) and on this website.
+
 # News
 
 {% for news_entry in site.data.2015.news %}
@@ -15,7 +22,7 @@ permalink: /
 
 # Event details
 #### When
-To be defined
+To be defined but most likely the weekend right after [DeepSec](https://deepsec.net/)
 
 #### Where
 To be defined
