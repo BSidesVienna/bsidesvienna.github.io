@@ -22,7 +22,7 @@ More information on BSidesVienna 0x7DF will follow [via twitter](https://twitter
 
 # Event details
 #### When
-To be defined but most likely the weekend right after [DeepSec](https://deepsec.net/)
+21.November.2015, the weekend right after [DeepSec](https://deepsec.net/)
 
 #### Where
 To be defined
