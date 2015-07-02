@@ -1,5 +1,5 @@
 ---
-title: Call for Papers
+title: CfP
 layout: default
 year: 2015
 permalink: /cfp/
