@@ -38,10 +38,9 @@ or be old fashioned and send us an e-mail to crew [at] bsidesvienna [dot] at.
 Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for content related to this event.
 
 #### Impressions from last year
-[2014 Archive](archive/2014/)
-
-[Photos](http://securityg33k.blogspot.sg/2014/12/bsidesvienna-conference-for-cyber-geeks.html)
+* [2014 Archive](archive/2014/)
+* [Photos](http://securityg33k.blogspot.sg/2014/12/bsidesvienna-conference-for-cyber-geeks.html)
 
 #### Crew
-{% for member in site.data.2015.crew %}[{{ member.name }}]({{ member.url }})<br />{% endfor %}
-..and anonymous others
+* {% for member in site.data.2015.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
+* ..and anonymous others
