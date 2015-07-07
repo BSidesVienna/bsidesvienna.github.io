@@ -22,10 +22,10 @@ More information on BSidesVienna 0x7DF will follow [via twitter](https://twitter
 
 # Event details
 #### When
-21.November 2015, the weekend right after [DeepSec](https://deepsec.net/)
+21.November 2015. That's the saturday right after [DeepSec](https://deepsec.net/).
 
 #### Where
-To be defined
+To be defined.
 
 #### Cost
 F-R-E-E!
