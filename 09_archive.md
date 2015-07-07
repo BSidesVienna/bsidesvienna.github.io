@@ -9,6 +9,6 @@ Archive of old BsidesVienna Events.
 
 {% for year in site.archives %}
 
-[{{ year }}](/archive/{{ year }}/)
+* [{{ year }}](/archive/{{ year }}/)
 
 {% endfor %}
