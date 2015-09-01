@@ -6,4 +6,4 @@ permalink: /venue/
 ---
 
 #Location
-To be defined
+Will be posted at the beginning of October.
