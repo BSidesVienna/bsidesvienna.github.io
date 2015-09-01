@@ -1,3 +1,15 @@
+- name: "DeepSec"
+  url: "https://deepsec.net/"
+  image: "/img/sponsors/2015/deepsec.png"
+
+#- name: "Computerforensic & more"
+#  url: "https://computerforensic.at"
+#  image: "/img/sponsors/2015/computerforensic.png"
+
+- name: "cert.at"
+  url: "https://cert.at/"
+  image: "/img/sponsors/2015/cert_at.jpg"
+
 - name: "Sektor5"
   url: "http://www.sektor5.at"
-  image: "/img/sponsors/sektor5.png"
+  image: "/img/sponsors/2015/sektor5.png"

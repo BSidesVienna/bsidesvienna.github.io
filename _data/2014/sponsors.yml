@@ -1,27 +1,27 @@
 - name: "Ing. Diba"
   url: "https://www.ing-diba.at/"
-  image: "/img/sponsors/ing_diba.png"
+  image: "/img/sponsors/2014/ing_diba.png"
 
 - name: "cert.at"
   url: "https://cert.at/"
-  image: "/img/sponsors/cert_at.jpg"
+  image: "/img/sponsors/2014/cert_at.jpg"
 
 - name: "Defcon Switzerland"
   url: "https://www.defcon-switzerland.org/"
-  image: "/img/sponsors/defcon_switzerland.jpg"
+  image: "/img/sponsors/2014/defcon_switzerland.jpg"
 
 - name: "codeship.io"
   url: "https://codeship.io/"
-  image: "/img/sponsors/codeship_io.png"
+  image: "/img/sponsors/2014/codeship_io.png"
 
 - name: "WKÖ IT-Security Experts"
   url: "https://www.wko.at/itsecurity"
-  image: "/img/sponsors/wko_it_security.png"
+  image: "/img/sponsors/2014/wko_it_security.png"
 
 - name: "BruCON"
   url: "http://www.brucon.org"
-  image: "/img/sponsors/brucon.jpg"
+  image: "/img/sponsors/2014/brucon.jpg"
 
 - name: "DeepSec"
   url: "https://deepsec.net/"
-  image: "/img/sponsors/deepsec.png"
+  image: "/img/sponsors/2014/deepsec.png"
