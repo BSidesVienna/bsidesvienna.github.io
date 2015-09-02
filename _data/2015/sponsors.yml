@@ -2,9 +2,9 @@
   url: "https://deepsec.net/"
   image: "/img/sponsors/2015/deepsec.png"
 
-#- name: "Computerforensic & more"
-#  url: "https://computerforensic.at"
-#  image: "/img/sponsors/2015/computerforensic.png"
+- name: "Computerforensic & more"
+  url: "https://computerforensic.at"
+  image: "/img/sponsors/2015/computerforensic.png"
 
 - name: "cert.at"
   url: "https://cert.at/"
