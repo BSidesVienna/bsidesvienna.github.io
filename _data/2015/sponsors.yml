@@ -10,6 +10,10 @@
   url: "https://cert.at/"
   image: "/img/sponsors/2015/cert_at.jpg"
 
+- name: "PSPDFKit"
+  url: "https://pspdfkit.com/"
+  image: "/img/sponsors/2015/pspdfkit.png"
+
 - name: "Sektor5"
   url: "http://www.sektor5.at"
   image: "/img/sponsors/2015/sektor5.png"
