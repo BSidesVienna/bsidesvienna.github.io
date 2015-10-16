@@ -34,7 +34,8 @@ More information on BSidesVienna 0x7DF will follow [via twitter](https://twitter
 21.November 2015. That's the saturday right after [DeepSec](https://deepsec.net/).
 
 #### Where
-To be defined.
+[NIG - University of Vienna](http://bsidesvienna.at/venue/): Neues
+Intitutsgebäude (NIG): Universitätsstraße 7, 1010 Vienna.
 
 #### Cost
 F-R-E-E!
