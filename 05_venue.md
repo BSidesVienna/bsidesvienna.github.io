@@ -22,6 +22,10 @@ permalink: /venue/
 * [Google Maps](https://goo.gl/maps/MV5p9i8tPYz)
 * [OpenStreetMap](http://osm.org/go/0JrJBqXTd?node=2344185520)
 
+# Afterparty
+
+Still to be defined
+
 # Location pictures
 
 Click for a bigger version
