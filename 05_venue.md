@@ -8,9 +8,9 @@ permalink: /venue/
 #Location
 **Neues Intitutsgebäude (NIG):** Universitätsstraße 7, 1010 Vienna
 
-* [Floorplan](https://zid.univie.ac.at/fileadmin/user_upload/zid/daten/plaene/nig-helpdesk.gif) (German, Ground Floor)
-* [Address and uni. map](https://zid.univie.ac.at/en/nig/)
-* [NIG details](https://event.univie.ac.at/en/venues/room-allocation-for-events/locations-floor-plans-and-photos/neues-institutsgebaeude-nig/)
+* [Floorplan](https://zid.univie.ac.at/fileadmin/user_upload/zid/daten/plaene/nig-helpdesk.gif) (Groundfloor, in german)
+* [Address and university map](https://zid.univie.ac.at/en/nig/)
+* [Details on NIG](https://event.univie.ac.at/en/venues/room-allocation-for-events/locations-floor-plans-and-photos/neues-institutsgebaeude-nig/)
 
 # Public Transport
 * [Plan your Route](http://www.wienerlinien.at/eportal2/ep/channelView.do/channelId/-46649?routeTo=Universit%C3%A4tsstra%C3%9Fe%207) (click 'English' in the upper midsection of the page)
@@ -22,11 +22,9 @@ permalink: /venue/
 
 # Afterparty
 
-Still to be defined
+Will be announced closer to the event date, stay tuned.
 
 # Location pictures
-
-Click for a bigger version
 
 [![NIG](/img/location/2015/NIG_01_thumb.JPG)](/img/location/2015/NIG_01.JPG)
 [![NIG](/img/location/2015/NIG_02_thumb.JPG)](/img/location/2015/NIG_02.JPG)
