@@ -11,6 +11,7 @@ permalink: /venue/
 [Inside NIG](https://zid.univie.ac.at/fileadmin/user_upload/zid/daten/plaene/nig-helpdesk.gif)
 
 [More details](https://zid.univie.ac.at/en/nig/)
+
 [Even More details](https://event.univie.ac.at/en/venues/room-allocation-for-events/locations-floor-plans-and-photos/neues-institutsgebaeude-nig/)
 
 # Public Transport
