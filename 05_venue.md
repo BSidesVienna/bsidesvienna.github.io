@@ -8,7 +8,7 @@ permalink: /venue/
 #Location
 **Neues Intitutsgebäude (NIG):** Universitätsstraße 7, 1010 Vienna
 
-* [Floorplan](https://zid.univie.ac.at/fileadmin/user_upload/zid/daten/plaene/nig-helpdesk.gif)
+* [Floorplan](https://zid.univie.ac.at/fileadmin/user_upload/zid/daten/plaene/nig-helpdesk.gif) (German, Ground Floor)
 * [Address and uni. map](https://zid.univie.ac.at/en/nig/)
 * [NIG details](https://event.univie.ac.at/en/venues/room-allocation-for-events/locations-floor-plans-and-photos/neues-institutsgebaeude-nig/)
 
