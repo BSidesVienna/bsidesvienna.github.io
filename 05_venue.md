@@ -8,7 +8,7 @@ permalink: /venue/
 #Location
 **Neues Intitutsgebäude (NIG):** Universitätsstraße 7, 1010 Vienna, Groundfloor
 
-* [Groundfloor plan on Google Maps](https://goo.gl/maps/sF5gHcXSgyq)
+* [Floorplan (on Google Maps)](https://goo.gl/maps/sF5gHcXSgyq)
 * [Address and university map](https://zid.univie.ac.at/en/nig/)
 * [Details on NIG](https://event.univie.ac.at/en/venues/room-allocation-for-events/locations-floor-plans-and-photos/neues-institutsgebaeude-nig/)
 
@@ -26,7 +26,7 @@ Will be announced closer to the event date, stay tuned.
 
 # Location pictures
 
-[![NIG](/img/location/2015/nig_floor_plan_thumb.png)](/img/location/2015/nig_floor_plan.png)
+[![NIG](/img/location/2015/NIG_floor_plan_thumb.png)](/img/location/2015/NIG_floor_plan.png)
 [![NIG](/img/location/2015/NIG_01_thumb.JPG)](/img/location/2015/NIG_01.JPG)
 [![NIG](/img/location/2015/NIG_02_thumb.JPG)](/img/location/2015/NIG_02.JPG)
 [![NIG](/img/location/2015/NIG_03_thumb.JPG)](/img/location/2015/NIG_03.JPG)
