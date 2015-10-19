@@ -5,5 +5,5 @@ year: 2015
 permalink: /registration/
 ---
 # Registration
-Registration will be available once we publish the venue location
-(expect beginning of october).
+
+Register [HERE](https://www.eventbrite.com/e/bsidesvienna-2015-tickets-19155639032)
