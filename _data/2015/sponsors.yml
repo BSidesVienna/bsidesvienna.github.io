@@ -1,0 +1,27 @@
+- name: "DeepSec"
+  url: "https://deepsec.net/"
+  image: "/img/sponsors/2015/deepsec.png"
+
+- name: "ACOnet"
+  url: "http://www.aco.net/"
+  image: "/img/sponsors/2015/aconet.jpg"
+
+- name: "Computerforensic & more"
+  url: "https://computerforensic.at"
+  image: "/img/sponsors/2015/computerforensic.png"
+
+- name: "cert.at"
+  url: "https://cert.at/"
+  image: "/img/sponsors/2015/cert_at.jpg"
+
+- name: "PSPDFKit"
+  url: "https://pspdfkit.com/"
+  image: "/img/sponsors/2015/pspdfkit.png"
+
+- name: "FH Joanneum"
+  url: "https://www.fh-joanneum.at/ims/"
+  image: "/img/sponsors/2015/fh_joanneum.png"
+
+- name: "Sektor5"
+  url: "http://www.sektor5.at"
+  image: "/img/sponsors/2015/sektor5.png"
