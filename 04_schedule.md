@@ -5,6 +5,8 @@ year: "2015"
 permalink: /schedule/
 ---
 
+21st of November, 2015 starting at 10:00.
+
 |   | Time          | Track 1  | Time | Track 2  |
 | - | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------ |
 |1  | 10:00 - 10:45 | [Tobias Zillner - ZigBee Smart Homes - A Hacker's Open House](/talks/#7) | 10:00 - 10:45 | [Julie Gommes - Cryptography tools, identity vectors for djihadists](/talks/#1)  | 
