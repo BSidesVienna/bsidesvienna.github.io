@@ -53,11 +53,6 @@
   id: 11
   abstract: "In the talk I will talk about the problems of PDFs in the context of web browsers and websites:<br /><ul><li>Why allowing the upload a PDF on the main domain could put users information to risk (Same origin access via FormCalc)</li><li> What can go wrong with the built-in privileged javascript (Local File Access)</li><li>Why embedding  a PDF can be a risk (XSS)</li><li>Some XXE Vulnerabilites (XXE is always fun)</li></ul>"
 
-- title: ""
-  author: ""
-  id: 12
-  abstract: ""
-
 - title: "Lockpicking"
   author: ""
   author_url: ""
@@ -94,23 +89,11 @@
   id: 18
   abstract: "Last year I started the Fuzzing Project as a coordinated effort to fuzz free software applications. Although fuzzing is a very old and well known technology, it turned out that it is trivial to find potential security vulnerabilities with fuzzing in many widely used free software packages.<br />Over the past year I reported hundreds of bugs found via fuzzing, some of them in important packages like GnuPG, OpenSSH and OpenSSL. In May the Linux Foundation's Core Infrastructure Initiative decided to fund my work.<br />While fuzzing is usually used to find typical memory corruption bugs like buffer overflows and use after free errors surprisingly it is also able to find bugs of a very different kind, for example crashes in UI interactions or calculation bugs in bignum math libraries.<br />Out software base could be a lot safer if we'd just use the tools that are readily available today. The fuzzing tool american fuzzy lop (afl) has redefined the state of the art in fuzzing and Address Sanitizer is a mighty compiler feature that is able to find many hidden memory corruption issues.<br />Lately I've also investigated the possibility to use Address Sanitizer in production code by compiling a full Linux system with it."
 
-- title: ""
-  author: ""
-  author_url: ""
-  id: 19
-  abstract: ""
-
 - title: "La Quadrature Du Cercle – The APTs That Weren’t"
   author: "Marion Marschalek"
   author_url: "http://www.0x1338.at/"
   id: 20
   abstract: "For more than two decades classical threat detection has painted the world black and white. Offense and defense were fighting each other like on the battlefields of Tattooine, not realizing how compartments started to shift years ago. Lines between enemies and defenders have blurred, the good guys now write exploits, malware authors from yesterday turned into well-paid contractors serving legitimate companies. Security vendors on the other hand have developed a habit of ‚threat watching‘ over the old-school ‚threat detection‘, propelling marketing campaigns and fueling political debate.<br />Today’s internet is no-mans-land where use of malicious software becomes a question of moral instead of a legal one. This talk focusses on the other side of APT, where nation states and law enforcement agencies mix in with the average criminal. What’s the risk coming from exotic nation state malware? Which countries are active on this sector, which ones rather just want to be?"
-
-- title: ""
-  author: ""
-  author_url: ""
-  id: 21
-  abstract: ""
 
 - title: "The Psychology of Security"
   author: "Stefan Schumacher"
