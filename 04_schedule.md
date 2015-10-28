@@ -16,7 +16,8 @@ permalink: /schedule/
 |4  | 18:30 - 19:00 | Closing (in big auditorium)      |
 |   | Time          | Track 1  | Time | Track 2  |
 
-</br></br>
+<br /><br />
+
 
 | - | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------ |
 |1  | 10:00 - 10:45 | [Tobias Zillner - ZigBee Smart Homes - A Hacker's Open House](/talks/#7) | 10:00 - 10:45 | [Julie Gommes - Cryptography tools, identity vectors for djihadists](/talks/#1)  | 
