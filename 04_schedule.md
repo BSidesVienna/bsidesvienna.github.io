@@ -7,7 +7,17 @@ permalink: /schedule/
 
 21st of November, 2015 starting at 10:00.
 
+
+|   | Time          | Workshops |
+| - | ------------- | --------- |
+|1  | 10:00 - 13:00 | [Klaus Gebeshuber - Writing your first windows exploit in less than one hour](/talks/#15) |
+|2  | 13:00 - 14:00 | LUNCH |
+|3  | 14:00 - 18:00 | [Lockpicking](/talks/#13) |
+|4  | 18:30 - 19:00 | Closing (in big auditorium)      |
 |   | Time          | Track 1  | Time | Track 2  |
+
+</br></br>
+
 | - | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------ |
 |1  | 10:00 - 10:45 | [Tobias Zillner - ZigBee Smart Homes - A Hacker's Open House](/talks/#7) | 10:00 - 10:45 | [Julie Gommes - Cryptography tools, identity vectors for djihadists](/talks/#1)  | 
 |2  | 10:45 - 11:25 | [Matthias Deeg - Privilege Escalation via Client Management Software](/talks/#5)  | 10:45 - 11:25 | [David C. Lewis - Digital Supply Chain: The Exposed Flank](/talks/#2)   |
@@ -22,12 +32,3 @@ permalink: /schedule/
 |11 | 17:00 - 17:40 <br /><br /><hr><br /> 17:40 - 18:20| [Bernhard Garn and Dimitris Simos - Combinatorial Security Testing](/talks/#23) <br /><br /><hr><br /> [Clemens Hlauschek - KCI-based Man-in-the-Middle Attacks against TLS](/talks/#24) | 17:00 - 18:20 | [Stefan Schumacher - The Psychology of Security](/talks/#22)   |
 |13 | 18:30 - 19:00 | Closing    | 18:30 - 19:00 | Closing |
 
-<br /><br />
-
-
-|   | Time          | Workshops |
-| - | ------------- | --------- |
-|1  | 10:00 - 13:00 | [Klaus Gebeshuber - Writing your first windows exploit in less than one hour](/talks/#15) |
-|2  | 13:00 - 14:00 | LUNCH |
-|3  | 14:00 - 18:00 | [Lockpicking](/talks/#13) |
-|4  | 18:30 - 19:00 | Closing (in big auditorium)      |
