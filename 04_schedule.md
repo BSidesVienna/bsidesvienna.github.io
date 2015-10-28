@@ -14,7 +14,6 @@ permalink: /schedule/
 
 <br /><br />
 
-
 |   | Time          | Track 1  | Time | Track 2  |
 | - | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------ |
 |1  | 10:00 - 10:45 | [Tobias Zillner - ZigBee Smart Homes - A Hacker's Open House](/talks/#7) | 10:00 - 10:45 | [Julie Gommes - Cryptography tools, identity vectors for djihadists](/talks/#1)  | 
@@ -29,4 +28,3 @@ permalink: /schedule/
 |10 | 16:20 - 17:00 | [Hanno Böck - The Fuzzing Project, one year later](/talks/#18) | 16:20 - 17:00 | [Albert Rafetseder - The EVVA SALTO electronic locking system is defective by design](/talks/#25)   |
 |11 | 17:00 - 17:40 <br /><br /><hr><br /> 17:40 - 18:20| [Bernhard Garn and Dimitris Simos - Combinatorial Security Testing](/talks/#23) <br /><br /><hr><br /> [Clemens Hlauschek - KCI-based Man-in-the-Middle Attacks against TLS](/talks/#24) | 17:00 - 18:20 | [Stefan Schumacher - The Psychology of Security](/talks/#22)   |
 |13 | 18:30 - 19:00 | Closing    | 18:30 - 19:00 | Closing |
-
