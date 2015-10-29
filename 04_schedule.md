@@ -5,6 +5,8 @@ year: "2015"
 permalink: /schedule/
 ---
 
+21st of November, 2015 - starting at 10:00.
+
 |   | Time          | Workshops |
 | - | ------------- | --------- |
 |1  | 10:00 - 13:00 | [Klaus Gebeshuber - Writing your first windows exploit in less than one hour](/talks/#15) |
