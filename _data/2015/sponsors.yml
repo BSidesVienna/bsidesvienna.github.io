@@ -25,3 +25,7 @@
 - name: "Sektor5"
   url: "http://www.sektor5.at"
   image: "/img/sponsors/2015/sektor5.png"
+
+- name: "SBA-Research"
+  url: "https://www.sba-research.org"
+  image: "/img/sponsors/2015/sba.png"
