@@ -10,7 +10,16 @@ permalink: /venue/
 
 * [Floorplan](https://goo.gl/maps/sF5gHcXSgyq) (on Google Maps)
 * [Address and university map](https://zid.univie.ac.at/en/nig/)
-* [Details on NIG](https://event.univie.ac.at/en/venues/room-allocation-for-events/locations-floor-plans-and-photos/neues-institutsgebaeude-nig/)
+* [Details on NIG](https://event.univie.ac.at/en/venues/room-allocation-for-events/locations-floor-plans-and-photos/neues-institutsgebaeude-nig/):
+
+```Plaintext
+ An inscription on a staircase wall of the NIG building cites one of the
+ central pillars of academic freedom – “Knowledge and its teaching are
+ free” – as enshrined in Austria’s Basic Law of 1867, which remains in
+ force to this day.
+ ```
+
+<br />
 
 # Public Transport
 * [Plan your Route](http://www.wienerlinien.at/eportal2/ep/channelView.do/channelId/-46649?routeTo=Universit%C3%A4tsstra%C3%9Fe%207) (click 'English' in the upper midsection of the page)
