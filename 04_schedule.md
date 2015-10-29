@@ -5,7 +5,7 @@ year: "2015"
 permalink: /schedule/
 ---
 
-21st of November, 2015 - starting at 10:00.
+21st of November, 2015 - starting at 10:00. Lingua hacker: English.
 
 |   | Time          | Workshops |
 | - | ------------- | --------- |
