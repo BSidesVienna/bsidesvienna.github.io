@@ -6,6 +6,14 @@
   url: "http://www.aco.net/"
   image: "/img/sponsors/2015/aconet.jpg"
 
+- name: "SBA-Research"
+  url: "https://www.sba-research.org"
+  image: "/img/sponsors/2015/sba.png"
+
+- name: "Ing. Diba"
+  url: "https://www.ing-diba.at/"
+  image: "/img/sponsors/2015/ing_diba.png"
+
 - name: "Computerforensic & more"
   url: "https://computerforensic.at"
   image: "/img/sponsors/2015/computerforensic.png"
@@ -22,10 +30,10 @@
   url: "https://www.fh-joanneum.at/ims/"
   image: "/img/sponsors/2015/fh_joanneum.png"
 
+- name: "Metalab"
+  url: "https://metalab.at/"
+  image: "/img/sponsors/2015/metalab.png"
+
 - name: "Sektor5"
   url: "http://www.sektor5.at"
   image: "/img/sponsors/2015/sektor5.png"
-
-- name: "SBA-Research"
-  url: "https://www.sba-research.org"
-  image: "/img/sponsors/2015/sba.png"
