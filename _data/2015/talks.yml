@@ -118,3 +118,10 @@
   author_url: ""
   id: 25
   abstract: "<s>Our insights include:<br /><ul> <li>The electronic keys in use (Maxim Integrated's DS2433 &quot;iButton&quot; [1]) don't require any authentication before being read out (or written to) by either an electronic lock, or actually anything that speaks the 1-Wire protocol [2].</li><li>The interface between doors and locks is trivially interceptable, e.g. using a laptop soundcard and a chopped-up audio cable.</li><li>We used this method to reverse-engineer<ul><li>how door locks communicate with keys (read access permissions, append to access log),</li><li>what network-connected door locks do (read permissions, read out full access logs), and</li><li>how parts of the data structure stored on the keys work.</li></ul></li><li>Using an Arduino, an existing 1-Wire library [3] and 30 additional lines of C code, we reprogrammed the key.</li><li>Turns out that the lock also trusts the key, e.g. happily dereferences a write pointer that we can control, so that we can prevent the lock from writing to the access log, or make a networked lock think the access log is empty.<br />(We found all of the above just by looking at one physical SALTO installation, plus publicly available datasheets.)<br /> In the talk we would explain the 1-Wire protocol, discuss how we set out to map the things we know now, and what further experiments for active exploration we deemed worthwhile but didn't get a chance to implement. (One apparent thing would be cloning an existing key into a non-SALTO 1-Wire speaking device).</s>"
+
+
+- title: "Crypto Wars 2.0"
+  author: "Michael Jack"
+  author_url: ""
+  id: 26
+  abstract: "A walk through the history of modern cryptography, it's spread and subsequent scrambling by governments to control the technology. The main focus will be the renewed efforts by governments to control crypto, circa 2012 onwards, with a quick background in the first crypto wars circa 1990s. I'll finish with a more positive countermeasures section."

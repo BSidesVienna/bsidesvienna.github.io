@@ -28,7 +28,7 @@ permalink: /schedule/
 |7  | 14:40 - 15:20 | [Philipp Krenn - The AWS Survival Guide](/talks/#9)  | 14:40 - 15:20 | [Theresa - OSSEC-HIDS](/talks/#14)   |
 |8  | 15:20 - 15:40 | BREAK<br /> | 15:20 - 15:40 | BREAK<br /> |
 |9  | 15:40 - 16:20 | [Dr.-Ing. Juraj Somorovsky - Practical Invalid Curve Attacks on TLS-ECDH](/talks/#17) | 15:40 - 16:20 | [Sebastian Neuner - Steganography in File-system metadata](/talks/#16)   |
-|10 | 16:20 - 17:00 | [Hanno Böck - The Fuzzing Project, one year later](/talks/#18) | 16:20 - 17:00 | <b>CANCELED</b> - <s>[Albert Rafetseder - The EVVA SALTO electronic locking system is defective by design](/talks/#25)</s> - <b>CANCELED</b>   |
+|10 | 16:20 - 17:00 | [Hanno Böck - The Fuzzing Project, one year later](/talks/#18) | 16:20 - 17:00 | [Michael Jack - Crypto Wars 2.0](/talks/#26) <br /><b>CANCELED</b> - <s>[Albert Rafetseder - The EVVA SALTO electronic locking system is defective by design](/talks/#25)</s> - <b>CANCELED</b>   |
 |11 | 17:00 - 17:40 <br /><br /><hr><br /> 17:40 - 18:20| [Bernhard Garn and Dimitris Simos - Combinatorial Security Testing](/talks/#23) <br /><br /><hr><br /> [Clemens Hlauschek - KCI-based Man-in-the-Middle Attacks against TLS](/talks/#24) | 17:00 - 18:20 | [Stefan Schumacher - The Psychology of Security](/talks/#22)   |
 |13 | 18:30 - 19:00 | Closing    | 18:30 - 19:00 | Closing |
 |xx | 19:00 - ???   | Afterparty @ Metalab | 19:00 - ??? | Afterparty @ Metalab |
