@@ -24,7 +24,7 @@ permalink: /schedule/
 |3  | 11:25 - 12:05 | [René Freingruber - A case study on the security of application whitelisting](/talks/#6)  | 11:25 - 12:05 | [Daniel Liber - Pole Vaulting over Agile Security Pits](/talks/#4)   |
 |4  | 12:05 - 13:00 | [Marion Marschalek - La Quadrature Du Cercle – The APTs That Weren’t](/talks/#20)  | 12:05 - 13:00 | [Sebastian Wagner and Aaron Kaplan - Incident Handling Automation with intelmq](/talks/#10)   |
 |5  | 13:00 - 14:00 | LUNCH   | 13:00 - 14:00 | LUNCH   |
-|6  | 14:00 - 14:40 | <b>CANCELED</b> - <s>[Martin Schmiedecker - Forensics at Scale](/talks/#8)</s> - <b>CANCELED</b>  | 14:00 - 14:40 | [Alexander Inführ - Mess with the web](/talks/#11)  |
+|6  | 14:00 - 14:40 | Atrox - Hollywood Hacking (spontanous) <b>CANCELED</b> - <s>[Martin Schmiedecker - Forensics at Scale](/talks/#8)</s> - <b>CANCELED</b>  | 14:00 - 14:40 | [Alexander Inführ - Mess with the web](/talks/#11)  |
 |7  | 14:40 - 15:20 | [Philipp Krenn - The AWS Survival Guide](/talks/#9)  | 14:40 - 15:20 | [Theresa - OSSEC-HIDS](/talks/#14)   |
 |8  | 15:20 - 15:40 | BREAK<br /> | 15:20 - 15:40 | BREAK<br /> |
 |9  | 15:40 - 16:20 | [Dr.-Ing. Juraj Somorovsky - Practical Invalid Curve Attacks on TLS-ECDH](/talks/#17) | 15:40 - 16:20 | [Sebastian Neuner - Steganography in File-system metadata](/talks/#16)   |
