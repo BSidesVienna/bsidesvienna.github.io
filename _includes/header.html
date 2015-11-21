@@ -4,6 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
+  <meta name="twitter:site" content="@BSidesVienna">
+  <meta property="og:site_name" content="{{ site.name | xml_escape }}" />
+  <meta property="og:title" content="{{ page.title | xml_escape }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+
   <!-- Theme from https://github.com/kristopolous/BOOTSTRA.386 -->
   <link rel="stylesheet" type="text/css" href="/stylesheets/bootstrap.min.css" media="screen">
   <link rel="stylesheet" type="text/css" href="/stylesheets/bootstrap-responsive.min.css" media="screen">

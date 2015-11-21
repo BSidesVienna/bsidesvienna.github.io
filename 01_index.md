@@ -17,7 +17,7 @@ permalink: /
 #### What's BsidesVienna?
 BSides is a community organized series of events all over the world promoting independent security research and education as well as discourse and collaboration within the community. We think it's important to have a Bsides in Vienna as these events have spread globally by now and are an important source of input to the information security community (more information on what Bsides events are and how they're organized is available at [securitybsides.com](http://www.securitybsides.com)). Bsides usually go hand-in-hand with the famous "hallway track", as these events are free and have less of a commercial/academic conference - then a meetup - atmosphere, many people just come to talk to old friends, get new perspectives and chat with people they've never met before. Of course, there are always great talks and workshops and that's the main focus of every Bsides event!
 
-Last year, due to all the amazing speakers that joined us to share their knowledge, we had an [incredible schedule](http://bsidesvienna.at/archive/2014/schedule/) and [many talks](http://bsidesvienna.at/archive/2014/talks/) on par with top tier conferences in the field. The Lockpicking workshop and free drinks were received very well too. In the evening we screened 'WarGames' in one of the cinemas. We hope to provide a similar atmosphere and top-notch presentations on current topics and, possibly, extended workshops. This depends on your contribution, submit your research and [present it to our crowd](cfp/).
+Last year, due to all the amazing speakers that joined us to share their knowledge, we had an [incredible schedule](archive/2014/schedule/) and [many talks](archive/2014/talks/) on par with top tier conferences in the field. The Lockpicking workshop and free drinks were received very well too. In the evening we screened 'WarGames' in one of the cinemas. We hope to provide a similar atmosphere and top-notch presentations on current topics and, possibly, extended workshops. This depends on your contribution, submit your research and [present it to our crowd](cfp/).
 
 More information on BSidesVienna 0x7DF will follow [via twitter](https://twitter.com/BSidesVienna) and on this website.
 
@@ -33,7 +33,7 @@ More information on BSidesVienna 0x7DF will follow [via twitter](https://twitter
 21.November 2015. That's the saturday right after [DeepSec](https://deepsec.net/).
 
 #### Where
-[NIG (Neues Instituts Gebaeude) - University of Vienna](http://bsidesvienna.at/venue/).
+[NIG (Neues Instituts Gebaeude) - University of Vienna](venue/).
 
 #### Cost
 F-R-E-E!
