@@ -45,7 +45,6 @@
 
 - title: "Mess with the web"
   author: "Alexander Inführ"
-  author_url: ""
   id: 11
   abstract: "In the talk I will talk about the problems of PDFs in the context of web browsers and websites:<br /><ul><li>Why allowing the upload a PDF on the main domain could put users information to risk (Same origin access via FormCalc)</li><li> What can go wrong with the built-in privileged javascript (Local File Access)</li><li>Why embedding  a PDF can be a risk (XSS)</li><li>Some XXE Vulnerabilites (XXE is always fun)</li></ul>"
 
@@ -57,7 +56,6 @@
 
 - title: "OSSEC-HIDS"
   author: "Theresa"
-  author_url: ""
   id: 14
   abstract: "Logfile Analysis is the staff of life of every sysadmin or developer. You have to read and understand logfiles in order to troubleshoot the problem.<br />This is especially critical when it comes to security incidents, e.g intrusions. OSSEC is pretty good at that.<br />I'd like to show that by combining OSSEC with the very popular ELK stack (Elasticsearch, Logstash, Kibana) you can get a pretty decent open-source SIEM. It might not be as professional as the commercial ones, but it does a pretty good job. With a bit of customization you can build Compliance dashboards (e.g PCI DSS, CIS).<br />This would be more in a show & tell fashion...<br />I would also like to show the rootkit detection module in OSSEC. Currently it checks locally for rootkits, checks for suspicious files. It also tries to scan for CIS hardening procedures, unfortunately this is very incomplete yet, and there are considerations to replace it with OpenSCAP to reach its full potential.<br />With this presentation I want to raise awareness of OSSEC and highlight its potential as a decent host intrusion detection system. My hope is that afterwards some people might participate in the development of OSSEC (after all it's on github)"
 
@@ -76,14 +74,12 @@
 
 - title: "Practical Invalid Curve Attacks on TLS-ECDH"
   author: "Dr.-Ing. Juraj Somorovsky"
-  author_url: ""
   id: 17
   abstract: "Elliptic Curve Cryptography (ECC) is based on cyclic groups, where group elements are represented as points in a finite plane. All ECC cryptosystems implicitly assume that only valid group elements will be processed by the different cryptographic algorithms. It is well-known that a check for group membership of given points in the plane should be performed before processing.<br />However, in several widely used cryptographic libraries we analyzed, this check was missing, in particular in the popular ECC implementations of Oracle and Bouncy Castle. We analyze the effect of this missing check on Oracle’s default Java TLS implementation (JSSE with a SunEC provider) and TLS servers using the Bouncy Castle library. It turns out that the effect on the security of TLS-ECDH is devastating. We describe an attack that allows to extract the long-term private key from a TLS server that uses such a vulnerable library. This allows an attacker to impersonate the legitimate server to any communication partner, after performing the attack only once."
   slides: "/slides/2015/practical_invalid_curve_attacks_on_tls-ecdh.pdf"
 
 - title: "The Fuzzing Project – one year later"
   author: "Hanno Böck"
-  author_url: ""
   id: 18
   abstract: "Last year I started the Fuzzing Project as a coordinated effort to fuzz free software applications. Although fuzzing is a very old and well known technology, it turned out that it is trivial to find potential security vulnerabilities with fuzzing in many widely used free software packages.<br />Over the past year I reported hundreds of bugs found via fuzzing, some of them in important packages like GnuPG, OpenSSH and OpenSSL. In May the Linux Foundation's Core Infrastructure Initiative decided to fund my work.<br />While fuzzing is usually used to find typical memory corruption bugs like buffer overflows and use after free errors surprisingly it is also able to find bugs of a very different kind, for example crashes in UI interactions or calculation bugs in bignum math libraries.<br />Out software base could be a lot safer if we'd just use the tools that are readily available today. The fuzzing tool american fuzzy lop (afl) has redefined the state of the art in fuzzing and Address Sanitizer is a mighty compiler feature that is able to find many hidden memory corruption issues.<br />Lately I've also investigated the possibility to use Address Sanitizer in production code by compiling a full Linux system with it."
   slides: "/slides/2015/the_fuzzing_project.pdf"
@@ -96,32 +92,27 @@
 
 - title: "The Psychology of Security"
   author: "Stefan Schumacher"
-  author_url: ""
   id: 22
   abstract: "IT Security is often considered to be a technical problem. However, IT Security is about decisions made by humans and should therefore be researched with psychological methods. Technical/Engineering methods are not able to solve security problems. In this talk I will introduce the Institute’s research programme about the Psychology of Security. We are going to research the psychological basics of IT security, including:<ul><li>How do people experience IT security?</li><li>How are they motivated?</li><li>How do they learn?</li><li>Why do people tend to make the same mistakes again and again (Buffer Overflow, anyone?)?</li><li>What can we do to prevent security incidents?</li><li>Which curricula should be taught about IT security?</li></ul>"
 
 - title: "Combinatorial Security Testing"
   author: "Bernhard Garn and Dimitris Simos"
-  author_url: ""
   id: 23
   abstract: "In this talk, we give an overview of &quot;Combinatorial Security Testing (CST)&quot;, a recently established branch of Combinatorial Testing (CT). We show how structure in the test case generation process of software testing can be leveraged to reveal security vulnerabilities. We present two applications of CST: XSS and operating system kernel testing. XSS is  among the top ten most critical web application security risks  according to OWASP. Applying CST can not only significantly increase the quality of software, but can provide mathematical guarantees of trustworthiness that in particular certain security properties are respected by an implementation. We conclude with some open problems and future directions for research."
 
 - title: "KCI-based Man-in-the-Middle Attacks against TLS"
   author: "Clemens Hlauschek"
-  author_url: ""
   id: 24
   abstract: "Transport Layer Security (TLS) is the most important standard to secure communication cryptographically on the Internet. The TLS protocol is the result of an ad-hoc design that evolved over the last two decades -- technically an historically grown mess. The TLS specification includes a vast baggage of different handshake and encryption options, some of which have been deliberately inserted during the crypto wars of the 90ies as government backdoors, which led to the discovery of the so-called logjam attack as late as 2015; other cryptographically weak options have been added to the protocol for reasons unknown to mere mortals. This talk will focus on KCI-vulnerable cipher suites [0], which we have recently demonstrated at an academic conference (USENIX WOOT'15: Prying Open Pandora's Box [1]) to be exploitable in real-world scenarios. Although probably nobody on the Internet intentionally uses KCI-vulnerable cipher suites, we found TLS client libraries that nevertheless implemented these lesser known corners of the TLS specification. In addition to explaining the technical details of the attacks, we will live-demo for the first time in front of a security/hacker crowd a successful MitM attack against a well-known target site by forcing an unpatched client to use KCI-vulnerable cipher suites. In addition, we will discuss new, hitherto not publicly discussed attack vectors to carry out a successful KCI-based attack. We will conclude the talk with hints for further promising research directions."
 
 - title: "Crypto Wars 2.0"
   author: "Michael Jack"
-  author_url: ""
   id: 26
   abstract: "A walk through the history of modern cryptography, it's spread and subsequent scrambling by governments to control the technology. The main focus will be the renewed efforts by governments to control crypto, circa 2012 onwards, with a quick background in the first crypto wars circa 1990s. I'll finish with a more positive countermeasures section."
   slides: "/slides/2015/crypto_wars_2.0.pdf"
 
 - title: "Hollywood Hacking"
   author: "Adrian Dabrowski"
-  author_url: ""
   id: 27
   abstract: "-"
 
