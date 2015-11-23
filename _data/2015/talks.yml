@@ -63,9 +63,10 @@
 
 - title: "Writing your first windows exploit in less than one hour - Workshop"
   author: "Klaus Gebeshuber"
-  author_url: ""
+  author_url: "https://www.fh-joanneum.at/ims/"
   id: 15
   abstract: "Starting with some basics about stack layout, function calling, buffer overflows, overwriting return addresses and  finding such vulnerabilities in software products we will explore some hands on examples - doing a straight forward exploit development with disabled mitigation mechanisms of modern operating systems. Trigger a buffer overflow using fuzzing techniques, working with an attached  debugger, analyze registers after a crash, find the right offset to overwrite registers, create a shell code, find a way to jump to the shell code, encode the shell code and execute it. Now, you will have your first working windows exploit in your pocket.<br />At the end of the workshop, there is room for discussions. We will talk about exploit mitigation techniques like ASLR, DEP, SafeSEH, SEHOP, Stack canaries and some bypassing methods  using advanced exploitation techniques.<br /><br /><strong>Please pay attention to the requirement for this workshop:</strong><br /><ul><li>Bring your own computer with</li><li>KALI Linux 1 od. 2  - as VM oder native</li><li>VMWare Image with Win-XP SP3</li></ul>"
+  slides: "/slides/2015/exploit_workshop.pdf"
 
 - title: "Steganography in File-system Metadata"
   author: "Sebastian Neuner"
@@ -122,19 +123,6 @@
   author: "Adrian Dabrowski"
   author_url: ""
   id: 27
-  abstract: "-"
-
-- title: "Exploit Workshop"
-  author: "Klaus Gebeshuber"
-  author_url: "https://www.fh-joanneum.at/ims/"
-  id: 28
-  abstract: "-"
-  slides: "/slides/2015/exploit_workshop.pdf"
-
-- title: "Lockpicking Workshop"
-  author: "Openlocks.at"
-  author_url: "http://openlocks.at/"
-  id: 29
   abstract: "-"
 
 - title: "Closing Track"
