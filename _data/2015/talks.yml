@@ -36,6 +36,7 @@
   author: "Philipp Krenn"
   id: 9
   abstract: "AWS provides a vast amount of services — some are made explicitly for security purposes others only touch the subject.<br />This is a hands-on talk about the most important components for a security minded deployment; starting off on the network layer (VPC, security groups, and network ACLs), covering specific services (like instances, caches, and databases), and concluding how to monitor and log all the things. In addition we take a look at data encryption for storage and databases as well as the key managment options."
+  slides: "/slides/2015/the_aws_survival_guide.pdf"
 
 - title: "Incident Handling Automation with intelmq"
   author: "Sebastian Wagner and Aaron Kaplan"
