@@ -59,6 +59,7 @@
   author: "Theresa"
   id: 14
   abstract: "Logfile Analysis is the staff of life of every sysadmin or developer. You have to read and understand logfiles in order to troubleshoot the problem.<br />This is especially critical when it comes to security incidents, e.g intrusions. OSSEC is pretty good at that.<br />I'd like to show that by combining OSSEC with the very popular ELK stack (Elasticsearch, Logstash, Kibana) you can get a pretty decent open-source SIEM. It might not be as professional as the commercial ones, but it does a pretty good job. With a bit of customization you can build Compliance dashboards (e.g PCI DSS, CIS).<br />This would be more in a show & tell fashion...<br />I would also like to show the rootkit detection module in OSSEC. Currently it checks locally for rootkits, checks for suspicious files. It also tries to scan for CIS hardening procedures, unfortunately this is very incomplete yet, and there are considerations to replace it with OpenSCAP to reach its full potential.<br />With this presentation I want to raise awareness of OSSEC and highlight its potential as a decent host intrusion detection system. My hope is that afterwards some people might participate in the development of OSSEC (after all it's on github)"
+  slides: "/slides/2015/ossec_hids.pdf"
 
 - title: "Writing your first windows exploit in less than one hour - Workshop"
   author: "Klaus Gebeshuber"
