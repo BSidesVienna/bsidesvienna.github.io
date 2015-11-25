@@ -20,6 +20,7 @@
   author: "Matthias Deeg"
   id: 5
   abstract: "Software products requiring high privileges, usually administrative rights, in order to perform their functions are an interesting target for attackers, because vulnerabilities in such software products may be leveraged for privilege escalation attacks.<br />In this talk, it will be shown how vulnerabilities in popular, widely-used client management software products can be exploited for escalating privileges."
+  slides: "/slides/2015/privilege_escalation_via_client_management_software.pdf"
 
 - title: "A case study on the security of application whitelisting"
   author: "René Freingruber"
