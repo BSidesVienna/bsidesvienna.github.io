@@ -76,6 +76,7 @@
   author_url: "https://twitter.com/sebastian9er"
   id: 16
   abstract: "I present you a new technique to hide data in file system metadata, in particular using timestamp information. For this approach usable, are all file systems with nano-second granularity, meaning major file systems like NTFS and ext4. Considering the PoC, the amount of hidable data is about 1 megabyte on a typical drive with 160.000 files (initial Windows 8 installation). This embedded data is protected by error correcting codes and strong encryption. Due to the required indistinguishability of encrypted data to random data, the embedded data is also indistinguishable for an adversary."
+  slides: "/slides/2015/steganography_in_file_system_metadata.pdf"
 
 - title: "Practical Invalid Curve Attacks on TLS-ECDH"
   author: "Dr.-Ing. Juraj Somorovsky"
@@ -100,6 +101,7 @@
   author: "Stefan Schumacher"
   id: 22
   abstract: "IT Security is often considered to be a technical problem. However, IT Security is about decisions made by humans and should therefore be researched with psychological methods. Technical/Engineering methods are not able to solve security problems. In this talk I will introduce the Institute’s research programme about the Psychology of Security. We are going to research the psychological basics of IT security, including:<ul><li>How do people experience IT security?</li><li>How are they motivated?</li><li>How do they learn?</li><li>Why do people tend to make the same mistakes again and again (Buffer Overflow, anyone?)?</li><li>What can we do to prevent security incidents?</li><li>Which curricula should be taught about IT security?</li></ul>"
+  slides: "/slides/2015/the_psychology_of_security.pdf"
 
 - title: "Combinatorial Security Testing"
   author: "Bernhard Garn and Dimitris Simos"
