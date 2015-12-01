@@ -8,6 +8,7 @@
   author: "David C. Lewis"
   id: 2
   abstract: "This talk will speak to the issues pertaining to supply chain security as is relates to global organizations and the highly interconnected nature of suppliers and corporations. The presenter will pull from personal war stories to help illustrate the need to not just worry about the main corporate security perimeter, but to address the extended perimeter and the exposures and risks that arise from the supply chain. Such aspects of an exposed supply chain include trading partner networks, code developed by offshore development centers, and outsourced help desks."
+  slides: "/slides/2015/digital_supply_chain_security.pdf"
 
 - title: "Pole Vaulting over Agile Security Pits"
   author: "Daniel Liber"
