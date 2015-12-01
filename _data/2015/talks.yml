@@ -93,6 +93,7 @@
   author_url: "http://www.0x1338.at/"
   id: 20
   abstract: "For more than two decades classical threat detection has painted the world black and white. Offense and defense were fighting each other like on the battlefields of Tattooine, not realizing how compartments started to shift years ago. Lines between enemies and defenders have blurred, the good guys now write exploits, malware authors from yesterday turned into well-paid contractors serving legitimate companies. Security vendors on the other hand have developed a habit of ‚threat watching‘ over the old-school ‚threat detection‘, propelling marketing campaigns and fueling political debate.<br />Today’s internet is no-mans-land where use of malicious software becomes a question of moral instead of a legal one. This talk focusses on the other side of APT, where nation states and law enforcement agencies mix in with the average criminal. What’s the risk coming from exotic nation state malware? Which countries are active on this sector, which ones rather just want to be?"
+  slides: "/slides/2015/la_quadrature_du_cercle_the_apts_that_werent.pdf"
 
 - title: "The Psychology of Security"
   author: "Stefan Schumacher"
