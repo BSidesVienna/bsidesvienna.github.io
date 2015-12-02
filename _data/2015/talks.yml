@@ -3,6 +3,7 @@
   author_url: "https://fr.linkedin.com/in/juliegommes"
   id: 1
   abstract: "Cryptography, social networks, today the use of online tools and serving to protect their communications allows jihadists to affirm their membership in jihadist movements. Studies of the Middle East Media Research Institute (MEMRI) tend to show that Al Qaeda uses encryption tools for a long time: &quot;Since 2007, al-Qaeda's use of encryption technology has-been based on the platform Mujahideen Secrets qui HAS Developed to include medium for mobile, instant messaging, and Macs. &quot;[Xiv] The encryption of communications then stopped to emails and&quot; mujahedin secret &quot;platform.<br />The year 2013 marks a turning point in the spread of encryption: Instant Messaging in February with Pidgin, SMS in September with Twofish, texts on December AES web sites. [Xvi] Edward Snowden's revelations, which began in June 2013, are not the starting point of the &quot;cryptodjihad&quot; but seem to have played the role of accelerator.<br />The jihadists also use proprietary encryption tools, they themselves have developed, such as Amn al-Mujahid (Al-Fajr Technical Committee) or al-Asrar ghurabaa used by ISIS. It seems that every movement has wanted to develop its own tools. [Xix] On its forum, ISIS promotes the use of Tails."
+  slides: "/slides/2015/cryptography_tools_identity_vectors_for_djihadists.pdf"
 
 - title: "Digital Supply Chain: The Exposed Flank"
   author: "David C. Lewis"
