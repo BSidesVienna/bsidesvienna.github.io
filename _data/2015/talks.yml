@@ -53,6 +53,7 @@
   author: "Alexander Inführ"
   id: 11
   abstract: "In the talk I will talk about the problems of PDFs in the context of web browsers and websites:<br /><ul><li>Why allowing the upload a PDF on the main domain could put users information to risk (Same origin access via FormCalc)</li><li> What can go wrong with the built-in privileged javascript (Local File Access)</li><li>Why embedding  a PDF can be a risk (XSS)</li><li>Some XXE Vulnerabilites (XXE is always fun)</li></ul>"
+  slides: "/slides/2015/mess_with_the_web.pdf"
 
 - title: "Lockpicking"
   author: "openlocks.at Team"
