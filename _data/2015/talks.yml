@@ -126,11 +126,11 @@
 - title: "Hollywood Hacking"
   author: "Adrian Dabrowski"
   id: 27
-  abstract: "-"
+  abstract: "Why most probably the alien mother ship will not be infected by a computer virus? And why can't the CSI stuff trace the IP of a suspect with a single touch of button? In this talk, we take a look on how Hollywood and TV series portrait computer security and present many ridiculous and a few accurate examples."
 
 - title: "Closing Track"
   author: "Olaf Schwarz, Louis Durufle, Christian Mehlmauer, Aaron Zauner and Pepi Zawodsky"
   author_url: "https://bsidesvienna.at/"
   id: 30
-  abstract: "-"
+  abstract: "Our closing talk"
   slides: "/slides/2015/closing_slides.pdf"
