@@ -1,9 +1,9 @@
 ---
 title: Registration
 layout: default
-year: 2015
+year: 2016
 permalink: /registration/
 ---
 # Registration
 
-Register [HERE](https://www.eventbrite.com/e/bsidesvienna-2015-tickets-19155639032)
+none yet, TBD

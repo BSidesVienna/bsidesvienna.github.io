@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 layout: default
-year: 2016
+year: 2015
 permalink: /code_of_conduct/
 ---
 Be excellent to each other.
