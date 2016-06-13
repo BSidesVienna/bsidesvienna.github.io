@@ -10,7 +10,7 @@ archive: true
 
 |   | Time          | Workshops |
 | - | ------------- | --------- |
-|1  | 10:00 - 13:00 | [Klaus Gebeshuber - Writing your first windows exploit in less than one hour](/talks/#15) |
+|1  | 10:00 - 13:00 | [Klaus Gebeshuber - Writing your first windows exploit in less than one hour](/archive/2015/talks/#15) |
 |2  | 13:00 - 14:00 | LUNCH |
 |3  | 14:00 - 18:00 | [Lockpicking by openlocks.at](/archive/2015/talks/#13) |
 |4  | 18:30 - 19:00 | [Closing (in big auditorium)](/archive/2015/talks/#30)      |
