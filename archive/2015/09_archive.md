@@ -1,8 +1,9 @@
 ---
 title: Past Events
-layout: default
+layout: archive
 year: 2015
 permalink: /archive/
+archive: true
 ---
 
 Archive of old BsidesVienna Events.

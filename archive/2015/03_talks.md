@@ -1,8 +1,9 @@
 ---
 title: Talks
-layout: default
+layout: archive
 year: 2015
 permalink: /talks/
+archive: true
 ---
 
 {% for talk in site.data.2015.talks %}

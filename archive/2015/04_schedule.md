@@ -1,8 +1,9 @@
 ---
 title: Schedule
-layout: default
+layout: archive
 year: "2015"
 permalink: /schedule/
+archive: true
 ---
 
 21st of November, 2015 - starting at 10:00. Lingua hacker: English.

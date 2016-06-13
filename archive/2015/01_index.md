@@ -1,8 +1,9 @@
 ---
 title: Index
-layout: default
+layout: archive
 year: 2015
 permalink: /
+archive: true
 ---
 
 #### What's BSides?

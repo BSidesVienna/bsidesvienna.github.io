@@ -3,7 +3,7 @@ description: "BSidesVienna"
 archives: [2014]
 url: https://bsidesvienna.at
 
-markdown: rdiscount
+markdown: kramdown
 permalink: pretty
 highlighter: pygments
 

@@ -1,8 +1,9 @@
 ---
 title: Sponsors
-layout: default
+layout: archive
 year: 2015
 permalink: /sponsors/
+archive: true
 ---
 # Up your karma: sponsor hacker knowledge aquisition
 Getting a community event going (possibly for free) is not easy. We're looking for sponsoring to provide

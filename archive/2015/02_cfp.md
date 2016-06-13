@@ -1,8 +1,9 @@
 ---
 title: CfP
-layout: default
+layout: archive
 year: 2015
 permalink: /cfp/
+archive: true
 ---
 # Propaganda
 

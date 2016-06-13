@@ -1,8 +1,9 @@
 ---
 title: Code of Conduct
-layout: default
+layout: archive
 year: 2015
 permalink: /code_of_conduct/
+archive: true
 ---
 Be excellent to each other.
 
@@ -15,7 +16,7 @@ Sexual language and imagery is not appropriate for any conference venue, includi
 
 # What is Harassment?
 
-Harassment includes offensive verbal comments related to skill, age, gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual advances. 
+Harassment includes offensive verbal comments related to skill, age, gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual advances.
 
 Participants asked to stop any harassing behaviour are expected to comply immediately.
 
@@ -27,5 +28,5 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 In case you need anything - Our team is happy to help you!
 
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.  
+Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance. 
 We expect participants to follow these rules at conference and workshop venues, conference-related social events and social media.

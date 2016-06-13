@@ -1,8 +1,9 @@
 ---
 title: Registration
-layout: default
+layout: archive
 year: 2015
 permalink: /registration/
+archive: true
 ---
 # Registration
 
