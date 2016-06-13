@@ -1,6 +1,6 @@
 name: "BSidesVienna"
 description: "BSidesVienna"
-archives: [2014]
+archives: [2014, 2015]
 url: https://bsidesvienna.at
 
 markdown: kramdown

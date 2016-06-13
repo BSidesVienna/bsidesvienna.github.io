@@ -17,5 +17,5 @@ than welcome to participate in any way you feel appropriate.
 {% for sponsor in site.data.2016.sponsors %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 
-[![{{ sponsor.name }}]({{ sponsor.image }} =200x)]({{ sponsor.url }})
+[![{{ sponsor.name }}]({{ sponsor.image }}){:width="200px"}]({{ sponsor.url }})
 {% endfor %}
