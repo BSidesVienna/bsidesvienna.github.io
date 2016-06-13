@@ -2,7 +2,7 @@
 title: Code of Conduct
 layout: archive
 year: 2015
-permalink: /code_of_conduct/
+permalink: /archive/2015/code_of_conduct/
 archive: true
 ---
 Be excellent to each other.

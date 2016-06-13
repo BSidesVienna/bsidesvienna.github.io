@@ -2,7 +2,7 @@
 title: CfP
 layout: archive
 year: 2015
-permalink: /cfp/
+permalink: /archive/2015/cfp/
 archive: true
 ---
 # Propaganda

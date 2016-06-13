@@ -1,7 +1,7 @@
 ---
 title: Talks
 layout: archive
-year: "2014"
+year: 2014
 archive: true
 permalink: /archive/2014/talks/
 ---

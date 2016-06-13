@@ -2,7 +2,7 @@
 title: Index
 layout: archive
 year: 2015
-permalink: /
+permalink: /archive/2015/
 archive: true
 ---
 

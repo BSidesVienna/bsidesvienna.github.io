@@ -2,7 +2,7 @@
 title: Registration
 layout: archive
 year: 2015
-permalink: /registration/
+permalink: /archive/2015/registration/
 archive: true
 ---
 # Registration

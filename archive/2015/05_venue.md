@@ -2,7 +2,7 @@
 title: Venue
 layout: archive
 year: 2015
-permalink: /venue/
+permalink: /archive/2015/venue/
 archive: true
 ---
 

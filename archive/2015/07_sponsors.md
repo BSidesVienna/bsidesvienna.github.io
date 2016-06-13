@@ -2,7 +2,7 @@
 title: Sponsors
 layout: archive
 year: 2015
-permalink: /sponsors/
+permalink: /archive/2015/sponsors/
 archive: true
 ---
 # Up your karma: sponsor hacker knowledge aquisition

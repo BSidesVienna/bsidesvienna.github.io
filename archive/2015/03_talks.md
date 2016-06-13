@@ -2,7 +2,7 @@
 title: Talks
 layout: archive
 year: 2015
-permalink: /talks/
+permalink: /archive/2015/talks/
 archive: true
 ---
 
