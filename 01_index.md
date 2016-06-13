@@ -11,7 +11,7 @@ permalink: /
 
 ...
 
-> "BSides is a framework for organising and holding security conferences. The concept began in the US in 2009 with Mike Dahn, Jack Daniel, and some others because the CFP for Blackhat Vegas or DEF CON was oversubscribed and those unable to present decided to hold their own conference on the 'b side'. Now, many have been arranged in several countries throughout the world. BSides has come to be known as a 'conference by the community for the community'. Events are generally free to attend and rely on sponsorship to pay for the venue and other costs and are run as not-for-profit. [...]  Because the events of B-Sides offer smaller, more intimate networking atmospheres and breakout discussions, they foster strong audience participation and overall group interaction." -- [Wikipedia: B Sides (Security Conference)](https://tinyurl.com/ou8sxrs)
+> "BSides is a framework for organising and holding security conferences. The concept began in the US in 2009 with Mike Dahn, Jack Daniel, and some others because the CFP for Blackhat Vegas or DEF CON was oversubscribed and those unable to present decided to hold their own conference on the 'b side'. Now, many have been arranged in several countries throughout the world. BSides has come to be known as a 'conference by the community for the community'. Events are generally free to attend and rely on sponsorship to pay for the venue and other costs and are run as not-for-profit. [...]  Because the events of B-Sides offer smaller, more intimate networking atmospheres and breakout discussions, they foster strong audience participation and overall group interaction."
 
 
 #### What's BsidesVienna?
