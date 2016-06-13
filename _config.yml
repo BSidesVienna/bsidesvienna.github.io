@@ -5,7 +5,7 @@ url: https://bsidesvienna.at
 
 markdown: kramdown
 permalink: pretty
-highlighter: pygments
+highlighter: rouge
 
 exclude: [Gemfile, Gemfile.lock, CNAME, Readme.md]
 
