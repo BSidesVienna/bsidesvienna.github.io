@@ -1,7 +1,7 @@
 ---
 title: Sponsors
 layout: default
-year: 2016
+year: 2015
 permalink: /sponsors/
 ---
 # Up your karma: sponsor hacker knowledge aquisition
@@ -14,7 +14,7 @@ than welcome to participate in any way you feel appropriate.
 
 # Our sponsors
 
-{% for sponsor in site.data.2016.sponsors %}
+{% for sponsor in site.data.2015.sponsors %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 
 [![{{ sponsor.name }}]({{ sponsor.image }} =200x)]({{ sponsor.url }})
