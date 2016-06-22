@@ -5,6 +5,6 @@ year: 2016
 permalink: /venue/
 ---
 
-#Location
+# Location
 
-none yet, TBD
+To be announced.
