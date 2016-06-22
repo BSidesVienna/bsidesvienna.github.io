@@ -49,7 +49,7 @@ Topics of interest include (but are in no way limited to) the following:
 - Ethical and philosophical implications of computing / hacking
 - Creating and maintaining safe-spaces & encouragement of female participation
 
-The [Jargon File Lexicon](http://www.catb.org/jargon/html/H/hacker.html) has a nice definition we think fits very well:
+The Jargon Lexicon contains [a nice definition](http://www.catb.org/jargon/html/H/hacker.html) we think fits very well here:
 
 ```txt
 hacker: n.
