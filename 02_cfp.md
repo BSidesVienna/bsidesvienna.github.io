@@ -14,7 +14,7 @@ over at [DeepSec](https://deepsec.net/) to throw a BSides event straight after t
 end of November. In true BSides fashion we're looking for a good mix of security and hacker talks
 designed to wow the crowd and keep them coming back for more.
 
-If you want to get a feel for what we're looking for check out the [archive](/archive/) of our past BsidesVienna events:
+If you want to get a feel of what we're looking for, check out the [archive](/archive/) of our past BsidesVienna events:
 
 - 2015: [Talk schedule](http://bsidesvienna.at/archive/2015/schedule/) (slides included)
 - 2014: [Talk schedule](http://bsidesvienna.at/archive/2014/schedule/) (slides included)
@@ -46,7 +46,7 @@ Topics of interest include (but are in no way limited to) the following:
 - Massive abuse of technology
 - Evolutionary computing
 - History & Philosophy of computing
-- Ethical and philosophical implications of computing / hacking
+- Ethical and philosophical implications of hacking & computing
 - Creating and maintaining safe-spaces & encouragement of female participation
 
 The Jargon Lexicon contains [a nice definition](http://www.catb.org/jargon/html/H/hacker.html) we think fits very well here:
