@@ -28,22 +28,38 @@ Topics of interest include (but are in no way limited to) the following:
 
 
 - Information technology
-- Network security
+- Network security & Cryptography
 - Web Application security
 - Mobile security
+- Usable security
 - Virtualization and cloud computing
 - Innovative attack / defense strategies
 - Forensics / Malware
-- Embedded device security / Internet of things
+- Embedded device security / IoT
 - Physical security and lockpicking
 - Biometrics
 - Hardware hacking
-- Phone phreaking
-- Biohacking
+- Phreaking
+- Biohacking and modification
 - Open source software
-- Evolutionary computing
 - Robotics (bonus points for bringing an actual robot)
 - Massive abuse of technology
+- Evolutionary computing
+- History & Philosophy of computing
+- Ethical and philosophical implications of computing / hacking
+- Creating and maintaining safe-spaces & encouragement of female participation
+
+The [Jargon File Lexicon](http://www.catb.org/jargon/html/H/hacker.html) has a nice definition we think fits very well:
+
+```txt
+hacker: n.
+
+[...]
+
+7. One who enjoys the intellectual challenge of creatively overcoming or circumventing limitations.
+
+[...]
+```
 
 # Submission
 To apply, please provide the details of your talk proposal and contact info via email at <br>**crew [at] bsidesvienna [dot] at**
