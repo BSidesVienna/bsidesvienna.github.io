@@ -45,7 +45,7 @@ Topics of interest include (but are in no way limited to) the following:
 # Submission
 To apply, please provide the details of your talk proposal and contact info via email at <br>**crew [at] bsidesvienna [dot] at**
 
-CFP will close on **18th October 2016 (@ 23:59 UTC+1)**.
+CFP will close on **12th October 2016 (@ 23:59 UTC+1)**.
 
 # Sponsoring
 
