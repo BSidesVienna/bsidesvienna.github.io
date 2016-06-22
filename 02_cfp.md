@@ -46,7 +46,7 @@ Topics of interest include (but are in no way limited to) the following:
 - Massive abuse of technology
 - Evolutionary computing
 - History & Philosophy of computing
-- Ethical and philosophical implications of hacking & computing
+- Ethical and philosophical implications of hacking
 - Creating and maintaining safe-spaces & encouragement of female participation
 
 The Jargon Lexicon contains [a nice definition](http://www.catb.org/jargon/html/H/hacker.html) we think fits very well here:
