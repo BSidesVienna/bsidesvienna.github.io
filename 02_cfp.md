@@ -14,6 +14,7 @@ over at [DeepSec](https://deepsec.net/) to throw a BSides event straight after t
 end of November. In true BSides fashion we're looking for a good mix of security and hacker talks
 designed to wow the crowd and keep them coming back for more.
 
+If you want to get a feel for what we're looking for check out the [archive](/archive/) of our past BsidesVienna events.
 
 We are currently seeking a selection of hands-on workshops, presentations and shorter (15-minute) lightning talks.
 BSides is an open, international event, the official conference language for all talks, trainings and workshops
