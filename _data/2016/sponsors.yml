@@ -9,3 +9,7 @@
 - name: "cert.at"
   url: "https://cert.at/"
   image: "/img/sponsors/2016/cert_at.jpg"
+
+- name: "FH Joanneum"
+  url: "https://www.fh-joanneum.at/ims/"
+  image: "/img/sponsors/2016/fh_joanneum.png"
