@@ -1,0 +1,65 @@
+- title: "Visualize your threats"
+  author: "Philipp Krenn"
+  author_url: "https://xeraa.net"
+  id: 1
+  abstract: "Knowing what is going on in your environment is an important part of staying on top of security issues. But how do you capture relevant metrics and visualize them? One widely-used, open source tool for that job is the Elastic Stack, formerly known as the ELK stack. This talk shows how to ingest relevant metrics from your network and hosts as well as how to easily visualize them to find suspicious patterns and behaviors."
+
+- title: "The modern SOC: Adapting the Security Operations model to how we work"
+  author: "Josh Pyorre"
+  author_url: "https://rootaccesspodcast.com/"
+  id: 2
+  abstract: "Security Operations Centers are a central place where security incidents flow through in an organization, using technologies and ideas such as IDS, IPS, network flow monitoring, threat analysis and incident response to protect and secure an environment. However, the SOC of today is often out of date and out of touch with how we use our machines and data. This is an exploration of techniques for improving the process, with actual real-world examples that anyone can apply without relying on vendors."
+
+- title: "When your firewall turns against you"
+  author: "Rene Freingruber"
+  author_url: "https://www.sec-consult.com/"
+  id: 3
+  abstract: "This talk will demonstrate how attackers can compromise a company’s network via their firewall system.  It’s a common misbelieve that security tools are always secure. The aim of this talk is to show the audience the difference between a secure and a security product. First we discuss how we can remotely detect and identify the firewall system within the target internal network. After that we start a brute-force attack from the internet via the victim’s browser against the internal firewall. We will show how an attacker can bypass different used CSRF protections to trigger actions on the firewall system. Finally, we are going to exploit a memory corruption bug (type confusion bug which leads to a use after free vulnerability) in the PHP binary on the firewall to spawn a reverse root shell."
+
+- title: "Exploiting First Hop Protocols to Own the Network"
+  author: "Paul Coggin"
+  id: 4
+  abstract: "This talk will focus on how to exploit a network by targeting the various first hop protocols. Attack vectors for crafting custom packets as well a few of the available tools for layer 2 network protocols exploitation will be covered. Defensive mitigations and recommendations for adding secure visualization and instrumentation for layer 2 will be provided."
+
+- title: "0xff and how it evolved"
+  author: "Aaron Kaplan"
+  id: 5
+  abstract: "No abstract yet"
+
+- title: "The law of TLS breakage"
+  author: "Hanno Böck"
+  author_url: "https://hboeck.de/"
+  id: 6
+  abstract: "Every imaginable TLS implementation fault can be found in the wild. The TLS ecosystem suffers from vendors not caring about the correct implementation of the protocol and not fixing bugs. This not only endangers users of the affected products, it often causes problems for the whole ecosystem and slows down progress. This has led to thoughs how the protocol can be designed to avoid implementation flaws. A particularly nasty implementation flaw is TLS version intolerance - servers that fail if a client tries to connect with a higher TLS version number. For TLS 1.3 the TLS working group is now trying a new approach. With a new version negotiation mechanism and GREASE they try to prevent future implementation flaws. The speaker will give an overview of the breakage in the TLS ecosystem and will also briefly explain an attack on GCM nonces he discovered earlier this year. He will also give some advice how other people can find similar TLS attacks."
+
+- title: "The details of the investigation that resulted in the Mamba Ransomware discovery"
+  author: "Renato Marinho"
+  author_url: "http://www.morphus.com.br/"
+  id: 7
+  abstract: "In this talk I will present the details and challenges of handling an incident suffered by a large multinational company with subsidiaries in Brazil, India and the United States that resulted in the Mamba discovery, the first ransomware to use, in fact, the Full Disk Encryption strategy (FDE ). I'm going also to present the entire process of research, publication and collaboration with CERTs from various countries, SANS, research laboratories and international security products players."
+
+- title: "Ducky Tales - Uh, Sh*t, Bingo!"
+  author: "Sebastian Neuner"
+  id: 8
+  abstract: "Keystroke-injection attacks via USB, such as the Rubber Ducky, are around for quite some time now and used in various attack scenarios (Stuxnet?). Building upon these attacks, the so-called BadUSB attack emerged. BadUSB uses re-flashable USB firmware chips to deliver its malicious payload. There is ongoing research towards realizing efficient defenses to BadUSB-like attacks. I will present here the painful way of getting there: from harvesting the fine details of USB attacks, getting access to appropriate hardware, bricking it, and managing to take control of it. Spoiler: testing the malicious payloads and the devised defense was the easiest part of the journey."
+
+- title: "Running a bug bounty - What you need to know"
+  author: "Shpend Kurtishaj"
+  id: 9
+  abstract: "Having a bug bounty program is one of the most cost-effective and productive methods of finding security vulnerabilities today. Bug bounty programs provide substantial value in terms of findings, only require payment for valid results, and bring a level of depth via manual testing that goes beyond the capabilities scanners and other traditional pen-testing tools – often serving as a valuable complement to automated testing. But, as anyone who has tried to run a bug bounty program knows, it's no simple or small undertaking... Coming from the unique position of being professionals who have helped to create and manage hundreds of bug bounty programs, we're uniquely positioned to cover key bounty concepts, and provide advice on how to run a successful bug bounty program. Whether you're already running a bug bounty program, looking to run a bug bounty program, or are a researcher who participates in programs, this talk aims to deepen your knowledge on the subject."
+
+- title: "NoSQL means no security?"
+  author: "Philipp Krenn"
+  author_url: "https://xeraa.net"
+  id: 10
+  abstract: "New systems are always interesting targets since their security model couldn’t mature yet. NoSQL databases are no exception and had some lurid articles about their security, but how does their protection actually look like?
+  We will take a look at three widely used systems and their unique approaches:
+    Redis: Security through obscurity or how you can rename commands
+    MongoDB: Widely lampooned for publicly accessible databases, it actually provides an elaborate authentication and authorization system, which we will cover from a historic perspective and putting an emphasis on the current state
+    Elasticsearch: Groovy scripting has been a major headache, but the new, custom-built scripting language Painless tries to take the pain away literally."
+
+- title: "Closing Track"
+  author: "Olaf Schwarz, Martin Schmiedecker, Christian Mehlmauer"
+  author_url: "https://bsidesvienna.at/"
+  id: 11
+  abstract: "Our closing talk"
