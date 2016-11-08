@@ -40,6 +40,7 @@
 
 - title: "Ducky Tales - Uh, Sh*t, Bingo!"
   author: "Sebastian Neuner"
+  author_url: "https://twitter.com/sebastian9er"
   id: 8
   abstract: "Keystroke-injection attacks via USB, such as the Rubber Ducky, are around for quite some time now and used in various attack scenarios (Stuxnet?). Building upon these attacks, the so-called BadUSB attack emerged. BadUSB uses re-flashable USB firmware chips to deliver its malicious payload. There is ongoing research towards realizing efficient defenses to BadUSB-like attacks. I will present here the painful way of getting there: from harvesting the fine details of USB attacks, getting access to appropriate hardware, bricking it, and managing to take control of it. Spoiler: testing the malicious payloads and the devised defense was the easiest part of the journey."
 
