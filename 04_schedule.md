@@ -29,5 +29,5 @@ permalink: /schedule/
 | 18 | 18:35 - 18:40 | 5 minute break |
 | 19 | 18:40 - 19:25 | [Shpend Kurtishaj - Running a bug bounty - What you need to know](/talks/#9) |
 | 20 | 19:25 - 19:30 | 5 minute break |
-| 21 | 19:30 - 20:15 | [Philipp Krenn - NoSQL means no security?](/talks/#10) |
-| 22 | 20:15 - 20:35 | [Closing](/talks/#11) |
+| 21 | 19:30 - 20:00 | [Philipp Krenn - NoSQL means no security?](/talks/#10) |
+| 22 | 20:00 - 20:15 | [Closing](/talks/#11) |
