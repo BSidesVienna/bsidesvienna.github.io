@@ -11,7 +11,7 @@
   abstract: "Security Operations Centers are a central place where security incidents flow through in an organization, using technologies and ideas such as IDS, IPS, network flow monitoring, threat analysis and incident response to protect and secure an environment. However, the SOC of today is often out of date and out of touch with how we use our machines and data. This is an exploration of techniques for improving the process, with actual real-world examples that anyone can apply without relying on vendors."
 
 - title: "When your firewall turns against you"
-  author: "Rene Freingruber"
+  author: "Rene Freingrube and Raschin Tavakolir"
   author_url: "https://www.sec-consult.com/"
   id: 3
   abstract: "This talk will demonstrate how attackers can compromise a company’s network via their firewall system.  It’s a common misbelieve that security tools are always secure. The aim of this talk is to show the audience the difference between a secure and a security product. First we discuss how we can remotely detect and identify the firewall system within the target internal network. After that we start a brute-force attack from the internet via the victim’s browser against the internal firewall. We will show how an attacker can bypass different used CSRF protections to trigger actions on the firewall system. Finally, we are going to exploit a memory corruption bug (type confusion bug which leads to a use after free vulnerability) in the PHP binary on the firewall to spawn a reverse root shell."

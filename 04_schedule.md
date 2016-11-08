@@ -13,7 +13,7 @@ permalink: /schedule/
 | 2  | 10:25 - 10:30 | 5 minute break |
 | 3  | 10:30 - 11:15 | [Josh Pyorre - The modern SOC: Adapting the Security Operations model to how we work](/talks/#2) |
 | 4  | 11:15 - 11:25 | 10 minute break |
-| 5  | 11:25 - 12:10 | [Rene Freingruber - When your firewall turns against you](/talks/#3) |
+| 5  | 11:25 - 12:10 | [Rene Freingruber and Raschin Tavakoli - When your firewall turns against you](/talks/#3) |
 | 6  | 12:10 - 12:15 | 5 minute break |
 | 7  | 12:15 - 12:50 | [Paul Coggin - Exploiting First Hop Protocols to Own the Network](/talks/#4) |
 | 8  | 12:50 - 14:15 | Lunch break |
