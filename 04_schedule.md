@@ -23,11 +23,11 @@ permalink: /schedule/
 | 12 | 15:50 - 16:00 | 10 minute break |
 | 13 | 16:00 - 16:45 | [Renato Marinho - The details of the investigation that resulted in the Mamba Ransomware discovery](/talks/#7) |
 | 14 | 16:45 - 16:50 | 5 minute break |
-| 15 | 16:50 - 17:35 | to be announced |
+| 15 | 16:50 - 17:35 | [Artemios Voyiatzis - Defending (more than) Android apps with TLS certificate pinning and notary services](/talks/#11) |
 | 16 | 17:35 - 17:50 | 15 minute break |
 | 17 | 17:50 - 18:35 | [Sebastian Neuner - Ducky Tales - Uh, Sh*t, Bingo!](/talks/#8) |
 | 18 | 18:35 - 18:40 | 5 minute break |
 | 19 | 18:40 - 19:25 | [Shpend Kurtishaj - Running a bug bounty - What you need to know](/talks/#9) |
 | 20 | 19:25 - 19:30 | 5 minute break |
 | 21 | 19:30 - 20:00 | [Philipp Krenn - NoSQL means no security?](/talks/#10) |
-| 22 | 20:00 - 20:15 | [Closing](/talks/#11) |
+| 22 | 20:00 - 20:15 | [Closing](/talks/#12) |

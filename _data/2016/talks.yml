@@ -59,8 +59,13 @@
     MongoDB: Widely lampooned for publicly accessible databases, it actually provides an elaborate authentication and authorization system, which we will cover from a historic perspective and putting an emphasis on the current state
     Elasticsearch: Groovy scripting has been a major headache, but the new, custom-built scripting language Painless tries to take the pain away literally."
 
+- title: "Defending (more than) Android apps with TLS certificate pinning and notary services"
+  author: "Artemios Voyiatzis"
+  id: 11
+  abstract: "Security and privacy in the Internet of Things world heavily rely on the establishment of HTTPS connections with web servers running on constrained devices and cloud-based backends that present a valid identity based on the TLS protocol and X.509 digital certificates signed by a Certificate Authority (CA). Modern smartphones come with hundreds of CAs, each being equally trusted to issue a certificate. For any URL. How can we defend against this threat? This talk focuses on three aspects of the current situation. First, on the fact that thousands of available Android apps fail to properly handle a TLS certificate. Second, on the effectiveness of certificate pinning in light of the recent events of WoSign and Mozilla add-ons affecting Tor. Third, on if and how TLS Notary Services can improve our standing, both in terms of usability and security."
+
 - title: "Closing Track"
   author: "Olaf Schwarz, Martin Schmiedecker, Christian Mehlmauer"
   author_url: "https://bsidesvienna.at/"
-  id: 11
+  id: 12
   abstract: "Our closing talk"
