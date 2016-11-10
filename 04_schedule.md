@@ -23,7 +23,7 @@ permalink: /schedule/
 | 12 | 15:50 - 16:00 | 10 minute break |
 | 13 | 16:00 - 16:45 | [Renato Marinho - The details of the investigation that resulted in the Mamba Ransomware discovery](/talks/#7) |
 | 14 | 16:45 - 16:50 | 5 minute break |
-| 15 | 16:50 - 17:35 | [Artemios Voyiatzis - Defending (more than) Android apps with TLS certificate pinning and notary services](/talks/#11) |
+| 15 | 16:50 - 17:35 | [Artemios Voyiatzis - Transport Layer Security beyond crypto – notary services and certificate pinning to the rescue?](/talks/#11) |
 | 16 | 17:35 - 17:50 | 15 minute break |
 | 17 | 17:50 - 18:35 | [Sebastian Neuner - Ducky Tales - Uh, Sh*t, Bingo!](/talks/#8) |
 | 18 | 18:35 - 18:40 | 5 minute break |
