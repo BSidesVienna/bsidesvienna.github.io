@@ -13,3 +13,7 @@
 - name: "FH Joanneum"
   url: "https://www.fh-joanneum.at/ims/"
   image: "/img/sponsors/2016/fh_joanneum.png"
+
+- name: "TU Wien"
+  url: "https://www.tuwien.ac.at/"
+  image: "/img/sponsors/2016/tu_wien.png"
