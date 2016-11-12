@@ -10,7 +10,7 @@ permalink: /venue/
 **Technische Universität Wien (TU):**
 
 
-Karlsplatz 13,, 1040 Vienna, Main building, second floor, Stiege VII, HS13
+Karlsplatz 13, 1040 Vienna, Main building, second floor, Stiege VII, HS13
 
 * [Address and Floorplan](http://www.eiba.tuwien.ac.at/fileadmin/mediapool/Diverse/Allgemein/E_HS13_0038_00_1-1.pdf)
 
