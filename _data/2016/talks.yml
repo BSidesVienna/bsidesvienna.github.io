@@ -38,11 +38,10 @@
   id: 7
   abstract: "In this talk I will present the details and challenges of handling an incident suffered by a large multinational company with subsidiaries in Brazil, India and the United States that resulted in the Mamba discovery, the first ransomware to use, in fact, the Full Disk Encryption strategy (FDE ). I'm going also to present the entire process of research, publication and collaboration with CERTs from various countries, SANS, research laboratories and international security products players."
 
-- title: "Ducky Tales - Uh, Sh*t, Bingo!"
-  author: "Sebastian Neuner"
-  author_url: "https://twitter.com/sebastian9er"
+- title: "Advanced SSH"
+  author: "Leyrer & MacLemon"
   id: 8
-  abstract: "Keystroke-injection attacks via USB, such as the Rubber Ducky, are around for quite some time now and used in various attack scenarios (Stuxnet?). Building upon these attacks, the so-called BadUSB attack emerged. BadUSB uses re-flashable USB firmware chips to deliver its malicious payload. There is ongoing research towards realizing efficient defenses to BadUSB-like attacks. I will present here the painful way of getting there: from harvesting the fine details of USB attacks, getting access to appropriate hardware, bricking it, and managing to take control of it. Spoiler: testing the malicious payloads and the devised defense was the easiest part of the journey."
+  abstract: "Productivity and Security Tipps for SSH. Tips and tricks for a more efficient and more secure usage of ssh(d). We will touch on config file options, crypto settings, 2 factor authentication, ProxyCommands with bastion hosts, server key rotation and much more. SSH (Secure Shell) is a must have tool to remotely connect to servers for administrative purposes or file copying. Most users only use a tiny subset of the features modern OpenSSH versions offer. So will try to demonstrate some of the more 'obscure' but often very handy options you may not have looked into, yet."
 
 - title: "Running a bug bounty - What you need to know"
   author: "Shpend Kurtishaj"
