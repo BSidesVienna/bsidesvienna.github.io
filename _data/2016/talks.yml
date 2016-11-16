@@ -47,6 +47,7 @@
   author: "Shpend Kurtishaj"
   id: 9
   abstract: "Having a bug bounty program is one of the most cost-effective and productive methods of finding security vulnerabilities today. Bug bounty programs provide substantial value in terms of findings, only require payment for valid results, and bring a level of depth via manual testing that goes beyond the capabilities scanners and other traditional pen-testing tools – often serving as a valuable complement to automated testing. But, as anyone who has tried to run a bug bounty program knows, it's no simple or small undertaking... Coming from the unique position of being professionals who have helped to create and manage hundreds of bug bounty programs, we're uniquely positioned to cover key bounty concepts, and provide advice on how to run a successful bug bounty program. Whether you're already running a bug bounty program, looking to run a bug bounty program, or are a researcher who participates in programs, this talk aims to deepen your knowledge on the subject."
+  slides: "/slides/2016/running_a_bug_bounty_what_you_need_to_know.pdf"
 
 - title: "NoSQL means no security?"
   author: "Philipp Krenn"
