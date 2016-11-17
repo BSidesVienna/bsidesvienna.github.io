@@ -33,6 +33,7 @@
   author_url: "https://hboeck.de/"
   id: 6
   abstract: "Every imaginable TLS implementation fault can be found in the wild. The TLS ecosystem suffers from vendors not caring about the correct implementation of the protocol and not fixing bugs. This not only endangers users of the affected products, it often causes problems for the whole ecosystem and slows down progress. This has led to thoughs how the protocol can be designed to avoid implementation flaws. A particularly nasty implementation flaw is TLS version intolerance - servers that fail if a client tries to connect with a higher TLS version number. For TLS 1.3 the TLS working group is now trying a new approach. With a new version negotiation mechanism and GREASE they try to prevent future implementation flaws. The speaker will give an overview of the breakage in the TLS ecosystem and will also briefly explain an attack on GCM nonces he discovered earlier this year. He will also give some advice how other people can find similar TLS attacks."
+  slides: "/slides/2016/the_law_of_tls_breakage.pdf"
 
 - title: "The details of the investigation that resulted in the Mamba Ransomware discovery"
   author: "Renato Marinho"
