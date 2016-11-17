@@ -15,11 +15,13 @@
   author_url: "https://www.sec-consult.com/"
   id: 3
   abstract: "This talk will demonstrate how attackers can compromise a company’s network via their firewall system.  It’s a common misbelieve that security tools are always secure. The aim of this talk is to show the audience the difference between a secure and a security product. First we discuss how we can remotely detect and identify the firewall system within the target internal network. After that we start a brute-force attack from the internet via the victim’s browser against the internal firewall. We will show how an attacker can bypass different used CSRF protections to trigger actions on the firewall system. Finally, we are going to exploit a memory corruption bug (type confusion bug which leads to a use after free vulnerability) in the PHP binary on the firewall to spawn a reverse root shell."
+  slides: "/slides/2016/when_your_firewall_turns_against_you.pdf"
 
 - title: "Exploiting First Hop Protocols to Own the Network"
   author: "Paul Coggin"
   id: 4
   abstract: "This talk will focus on how to exploit a network by targeting the various first hop protocols. Attack vectors for crafting custom packets as well a few of the available tools for layer 2 network protocols exploitation will be covered. Defensive mitigations and recommendations for adding secure visualization and instrumentation for layer 2 will be provided."
+  slides: "/slides/2016/exploiting_first_hop_protocols_to_own_the_network.pdf"
 
 - title: "0xff and how it evolved"
   author: "Aaron Kaplan"
