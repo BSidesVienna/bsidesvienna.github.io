@@ -3,12 +3,14 @@
   author_url: "https://xeraa.net"
   id: 1
   abstract: "Knowing what is going on in your environment is an important part of staying on top of security issues. But how do you capture relevant metrics and visualize them? One widely-used, open source tool for that job is the Elastic Stack, formerly known as the ELK stack. This talk shows how to ingest relevant metrics from your network and hosts as well as how to easily visualize them to find suspicious patterns and behaviors."
+  slides: "/slides/2016/visualize_your_threats.pdf"
 
 - title: "The modern SOC: Adapting the Security Operations model to how we work"
   author: "Josh Pyorre"
   author_url: "https://rootaccesspodcast.com/"
   id: 2
   abstract: "Security Operations Centers are a central place where security incidents flow through in an organization, using technologies and ideas such as IDS, IPS, network flow monitoring, threat analysis and incident response to protect and secure an environment. However, the SOC of today is often out of date and out of touch with how we use our machines and data. This is an exploration of techniques for improving the process, with actual real-world examples that anyone can apply without relying on vendors."
+  slides: "/slides/2016/the_modern_soc_adapting_the_security_operations_model_to_how_we_work.pdf"
 
 - title: "When your firewall turns against you"
   author: "Rene Freingruber and Raschin Tavakoli"
@@ -61,6 +63,7 @@
     Redis: Security through obscurity or how you can rename commands
     MongoDB: Widely lampooned for publicly accessible databases, it actually provides an elaborate authentication and authorization system, which we will cover from a historic perspective and putting an emphasis on the current state
     Elasticsearch: Groovy scripting has been a major headache, but the new, custom-built scripting language Painless tries to take the pain away literally."
+  slides: "/slides/2016/nosql_means_no_security.pdf"
 
 - title: "Transport Layer Security beyond crypto – notary services and certificate pinning to the rescue?"
   author: "Artemios Voyiatzis"
