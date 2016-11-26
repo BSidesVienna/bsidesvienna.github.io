@@ -67,8 +67,10 @@
 
 - title: "Transport Layer Security beyond crypto – notary services and certificate pinning to the rescue?"
   author: "Artemios Voyiatzis"
+  author_url: "http://www.artemiosv.info/"
   id: 11
   abstract: "The TLS protocol, X.509 digital certificate, and Certificate Authority (CA) are crucial components for realizing security and privacy in an appified IoT world. Edge devices (e.g., smartphones) often come with hundreds of CAs pre-installed, each being equally trusted to issue a certificate. For any URL. What can we do better? We focus on three aspects: that thousands of Android apps still fail to properly handle a TLS certificate; the effectiveness of certificate pinning considering the recent events of WoSign and Mozilla add-ons affecting Tor; and how TLS Notary Services can improve our standing, both in terms of usability and security."
+  slides: "/slides/2016/transport_layer_security_beyond_crypto.pdf"
 
 - title: "Closing Track"
   author: "Olaf Schwarz, Martin Schmiedecker, Christian Mehlmauer"
