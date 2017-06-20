@@ -1,7 +1,7 @@
 ---
 title: Past Events
 layout: default
-year: 2016
+year: 2017
 permalink: /archive/
 ---
 

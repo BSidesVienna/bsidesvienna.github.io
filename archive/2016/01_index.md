@@ -1,8 +1,9 @@
 ---
 title: Index
 layout: default
-year: 2017
-permalink: /
+year: 2016
+permalink: /archive/2016/
+archive: true
 ---
 
 #### What's BSides?
@@ -17,18 +18,18 @@ permalink: /
 #### What's BsidesVienna?
 BSides is a community organized series of events all over the world promoting independent security research and education as well as discourse and collaboration within the community. We think it's important to have a Bsides in Vienna as these events have spread globally by now and are an important source of input to the information security community (more information on what Bsides events are and how they're organized is available at [securitybsides.com](http://www.securitybsides.com)). Bsides usually go hand-in-hand with the famous "hallway track", as these events are free and have less of a commercial/academic conference - then a meetup - atmosphere, many people just come to talk to old friends, get new perspectives and chat with people they've never met before. Of course, there are always great talks and workshops and that's the main focus of every Bsides event!
 
-More information on BSidesVienna 0x7E1 will follow [via twitter](https://twitter.com/BSidesVienna) and on this website.
+More information on BSidesVienna 0x7E0 will follow [via twitter](https://twitter.com/BSidesVienna) and on this website.
 
 # News
 
-{% for news_entry in site.data.2017.news %}
+{% for news_entry in site.data.2016.news %}
 ### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
 {{ news_entry.content }}
 {% endfor %}
 
 
 # Event details
-TO BE ANNOUNCED. That's the saturday right after [DeepSec](https://deepsec.net/).
+12.November 2016. That's the saturday right after [DeepSec](https://deepsec.net/).
 
 #### Cost
 F-R-E-E!
@@ -41,5 +42,5 @@ or be old fashioned and send us an e-mail to crew [at] bsidesvienna [dot] at.
 Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for content related to this event.
 
 #### Crew
-* {% for member in site.data.2017.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
+* {% for member in site.data.2016.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
 * ..and anonymous others

@@ -1,8 +1,9 @@
 ---
 title: CfP
 layout: default
-year: 2017
-permalink: /cfp/
+year: 2016
+permalink: /archive/2016/cfp/
+archive: true
 ---
 # Propaganda
 
@@ -16,7 +17,6 @@ designed to wow the crowd and keep them coming back for more.
 
 If you want to get a feel of what we're looking for, check out the [archive](/archive/) of our past BsidesVienna events:
 
-- 2016: [Talk schedule](http://bsidesvienna.at/archive/2016/schedule/) (slides included)
 - 2015: [Talk schedule](http://bsidesvienna.at/archive/2015/schedule/) (slides included)
 - 2014: [Talk schedule](http://bsidesvienna.at/archive/2014/schedule/) (slides included)
 
@@ -65,7 +65,7 @@ hacker: n.
 # Submission
 To apply, please provide the details of your talk proposal and contact info via email at <br>**crew [at] bsidesvienna [dot] at**
 
-CFP will close on **12th October 2017 (@ 23:59 UTC+1)**.
+CFP will close on **12th October 2016 (@ 23:59 UTC+1)**.
 
 # Sponsoring
 
