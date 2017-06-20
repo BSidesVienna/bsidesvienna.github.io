@@ -1,6 +1,6 @@
 ---
 title: Index
-layout: default
+layout: archive
 year: 2016
 permalink: /archive/2016/
 archive: true

@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-layout: default
+layout: archive
 year: 2016
 permalink: /archive/2016/code_of_conduct/
 archive: true
