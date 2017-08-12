@@ -7,7 +7,7 @@ permalink: /cfp/
 # Propaganda
 
 
-You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back for 2016!
+You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back for 2017!
 
 Just because we like to change things up, this time around we're teaming up with the very fine folks
 over at [DeepSec](https://deepsec.net/) to throw a BSides event straight after their conference at the
