@@ -28,7 +28,9 @@ More information on BSidesVienna 0x7E1 will follow [via twitter](https://twitter
 
 
 # Event details
-TO BE ANNOUNCED. That's the saturday right after [DeepSec](https://deepsec.net/).
+18.11.2017 (That's the saturday right after [DeepSec](https://deepsec.net/)).
+
+Location to be announced (something cool again, though!).
 
 #### Cost
 F-R-E-E!
