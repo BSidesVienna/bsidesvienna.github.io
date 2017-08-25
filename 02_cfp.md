@@ -6,7 +6,6 @@ permalink: /cfp/
 ---
 # Propaganda
 
-
 You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back for 2017!
 
 We're teaming up with the very fine folks over at [DeepSec](https://deepsec.net/) again to throw a BSides event straight after their conference at the
@@ -47,6 +46,7 @@ Topics of interest include (but are in no way limited to) the following:
 - Evolutionary computing
 - History & Philosophy of computing
 - Ethical and philosophical implications of hacking
+- Disrupting politics & society (in a constructive way)
 - Creating and maintaining safe-spaces & encouragement of female participation
 
 The Jargon Lexicon contains [a nice definition](http://www.catb.org/jargon/html/H/hacker.html) we think fits very well here:
@@ -61,14 +61,17 @@ hacker: n.
 [...]
 ```
 
+
 # Submission
-To apply, please provide the details of your talk proposal and contact info via email at <br>**crew [at] bsidesvienna [dot] at**
+
+To apply, please provide the details of your talk proposal and contact info via email at <br>**crew [at] bsidesvienna [dot] at**.
 
 CFP will close on **12th October 2017 (@ 23:59 UTC+1)**.
+
 
 # Sponsoring
 
 BSides Vienna is a non-profit community driven event, and relies on the kind sponsorship of people and companies like you to succeed.
 
-If you want to support the initiative and gain visibility by sponsoring, please contact us by writing an e-mail to crew [at] bsidesvienna [dot] at
+If you want to support the initiative and gain visibility by sponsoring, please contact us by writing an e-mail to **crew [at] bsidesvienna [dot] at***.
 
