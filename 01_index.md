@@ -30,7 +30,10 @@ More information on BSidesVienna 0x7E1 will follow [via twitter](https://twitter
 # Event details
 18.11.2017 (That's the saturday right after [DeepSec](https://deepsec.net/)).
 
-Location to be announced (something cool again, though!).
+#### Location
+[SUB (Super Unusual Beings)](http://wtf.sub.wien) ([Facebook](https://www.facebook.com/Sub.wien/))
+
+Storkgasse 7, 1050 - Wien/Vienna :: Austria :: Europe :: Earth :: Milky-way
 
 #### Cost
 F-R-E-E!
