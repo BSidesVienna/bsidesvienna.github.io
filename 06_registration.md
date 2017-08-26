@@ -6,3 +6,4 @@ permalink: /registration/
 ---
 # Registration
 
+**Will become available in reasonble time leading up to the event!**
