@@ -13,8 +13,8 @@ Storkgasse 7, 1050 - Wien/Vienna :: Austria :: Europe :: Earth ::
 Milky-way
 
 #### When does it start?
-- **Beginning**: 10:00
-- **End**: 04:00
+- **Beginning**: 18.11.2017 - 10:00
+- **End**: 19.11.2017 - 04:00
 
 [Local time]
 
