@@ -6,4 +6,4 @@ permalink: /registration/
 ---
 # Registration
 
-**Will become available in reasonble time leading up to the event!**
+Register [HERE](https://www.eventbrite.com/e/bsidesvienna-0x7e1-tickets-39168272357)
