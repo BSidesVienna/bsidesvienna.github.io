@@ -17,9 +17,9 @@ markdown: kramdown
 permalink: pretty
 highlighter: rouge
 
-exclude: [Gemfile, Gemfile.lock, CNAME, Readme.md, vendor, travis.sh]
+exclude: [Gemfile, Gemfile.lock, CNAME, Readme.md, vendor, travis.sh, .gitignore, .ruby-version, .ruby-gemset]
 
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-mentions
 - jemoji
