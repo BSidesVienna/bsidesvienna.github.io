@@ -71,22 +71,22 @@
   {
     "@context": "http://schema.org",
     "@type": "Event",
-    "name": "BSidesVienna {{ site.data.2017.year }}",
-    "description": "BSidesVienna {{ site.data.2017.year }}",
-    "startDate": "{{ site.data.2017.startdate }}",
-    "endDate": "{{ site.data.2017.enddate }}",
+    "name": "BSidesVienna {{ site.evt_year }}",
+    "description": "BSidesVienna {{ site.evt_year }}",
+    "startDate": "{{ site.evt_startdate }}",
+    "endDate": "{{ site.evt_enddate }}",
     "image": "https://bsidesvienna.at/img/bsides_logo_small.jpg",
     "offers": {
-      "url": "{{ site.data.2017.ticketurl }}"
+      "url": "{{ site.evt_ticketurl }}"
     },
     "location": {
       "@type": "Place",
-      "name": "{{ site.data.2017.loc_name }}",
+      "name": "{{ site.evt_loc_name }}",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "{{ site.data.2017.loc_address }}",
-        "addressLocality": "{{ site.data.2017.loc_city }}",
-        "postalCode": "{{ site.data.2017.loc_zip }}",
+        "streetAddress": "{{ site.evt_loc_address }}",
+        "addressLocality": "{{ site.evt_loc_city }}",
+        "postalCode": "{{ site.evt_loc_zip }}",
         "addressCountry": "AUT"
       }
     }

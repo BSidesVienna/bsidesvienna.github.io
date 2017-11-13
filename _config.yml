@@ -3,6 +3,16 @@ description: "BSidesVienna"
 archives: [2014, 2015, 2016]
 url: https://bsidesvienna.at
 
+# data about the current event for google
+evt_year: "2017"
+evt_startdate: "2017-11-18T10:00"
+evt_enddate: "2017-11-19T04:00"
+evt_ticketurl: "https://www.eventbrite.com/e/bsidesvienna-0x7e1-tickets-39168272357"
+evt_loc_name: "SUB (Super Unusual Beings)"
+evt_loc_address: "Storkgasse 7"
+evt_loc_zip: "1050"
+evt_loc_city: "Vienna"
+
 markdown: kramdown
 permalink: pretty
 highlighter: rouge
