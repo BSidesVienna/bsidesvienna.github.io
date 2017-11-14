@@ -5,3 +5,10 @@
 - name: "SBA-Research"
   url: "https://www.sba-research.org"
   image: "/img/sponsors/2017/sba.png"
+
+- name: "VACE Security"
+  url: "https://www.vace-sec.at/"
+  image: "/img/sponsors/2017/vace.png"
+
+- name: "Hagenberg Cloud Computing Association"
+  url: "http://www.hcca.at/"
