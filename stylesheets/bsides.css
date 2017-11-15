@@ -9,7 +9,7 @@ body {
 #wrap386, #bar386, #cursor386 {
     background: #000000;
 }
-    /* overwrite image styles with defaults, otherwise images are rendered incorrect */
+/* overwrite image styles with defaults, otherwise images are rendered incorrect */
 img {
     -webkit-filter: contrast(100%);
     -moz-filter: contrast(100%);
