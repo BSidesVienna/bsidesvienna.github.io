@@ -11,5 +11,5 @@ Check and confirm your changes are working by pointing your browser to `http://l
 
 ## Test locally using docker
 ```
-docker run --rm -v "${PWD}":/app/ -p 4000:4000 firefart/docker-github-pages serve
+docker run --rm -v "${PWD}":/app/ -p 127.0.0.1:4000:4000 firefart/docker-github-pages
 ```
