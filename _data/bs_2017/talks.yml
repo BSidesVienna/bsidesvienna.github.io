@@ -71,7 +71,27 @@
   schedule_time: "17:15 - 17:30"
   hide_in_talks: true
 
-- title: "Afterparty - same location. Dj lineup to follow"
-  schedule_id: 11
-  schedule_time: "17:30 - 04:00"
+- title: "Beatprozessor - Dj & Live [miamibass/electro/house/techno/ghettotech]"
+  schedule_id: 12
+  schedule_time: "???? - 21:30"
   hide_in_talks: true
+
+- title: "ShroomBab [Drum & Bass]"
+  schedule_id: 13
+  schedule_time: "21:30 - 23:00"
+  hide_in_talks: true
+
+- title: "Abraham Wurstkessel (Galactic Township, Red Out) [breaks/grime]"
+  schedule_id: 14
+  schedule_time: "23:00 - 01:00"
+  hide_in_talks: true
+
+- title: "More DJs TBA & Open Decks"
+  schedule_id: 14
+  schedule_time: "01:00 - 04:00"
+  hide_in_talks: true
+
+
+
+
+
