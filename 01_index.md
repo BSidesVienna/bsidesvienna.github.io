@@ -21,7 +21,7 @@ More information on BSidesVienna 0x7E1 will follow [via twitter](https://twitter
 
 # News
 
-{% for news_entry in site.data.2017.news %}
+{% for news_entry in site.data.bs_2017.news %}
 ### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
 {{ news_entry.content }}
 {% endfor %}
@@ -46,5 +46,5 @@ or be old fashioned and send us an e-mail to crew [at] bsidesvienna [dot] at.
 Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for content related to this event.
 
 #### Crew
-* {% for member in site.data.2017.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
+* {% for member in site.data.bs_2017.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
 * ..and anonymous others
