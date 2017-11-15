@@ -20,5 +20,13 @@ EXPECT LAST MINUTE ADDITIONS/CHANGES TO THE SCHEDULE!
 | 7  | 15:30 - 16:15 | [Five Days in the Life of a CMS Brute Forcing Malware](/talks/#4) |
 | 8  | 16:15 - 16:30 | 15 minute break |
 | 9  | 16:30 - 17:15 | [High-performance web application fingerprinting based on SCM repositories](/talks/#5) |
-| 10 | 17:15 - 17:30 | Closing talk |
-| 11 | 17:30 - 04:00 | Afterparty - same location. Dj lineup to follow |
+| 10 | 17:15 - 17:30 | MORE TALKS TBA + Closing ceremony |
+
+# Timetable
+|    | Time          | Talk |
+| -- | ------------- | ------------------------------------------------------------------------------------------------------ |
+| 1  | ????? - 21:30 | Beatprozessor - Dj & Live [miamibass/electro/house/techno/ghettotech] |
+| 2  | 21:30 - 23:00 | ShroomBab [Drum & Bass] |
+| 3  | 23:00 - 01:00 | Abraham Wurstkessel (Galactic Township | Red Out) [breaks/grime] |
+| 4  | 01:00 - 04:00 | Open Decks - more Djs TBA |
+
