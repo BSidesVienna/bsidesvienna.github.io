@@ -56,6 +56,7 @@
   schedule_time: "16:15 - 16:30"
   hide_in_talks: true
 
+
 - title: "High-performance web application fingerprinting based on SCM repositories"
   author: "András Veres-Szentkirályi"
   id: 5
