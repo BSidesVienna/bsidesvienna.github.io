@@ -24,7 +24,7 @@ More information on BSidesVienna 0x7DF will follow [via twitter](https://twitter
 
 # News
 
-{% for news_entry in site.data.2015.news %}
+{% for news_entry in site.data.bs_2015.news %}
 ### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
 {{ news_entry.content }}
 {% endfor %}
@@ -52,5 +52,5 @@ Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for conten
   - [Photos](http://securityg33k.blogspot.sg/2014/12/bsidesvienna-conference-for-cyber-geeks.html)
 
 #### Crew
-* {% for member in site.data.2015.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
+* {% for member in site.data.bs_2015.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
 * ..and anonymous others

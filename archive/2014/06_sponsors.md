@@ -15,7 +15,7 @@ than welcome to participate in any way you feel appropriate.
 
 # Our sponsors
 
-{% for sponsor in site.data.2014.sponsors %}
+{% for sponsor in site.data.bs_2014.sponsors %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 
 [![{{ sponsor.name }}]({{ sponsor.image }}){:width="200px"}]({{ sponsor.url }})

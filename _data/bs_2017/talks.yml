@@ -2,36 +2,76 @@
   author: "Tanya Janca"
   author_url: "https://twitter.com/shehackspurple"
   id: 1
+  schedule_id: 1
+  schedule_time: "10:30 - 11:15"
   abstract: >
     With incident response and penetration testing currently receiving most of our application security dollars, it would appear that industry has decided to treat the symptom instead of the disease. "Pushing left" refers to starting security earlier in the SDLC; addressing the problem throughout the process.  From scanning your code with a vulnerability scanner to red team exercises, developer education programs and bug bounties, this talk will show you how to ‘push left', like a boss.
+
+- title: "15 minute break"
+  schedule_id: 2
+  schedule_time: "11:15 - 11:30"
+  hide_in_talks: true
 
 - title: "The Art of Fuzzing"
   author: "René Freingruber"
   author_url: "https://sec-consult.com/en/blog/2017/09/hack-the-hacker-fuzzing-mimikatz-on-windows-with-winafl-heatmaps-0day/index.html"
   id: 2
+  schedule_id: 3
+  schedule_time: "11:30 - 13:30"
   abstract: "Fuzzing is a very powerful technique to detect flaws and vulnerabilities in software. The aim of this talk is to demonstrate different techniques which can be used to fuzz applications or libraries. Choosing the correct and most effective fuzzing technique will be discussed with real-world examples. Moreover, hints according common problems and pitfalls during fuzzing will be given. The demonstrations include fuzzing techniques with source code available as well as reverse engineering tricks for closed-source applications. After the talk attendees should not only know how to fuzz with famous public fuzzers but also how to dramatically enhance the fuzzing results."
+
+- title: "Lunch break"
+  schedule_id: 4
+  schedule_time: "13:30 - 14:30"
+  hide_in_talks: true
 
 - title: "ManaTI: Web Assistance for the Threat Analyst, supported by Domain Similarity"
   author: "Raúl Benítez Netto & Sebastian García"
   author_url: "https://about.me/rauliss"
   id: 3
+  schedule_id: 5
+  schedule_time: "14:30 - 15:15"
   abstract: >
     The amount of new malware and variants of old malware increases continually. This generates a growing amount of network traffic to analyze, challenging researchers to find better detection methods. When threat analysts are confronted with such amount of traffic, they are usually overwhelmed, having less time to analyze the traffic. This situation generates less accurate results.
     In the last few years most malware had migrated their communication channels to web protocols, mostly to avoid being filtered from inside organizations. As a consequence, there is a great availability of traffic logs of web protocols to analyze. These logs are usually called weblogs. The use of weblogs for security analysis is an old practice with well documented results. The analysis of weblogs requires a deep knowledge of security topics, patterns analysis, malicious behaviors and protocols details: DNS, WHOIS, HTTP, etc. Unfortunately, these skills are difficult to acquire for the analysts. Analyzing millions of weblogs with speed and accuracy, balancing the amount of information and finding threats is, at least, a daunting task.
     It became clear, then, the need for a tool to assists analysts in this task. A tool to help analysts organize their work, improve their detections and speed up their analysis. In this context, we researched and created a new tool, called ManaTI, to assist network security analysts to find threats in weblogs faster. ManaTI allows the analyst to work with weblogs in groups, apply labels, make comments, use third-party services (such as VirusTotal), visualize statistics and create new background analysis modules. A special feature of ManaTI its is novel WHOIS similarity distance algorithm. This algorithm can find if two domains are related given their WHOIS information. ManaTI was evaluated with real analysts. There are two main conclusions: first, that ManaTI can increase the speed of analysts by a factor of 3.4 in average. Second, that the WHOIS similarity distance makes possible to find related domains. All our research and code was made public for the research community.
 
+- title: "15 minute break"
+  schedule_id: 6
+  schedule_time: "15:15 - 15:30"
+  hide_in_talks: true
+
 - title: "Five Days in the Life of a CMS Brute Forcing Malware"
   author: "Anna Shirokova & Veronica Valeros"
   id: 4
+  schedule_id: 7
+  schedule_time: "15:30 - 16:15"
   abstract: >
     Web content management systems (CMS), specifically WordPress, have been widely adopted since their inception.  Over 5% of the internets' websites today use WordPress. Because of this wide adoption CMS are a constantly targeted by malicious actors looking for a cheap and disposable infrastructure for their malware. Compromised CMS are often used as temporary command and control servers, to host malicious files, or for various drive-by attacks.
     Brute forcing is the most common type of attacks against CMS, which takes advantage of users who often choose weak credentials. In order to avoid detection, malicious attackers use distributed brute forcing attacks against CMS websites with botnets designed specifically for this purpose. One of the most recent and prominent botnets in this area is Sathurbot.
     In this talk we will present an in-depth analysis of the Sathurbot botnet. The goal of the presentation is threefold: First, an introduction of Sathurbot botnet, historical context, and an overview of its modules. Second, a network traffic analysis of a five day real Sathurbot infection. Third, insights into the malicious actor's operational techniques.
 
+- title: "15 minute break"
+  schedule_id: 8
+  schedule_time: "16:15 - 16:30"
+  hide_in_talks: true
+
 - title: "High-performance web application fingerprinting based on SCM repositories"
   author: "András Veres-Szentkirályi"
   id: 5
+  schedule_id: 9
+  schedule_time: "16:30 - 17:15"
   abstract: >
     Network security assessments often reveal web servers running variou outdated versions of FLOSS web applications such as RoundCube, phpMyAdmin or SquirrelMail. Narrowing the set of vulnerabilities that could affect such a setup is easier if we know the version installed, however in many cases, obvious clues such as READMEs and changelogs are removed on purpose.
     When the source code along with its history is available online, it is possible to correlate static file contents with specific commit ranges, and we had done so in the past manually. However, much of this could be automated, so we developed a tool that can identify a Git commit range based on static file contents. It can be used either as a standalone tool or as a Burp Suite plugin.
     The talk describes and demonstrates our tool from source code to everyday usage, along with an intro to git internals to understand how this can be done fast on repositories with hundreds of thousands of commits. Source code is already up on GitHub, pull requests are welcome: https://github.com/silentsignal/burp-git-version
+
+- title: "Closing talk"
+  schedule_id: 10
+  schedule_time: "17:15 - 17:30"
+  hide_in_talks: true
+
+- title: "Afterparty - same location. Dj lineup to follow"
+  schedule_id: 11
+  schedule_time: "17:30 - 04:00"
+  hide_in_talks: true

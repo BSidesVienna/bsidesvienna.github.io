@@ -1,0 +1,38 @@
+/* darken the background and loading effect */
+body {
+    visibility: hidden;
+    background-color: #000000;
+}
+.page-header {
+    margin-top: 2em;
+}
+#wrap386, #bar386, #cursor386 {
+    background: #000000;
+}
+/* overwrite image styles with defaults, otherwise images are rendered incorrect */
+img {
+    -webkit-filter: contrast(100%);
+    -moz-filter: contrast(100%);
+    -ms-filter: contrast(100%);
+    -o-filter: contrast(100%);
+    filter: contrast(100%);
+}
+table, td, tr {
+    border-style: solid;
+    border-color: #00aaaa;
+    padding: 10px;
+}
+thead {
+    background-color: #00aaaa;
+    color: #000000;
+}
+/* Needed for images inside a tags and mouseover */
+a {
+    display: inline-block;
+}
+/* extend container */
+.container {
+    margin-left: 20px;
+    margin-right: 20px;
+    width: unset;
+}
