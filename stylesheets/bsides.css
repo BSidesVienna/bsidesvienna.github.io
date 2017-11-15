@@ -34,5 +34,5 @@ a {
 .container {
     margin-left: 20px;
     margin-right: 20px;
-    width: 100%;
+    width: unset;
 }
