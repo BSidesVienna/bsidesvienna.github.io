@@ -67,14 +67,14 @@
     The talk describes and demonstrates our tool from source code to everyday usage, along with an intro to git internals to understand how this can be done fast on repositories with hundreds of thousands of commits. Source code is already up on GitHub, pull requests are welcome: https://github.com/silentsignal/burp-git-version
 
 - title: "5 minute break"
-  schedule_id: 9
+  schedule_id: 10
   schedule_time: "16:25 - 16:30"
   hide_in_talks: true
 
 - title: Mobile Banking (In)Security
   author: "Sneha Rajguru"
   id: 6
-  schedule_id: 10
+  schedule_id: 11
   schedule_time: "16:30 - 17:15"
   abstract: >
     There are over 1.2 Billion smartphone users worldwide and more adding every day, it can be said that smartphone has now become a standalone device to use. Individuals adopt smartphones not only to surf the Internet but also use it as means of entertainment, information, shopping, socialising, travel and to do banking, so much so that it is now a one stop solution for almost everything.
@@ -82,7 +82,7 @@
     In this talk, I am going to present a deep analysis of many mobile banking applications collected around the world and talk about the vulnerabilities which are of grave concern.
 
 - title: "5 minute break"
-  schedule_id: 11
+  schedule_id: 12
   schedule_time: "17:15 - 17:20"
   hide_in_talks: true
 
@@ -91,21 +91,21 @@
 - title: True Cost and Real Benefits of Industrial Internet of Things Security
   author: "Herbert Dirnberger"
   id: 7
-  schedule_id: 12
+  schedule_id: 13
   schedule_time: "17:20 - 18:05"
   abstract: >
     Basically, the Internet of Things has an enormous potential to make life easier but not without security. In a best practice talk the whole process how to implement security in iIoT Systems will be explained and discussed.
     The represented expected cost of security measures for minimize risk, the cost of incidents response and the benefit and value added of optimized processes in the whole system life cycle can help to solve to find the right alignment.
 
 - title: "5 minute break"
-  schedule_id: 13
+  schedule_id: 14
   schedule_time: "18:05 - 18:10"
   hide_in_talks: true
     
 - title: "A Song of Botnets and Power: Blackout is coming"
   author: "atrox"
   id: 8
-  schedule_id: 12
+  schedule_id: 15
   schedule_time: "18:10 - 18:55"
   abstract: >
     Power grids are a prime example of large-scale decentralized critical infrastructure pre-dating modern telecommunication by decades. The volatility of grids is often underestimated. To stabilize the nominal frequency power production and consumption have to be continuously kept in balance. As consumers are predominantly uncontrolled, operators have to adapt power plants' output to the demanded power using elaborated models including parameters like weather, season, and time of the day. These models are based on the premise of a large number of small consumers averaging out their energy consumption spikes. However, an adversary in control of a sufficiently large number of computers can break this premise by synchronizing their load patterns and create artificial load spikes, pushing the grid out of its operational limits. 

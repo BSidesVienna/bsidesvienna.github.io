@@ -17,6 +17,8 @@ permalink: /
 # Event details
 18.11.2017 (That's the saturday right after [DeepSec](https://deepsec.net/)).
 
+Get your tickets here: [Eventbrite](https://www.eventbrite.com/e/bsidesvienna-0x7e1-tickets-39168272357#tickets)
+
 #### Location
 [SUB (Super Unusual Beings)](http://wtf.sub.wien) ([Facebook](https://www.facebook.com/Sub.wien/))
 
