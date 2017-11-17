@@ -1,21 +1,22 @@
 language: ruby
 rvm:
   - 2.4
+cache: bundler
 
 before_install:
+  # switch from gnutls to openssl
   - sudo apt-get -qq update
   - sudo apt-get install -y curl ca-certificates openssl libcurl3 libcurl4-openssl-dev
   - sudo apt-get purge -y libcurl3-gnutls libcurl4-gnutls-dev libnss3 libnss3-nssdb
-  - sudo dpkg -l
-  - curl --version
 
 before_script:
- - chmod +x ./travis.sh
+  - chmod +x ./travis.sh
 
-script: ./travis.sh
+script:
+  - ./travis.sh
 
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 sudo: false
