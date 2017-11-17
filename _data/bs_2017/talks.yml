@@ -111,10 +111,24 @@
   abstract: >
     Power grids are a prime example of large-scale decentralized critical infrastructure pre-dating modern telecommunication by decades. The volatility of grids is often underestimated. To stabilize the nominal frequency power production and consumption have to be continuously kept in balance. As consumers are predominantly uncontrolled, operators have to adapt power plants' output to the demanded power using elaborated models including parameters like weather, season, and time of the day. These models are based on the premise of a large number of small consumers averaging out their energy consumption spikes. However, an adversary in control of a sufficiently large number of computers can break this premise by synchronizing their load patterns and create artificial load spikes, pushing the grid out of its operational limits. 
     Before that, grid security was often understood in a classic IT or CPS sense, i.e., attacking components over their digital interfaces. Our adversary does not have to rely on any current or future smart grid features for a successful attack.    
+smart grid features for a successful attack.    
+
+- title: "5 minute break"
+  schedule_id: 16
+  schedule_time: "18:55 - 19:00"
+  hide_in_talks: true
+
+- title: "Android Malware detection via ML"
+  author: "unknown students"
+  id: 9
+  schedule_id: 17
+  schedule_time: "19:00 - 19:45"
+  abstract: >
+Based on the DREBIN paper, we are exploring possibilities to improve the detection rate and reduce the FPR for Android APK malware detection via ML. This is a talk about a student's project which is currently WIP.
 
 - title: "Closing talk"
   schedule_id: 20
-  schedule_time: "18:55 - 19:00"
+  schedule_time: "19:45 - 20:00"
   hide_in_talks: true
 
 - title: "Beatprozessor - Dj & Live [miamibass/electro/house/techno/ghettotech]"
