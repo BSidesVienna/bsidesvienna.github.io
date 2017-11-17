@@ -73,6 +73,7 @@
 
 - title: Mobile Banking (In)Security
   author: "Sneha Rajguru"
+  author_url: "https://twitter.com/Sneharajguru"
   id: 6
   schedule_id: 11
   schedule_time: "16:30 - 17:15"
@@ -86,10 +87,9 @@
   schedule_time: "17:15 - 17:20"
   hide_in_talks: true
 
-
-
 - title: True Cost and Real Benefits of Industrial Internet of Things Security
   author: "Herbert Dirnberger"
+  author_url: "https://www.cybersecurityaustria.at/"
   id: 7
   schedule_id: 13
   schedule_time: "17:20 - 18:05"
@@ -101,18 +101,16 @@
   schedule_id: 14
   schedule_time: "18:05 - 18:10"
   hide_in_talks: true
-    
+
 - title: "A Song of Botnets and Power: Blackout is coming"
   author: "atrox"
+  author_url: "https://twitter.com/atrox_at"
   id: 8
   schedule_id: 15
   schedule_time: "18:10 - 18:55"
   abstract: >
     Power grids are a prime example of large-scale decentralized critical infrastructure pre-dating modern telecommunication by decades. The volatility of grids is often underestimated. To stabilize the nominal frequency power production and consumption have to be continuously kept in balance. As consumers are predominantly uncontrolled, operators have to adapt power plants' output to the demanded power using elaborated models including parameters like weather, season, and time of the day. These models are based on the premise of a large number of small consumers averaging out their energy consumption spikes. However, an adversary in control of a sufficiently large number of computers can break this premise by synchronizing their load patterns and create artificial load spikes, pushing the grid out of its operational limits. 
     Before that, grid security was often understood in a classic IT or CPS sense, i.e., attacking components over their digital interfaces. Our adversary does not have to rely on any current or future smart grid features for a successful attack.    
-
-
-
 
 - title: "Closing talk"
   schedule_id: 20
@@ -138,8 +136,4 @@
   schedule_id: 24
   schedule_time: "01:00 - 04:00"
   hide_in_talks: true
-
-
-
-
 
