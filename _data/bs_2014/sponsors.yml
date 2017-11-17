@@ -19,7 +19,7 @@
   image: "/img/sponsors/2014/wko_it_security.png"
 
 - name: "BruCON"
-  url: "http://www.brucon.org"
+  url: "https://www.brucon.org"
   image: "/img/sponsors/2014/brucon.jpg"
 
 - name: "DeepSec"

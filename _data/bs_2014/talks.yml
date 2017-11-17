@@ -93,7 +93,7 @@
 
 - title: "Identifying and Detecting Botnet Behaviors in the Network"
   author: "Sebastian Garcia"
-  author_url: "http://mcfp.felk.cvut.cz/"
+  author_url: "https://stratosphereips.org/"
   id: 17
   abstract: "Detecting malware in the network is so difficult that we don't even know if we are doing it wrong. From all the network-based detection techniques, the behavioral methods are the less explored and the most promising. The behavioral methods are being used because the botnets traffic is so complex that we can not characterize it with statistical tools. If we fail to identify its trends we may fail to protect our network. We present a behavioral-based network traffic model and free software tool that can characterize and detect the botnet traffic by identifying specific malicious behaviors. To create our method we analyzed dozens of large botnet captures in our Malware Capture Facility Project and we extracted the inherent characteristics of their time-based behaviors. Our Markov Chains-based detection method was compared and verified in real captures with normal, botnet and unknown data. This detection method is a promising approach to integrate behavioral controls in our network defenses."
 
