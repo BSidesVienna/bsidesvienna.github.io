@@ -123,7 +123,7 @@
   schedule_id: 17
   schedule_time: "19:00 - 19:45"
   abstract: >
-Based on the DREBIN paper, we are exploring possibilities to improve the detection rate and reduce the FPR for Android APK malware detection via ML. This is a talk about a project which is currently WIP.
+    Based on the DREBIN paper, we are exploring possibilities to improve the detection rate and reduce the FPR for Android APK malware detection via ML. This is a talk about a project which is currently WIP.
 
 - title: "Closing talk"
   schedule_id: 20
