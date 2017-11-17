@@ -11,7 +11,7 @@ archive: true
 
 * [Floorplan](https://goo.gl/maps/sF5gHcXSgyq) (on Google Maps)
 * [Address and university map](https://zid.univie.ac.at/en/nig/)
-* [Details on NIG](https://event.univie.ac.at/en/venues/room-allocation-for-events/locations-floor-plans-and-photos/neues-institutsgebaeude-nig/):
+* Details on NIG:
 
 ```Plaintext
  An inscription on a staircase wall of the NIG building cites one of the

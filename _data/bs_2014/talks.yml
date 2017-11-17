@@ -13,7 +13,6 @@
 
 - title: "Vulnerability Assessments on SCADA Networks: Outsmarting the Smart Grid"
   author: "Fadli B. Sidek"
-  author_url: "https://sg.linkedin.com/in/fadlisidek"
   id: 4
   slides: "/slides/2014/vulnerability_assessments_on_scada_networks_outsmarting_the_smart_grid.pdf"
   abstract: "Critical Infrastructure security has been on the news and the talk of the town since 2005. While there are many talks and demonstrations about how to penetrate and exploit SCADA systems, little discussions about the pre-exploitation phase were shared and discussed. I'm talking of course about the Vulnerability Assessment phase. Some may have performed such assessment before and many are curious as to how to start it in the first place. Questions like, what are the methodologies used in performing an assessment on SCADA networks? What information is required before we click the 'Start Scan Now' button? What plugins should be used? And do my scans guarantee that these ultra sensitive systems will not go down? And which approach (automatic or manual) should be used in which situation. This talk is to share my personal experience and challenges faced during a SCADA assessment. I will also give an overview of a typical SCADA environment, the tools used for the assessment, the type of vulnerabilities found and how possible it is for an attacker to potentially 'own' a Critical Infrastructure."
@@ -45,7 +44,7 @@
 
 - title: "OSPF - Open Shortest Pwn First"
   author: "Louis Duruflé"
-  author_url: "https://louisdurufle.eu"
+
   id: 9
   slides: "/slides/2014/ospf_open_shortest_pwn_first.pdf"
   abstract: "IT-Network are becoming a vital part of every infrastructure. With the growth of the networks, maintaining the routing tables of every router had become complex and time-consuming. To automate this process, routing protocol like RIP or OSPF have been developed. These protocols allow routers to communicate and exchange route with each other and ensure that every IP packet emitted by a computer reaches its destination. The good configuration of these protocols is crucial for the availability and the security of the networks. A wrong or naive configuration can lead to potential great disaster for the global security of all data transmitted over the network. In this talk I will present the routing protocol, what is it used for, how does it work and where is it used. I will then present the security aspects of routing protocols with focus on OSPF. In the last part I'll introduce some attacks that can be launched against routing protocols and their consequences."

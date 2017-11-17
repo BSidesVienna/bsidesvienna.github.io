@@ -74,4 +74,3 @@ CFP will close on **20th October 2017 (@ 23:59 UTC+1)**.
 BSides Vienna is a non-profit community driven event, and relies on the kind sponsorship of people and companies like you to succeed.
 
 If you want to support the initiative and gain visibility by sponsoring, please contact us by writing an e-mail to **crew [at] bsidesvienna [dot] at***.
-
