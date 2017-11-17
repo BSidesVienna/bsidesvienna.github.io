@@ -6,7 +6,7 @@
 
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-
+ 
   <meta name="twitter:site" content="@BSidesVienna">
   <meta property="og:site_name" content="{{ site.name | xml_escape }}" />
   <meta property="og:title" content="{{ page.title | xml_escape }}" />
@@ -59,6 +59,7 @@
       {%- capture page_year %}{{ p.year }}{% endcapture %}
       {%- if page_year == archive_year %}
         {%- unless p.nomenu == true %}
+        {%- if page.title %}
           {%- if page.url == p.url %}
           <li class="active">
             <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
@@ -68,6 +69,7 @@
             <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
           </li>
           {%- endif %}
+        {%- endif %}
         {%- endunless %}
       {%- endif %}
     {%- endif %}
