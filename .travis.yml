@@ -9,11 +9,8 @@ before_install:
   - sudo apt-get install -y curl ca-certificates openssl libcurl3 libcurl4-openssl-dev
   - sudo apt-get purge -y libcurl3-gnutls libcurl4-gnutls-dev libnss3 libnss3-nssdb
 
-before_script:
-  - chmod +x ./travis.sh
-
 script:
-  - ./travis.sh
+  - bundle exec rake test
 
 env:
   global:
