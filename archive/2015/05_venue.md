@@ -23,7 +23,7 @@ archive: true
 <br />
 
 # Public Transport
-* [Plan your Route](http://www.wienerlinien.at/eportal2/ep/channelView.do/channelId/-46649?routeTo=Universit%C3%A4tsstra%C3%9Fe%207) (click 'English' in the upper midsection of the page)
+* [Plan your Route](https://www.wienerlinien.at/eportal2/ep/channelView.do/channelId/-46649?routeTo=Universit%C3%A4tsstra%C3%9Fe%207) (click 'English' in the upper midsection of the page)
 
 # Geospatial Intelligence
 * [Vienna City Map](https://www.wien.gv.at/stadtplan/grafik.aspx?lang=de-AT&bookmark=CFdaRk9ONUYHnzdEWmymQ4cHSZlmRHGmmkeu25v6MZj6Cg-b-b&bmadr=10054140)
