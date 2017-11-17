@@ -6,7 +6,7 @@ cache: bundler
 before_install:
   - sudo apt-get -qq update
   - sudo apt-get install -y curl ca-certificates openssl
-  - sudo apt-get update -y
+  - sudo apt-get upgrade -y
   - sudo dpkg -l
 
 before_script:
