@@ -53,5 +53,3 @@ Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for conten
 #### Crew
 * {% for member in site.data.bs_2017.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
 * ..and anonymous others
-
-

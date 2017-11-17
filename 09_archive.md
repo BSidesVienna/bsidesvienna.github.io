@@ -7,8 +7,8 @@ permalink: /archive/
 
 Archive of old BsidesVienna Events.
 
-{% for year in site.archives %}
+{%- for year in site.archives %}
 
 * [{{ year }}](/archive/{{ year }}/)
 
-{% endfor %}
+{%- endfor %}

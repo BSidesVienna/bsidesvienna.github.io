@@ -13,3 +13,8 @@ Check and confirm your changes are working by pointing your browser to `http://l
 ```
 docker run --rm -v "${PWD}":/app/ -p 127.0.0.1:4000:4000 firefart/docker-github-pages
 ```
+
+## Get a shell with docker
+```
+docker run --rm -v "${PWD}":/app/ -it -u root --entrypoint="" firefart/docker-github-pages /bin/sh
+```

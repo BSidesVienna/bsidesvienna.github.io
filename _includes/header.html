@@ -75,22 +75,22 @@
       <a class="brand" href="/">BSidesVienna 0x7E1</a>
       <div class="nav-collapse collapse">
         <ul class="nav">
-        {% assign sorted_pages = site.pages | sort:"name" %}
-          {% for p in sorted_pages %}
-            {% unless p.archive == true %}
-              {% unless p.nomenu == true %}
-                {% if page.url == p.url %}
-                  <li class="active">
-                    <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
-                  </li>
-                {% else %}
-                  <li>
-                    <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
-                  </li>
-                {% endif %}
-              {% endunless %}
-            {% endunless %}
-          {% endfor %}
+{%- assign sorted_pages = site.pages | sort:"name" %}
+  {%- for p in sorted_pages %}
+    {%- unless p.archive == true %}
+      {%- unless p.nomenu == true %}
+        {%- if page.url == p.url %}
+          <li class="active">
+            <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
+          </li>
+        {%- else %}
+          <li>
+            <a href="{{p.permalink}}" title="{{p.title}}">{{p.title}}</a>
+          </li>
+        {%- endif %}
+      {%- endunless %}
+    {%- endunless %}
+  {%- endfor %}
         </ul>
       </div>
     </div>
