@@ -1,11 +1,11 @@
 language: ruby
 rvm:
-- 2.4
-cache: bundler
+  - 2.4
 
 before_install:
   - sudo apt-get -qq update
-  - sudo apt-get install -y curl ca-certificates openssl libcurl3-gnutls libcurl4-gnutls-dev libnss3 libnss3-nssdb
+  - sudo apt-get install -y curl ca-certificates openssl libcurl3 libcurl4-openssl-dev
+  - sudo apt-get purge -y libcurl3-gnutls libcurl4-gnutls-dev libnss3 libnss3-nssdb
   - sudo dpkg -l
   - curl --version
 
