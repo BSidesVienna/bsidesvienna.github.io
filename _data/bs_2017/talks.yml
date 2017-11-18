@@ -145,7 +145,7 @@
   schedule_time: "23:00 - 01:00"
   hide_in_talks: true
 
-- title: "More DJs TBA & Open Decks"
+- title: "Open Decks"
   schedule_id: 24
   schedule_time: "01:00 - 04:00"
   hide_in_talks: true
