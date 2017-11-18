@@ -130,9 +130,9 @@
   schedule_time: "19:45 - 20:00"
   hide_in_talks: true
 
-- title: "Beatprozessor - Dj & Live [miamibass/electro/house/techno/ghettotech]"
+- title: "Beatprozessor - Dj & Live [miamibass/electro/house/ghettotech]"
   schedule_id: 22
-  schedule_time: "????? - 21:30"
+  schedule_time: "20:00 - 21:30"
   hide_in_talks: true
 
 - title: "ShroomBab [Drum & Bass]"
@@ -140,13 +140,19 @@
   schedule_time: "21:30 - 23:00"
   hide_in_talks: true
 
-- title: "Abraham Wurstkessel (Galactic Township, Red Out) [breaks/grime]"
+- title: "Abraham Wurstkessel - Live (Galactic Township, Red Out) [breaks/grime]"
   schedule_id: 24
   schedule_time: "23:00 - 01:00"
   hide_in_talks: true
 
-- title: "Open Decks"
+
+- title: "Beatprozessor b2b azet [techno/acid-techno]"
   schedule_id: 24
-  schedule_time: "01:00 - 04:00"
+  schedule_time: "01:00 - 02:30"
+  hide_in_talks: true
+
+- title: "Open Decks"
+  schedule_id: 25
+  schedule_time: "02:30 - 04:00"
   hide_in_talks: true
 

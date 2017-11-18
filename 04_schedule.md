@@ -5,9 +5,6 @@ year: 2017
 permalink: /schedule/
 ---
 
-EXPECT LAST MINUTE ADDITIONS/CHANGES TO THE SCHEDULE!
-
-
 {%- assign sorted_talks = site.data.bs_2017.talks | sort:"schedule_id" %}
 
 |    | Time          | Talk |
