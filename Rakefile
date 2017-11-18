@@ -9,6 +9,8 @@ task :test do
     :check_html => true,
     :check_opengraph => true,
     :internal_domains	 => ["bsidesvienna.at"],
+    # BruCon gives strange errors
+    :url_ignore => ["https://www.brucon.org"],
     :log_level => :debug,
     :validation => {
       :report_script_embeds => true,
