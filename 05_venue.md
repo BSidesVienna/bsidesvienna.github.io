@@ -14,6 +14,10 @@ Milky-way
 
 **There's free and reliable WiFi available in the club!**
 
+#### WiFi
+SSID: `SUB`     
+Password: `superunusual`
+
 #### When does it start?
 - **Beginning**: 18.11.2017 - 10:00
 - **End**: 19.11.2017 - 04:00
