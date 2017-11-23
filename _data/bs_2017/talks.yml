@@ -59,6 +59,7 @@
 - title: "High-performance web application fingerprinting based on SCM repositories"
   author: "András Veres-Szentkirályi"
   author_url: "https://github.com/dnet"
+  slides: "/slides/2017/high_performance_web_application_fingerprinting_based_on_scm_repositories.pdf"
   id: 5
   schedule_id: 9
   schedule_time: "15:40 - 16:25"
