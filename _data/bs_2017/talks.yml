@@ -15,6 +15,7 @@
 - title: "The Art of Fuzzing"
   author: "René Freingruber"
   author_url: "https://sec-consult.com/en/blog/2017/09/hack-the-hacker-fuzzing-mimikatz-on-windows-with-winafl-heatmaps-0day/index.html"
+  slides: "/slides/2017/the_art_of_fuzzing.pdf"
   id: 2
   schedule_id: 3
   schedule_time: "11:20 - 13:20"
