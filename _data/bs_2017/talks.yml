@@ -1,6 +1,7 @@
 - title: "Pushing Left, Like a Boss"
   author: "Tanya Janca"
   author_url: "https://twitter.com/shehackspurple"
+  slides: "/slides/2017/pushing_left_like_a_boss.pdf"
   id: 1
   schedule_id: 1
   schedule_time: "10:30 - 11:15"
@@ -45,6 +46,7 @@
 
 - title: "Five Days in the Life of a CMS Brute Forcing Malware"
   author: "Anna Shirokova & Veronica Valeros"
+  slides: "/slides/2017/five_days_in_the_life_of_a_cms_brute_forcing_malware.pdf"
   id: 4
   schedule_id: 7
   schedule_time: "14:50 - 15:35"
@@ -94,6 +96,7 @@
 - title: True Cost and Real Benefits of Industrial Internet of Things Security
   author: "Herbert Dirnberger"
   author_url: "https://www.cybersecurityaustria.at/"
+  slides: "/slides/2017/true_cost_and_real_benefits_of_industrial_internet_of_things_security.pdf"
   id: 7
   schedule_id: 13
   schedule_time: "17:20 - 18:05"
