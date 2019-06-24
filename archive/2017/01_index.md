@@ -1,8 +1,9 @@
 ---
 title: Index
-layout: default
-year: 2019
-permalink: /
+layout: archive
+year: 2017
+permalink: /archive/2017/
+archive: true
 ---
 
 # What's BsidesVienna?
@@ -12,19 +13,21 @@ More information on BSidesVienna will follow [via twitter](https://twitter.com/B
 
 # News
 
-{% for news_entry in site.data.bs_2019.news %}
+{% for news_entry in site.data.bs_2017.news %}
 ### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
 {{ news_entry.content }}
 {% endfor %}
 
 
 # Event details
-??????
+18.11.2017 (That's the saturday right after [DeepSec](https://deepsec.net/)).
 
+Get your tickets here: [Eventbrite](https://www.eventbrite.com/e/bsidesvienna-0x7e1-tickets-39168272357#tickets)
 
 #### Location
-????
+[SUB (Super Unusual Beings)](http://wtf.sub.wien) ([Facebook](https://www.facebook.com/Sub.wien/))
 
+Storkgasse 7, 1050 - Wien/Vienna :: Austria :: Europe :: Earth :: Milky-way
 
 #### Cost
 F-R-E-E!
@@ -47,5 +50,5 @@ or be old fashioned and send us an e-mail to crew [at] bsidesvienna [dot] at.
 Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for content related to this event.
 
 #### Crew
-* {% for member in site.data.bs_2019.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
+* {% for member in site.data.bs_2017.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
 * ..and anonymous others
