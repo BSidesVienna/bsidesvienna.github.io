@@ -1,11 +1,11 @@
 ---
 title: Schedule
 layout: default
-year: 2017
+year: 2019
 permalink: /schedule/
 ---
 
-{%- assign sorted_talks = site.data.bs_2017.talks | sort:"schedule_id" %}
+{%- assign sorted_talks = site.data.bs_2019.talks | sort:"schedule_id" %}
 
 |    | Time          | Talk |
 | -- | ------------- | -----|{% for talk in sorted_talks %}

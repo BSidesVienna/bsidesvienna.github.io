@@ -1,12 +1,13 @@
 ---
 title: CfP
-layout: default
-year: 2019
-permalink: /cfp/
+layout: archive
+year: 2017
+permalink: /archive/2017/cfp/
+archive: true
 ---
 # Propaganda
 
-You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back for 2019!
+You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back for 2017!
 
 We're teaming up with the very fine folks over at [DeepSec](https://deepsec.net/) again to throw a BSides event straight after their conference at the
 end of November. In true BSides fashion we're looking for a good mix of security and hacker talks
@@ -14,7 +15,6 @@ designed to wow the crowd and keep them coming back for more.
 
 If you want to get a feel of what we're looking for, check out the [archive](/archive/) of our past BsidesVienna events:
 
-- 2017: [Talk schedule](http://bsidesvienna.at/archive/2017/schedule/) (slides included)
 - 2016: [Talk schedule](http://bsidesvienna.at/archive/2016/schedule/) (slides included)
 - 2015: [Talk schedule](http://bsidesvienna.at/archive/2015/schedule/) (slides included)
 - 2014: [Talk schedule](http://bsidesvienna.at/archive/2014/schedule/) (slides included)
@@ -67,7 +67,7 @@ hacker: n.
 
 To apply, please provide the details of your talk proposal and contact info via email at <br>**crew [at] bsidesvienna [dot] at**.
 
-CFP will close on **?????**.
+CFP will close on **20th October 2017 (@ 23:59 UTC+1)**.
 
 
 # Sponsoring

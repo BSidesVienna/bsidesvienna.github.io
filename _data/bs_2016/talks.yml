@@ -7,7 +7,6 @@
 
 - title: "The modern SOC: Adapting the Security Operations model to how we work"
   author: "Josh Pyorre"
-  author_url: "https://rootaccesspodcast.com/"
   id: 2
   abstract: "Security Operations Centers are a central place where security incidents flow through in an organization, using technologies and ideas such as IDS, IPS, network flow monitoring, threat analysis and incident response to protect and secure an environment. However, the SOC of today is often out of date and out of touch with how we use our machines and data. This is an exploration of techniques for improving the process, with actual real-world examples that anyone can apply without relying on vendors."
   slides: "/slides/2016/the_modern_soc_adapting_the_security_operations_model_to_how_we_work.pdf"

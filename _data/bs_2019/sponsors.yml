@@ -1,0 +1,11 @@
+- name: "DeepSec"
+  url: "https://deepsec.net/"
+  image: "/img/sponsors/2019/deepsec.png"
+
+- name: "AIT"
+  url: "https://www.ait.ac.at/"
+  image: "/img/sponsors/2019/ait.png"
+
+- name: "SBA-Research"
+  url: "https://www.sba-research.org"
+  image: "/img/sponsors/2019/sba.png"
