@@ -1,7 +1,7 @@
 ---
 title: CoC
 layout: default
-year: 201
+year: 2019
 permalink: /code_of_conduct/
 ---
 # Code of Conduct [CoC]

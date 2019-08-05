@@ -6,13 +6,14 @@ url: https://bsidesvienna.at
 
 # data about the current event for google
 evt_year: "2019"
-evt_startdate: "2019-??-??T10:00"
-evt_enddate: "2019-??-??T04:00"
+evt_year_hex: "7E3"
+evt_startdate: "2019-11-30T10:00"
+evt_enddate: "2019-12-01T04:00"
 evt_ticketurl: "https://www.eventbrite.com/e/???"
-evt_loc_name: "???"
-evt_loc_address: "???"
-evt_loc_zip: "???"
-evt_loc_city: "???"
+evt_loc_name: "Urania Dachsaal"
+evt_loc_address: "Uraniastraße 1"
+evt_loc_zip: "1010"
+evt_loc_city: "Vienna"
 
 markdown: kramdown
 permalink: pretty
