@@ -64,7 +64,6 @@
 
 - title: "Screw Compliance! Why security standards kill security!"
   author: "Johannes Stillig"
-  author_url: "http://johannesstillig.de"
   id: 12
   abstract: "Everyone is talking about security at the moment Poodle, Sandworm, Heartbleed etc.. But still most companies only invest into security for the sake of being compliant to standard X, framework y or regulation z.. Of course compliance is a big issue in regulated markets. But many breaches during the last two years show us that being compliant will make most of the bad guys out there laugh about you and your organisation. By analyzing some high-profile breaches down to a technical level this speech wants to show how often the hunger for being compliant to certain standards leaves complete organisations expose to attackers. This speech is supposed to be a sermon to return to the roots of security, to forget about fancy tools and buzzwords in security for a while and to understand: Being compliant does not equal being secure, but being secure often equals being compliant!"
 

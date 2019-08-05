@@ -7,8 +7,7 @@ archive: true
 ---
 
 # Location
-[SUB (Super Unusual Beings)](http://wtf.sub.wien)
-([Facebook](https://www.facebook.com/Sub.wien/))
+[SUB (Super Unusual Beings)](https://www.facebook.com/Sub.wien/)
 
 Storkgasse 7, 1050 - Wien/Vienna :: Austria :: Europe :: Earth ::
 Milky-way

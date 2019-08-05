@@ -25,7 +25,7 @@ More information on BSidesVienna will follow [via twitter](https://twitter.com/B
 Get your tickets here: [Eventbrite](https://www.eventbrite.com/e/bsidesvienna-0x7e1-tickets-39168272357#tickets)
 
 #### Location
-[SUB (Super Unusual Beings)](http://wtf.sub.wien) ([Facebook](https://www.facebook.com/Sub.wien/))
+[SUB (Super Unusual Beings)](https://www.facebook.com/Sub.wien/)
 
 Storkgasse 7, 1050 - Wien/Vienna :: Austria :: Europe :: Earth :: Milky-way
 

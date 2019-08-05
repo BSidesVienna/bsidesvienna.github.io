@@ -10,7 +10,7 @@ archive: true
 **Neues Intitutsgebäude (NIG):** Universitätsstraße 7, 1010 Vienna, Groundfloor
 
 * [Floorplan](https://goo.gl/maps/sF5gHcXSgyq) (on Google Maps)
-* [Address and university map](https://zid.univie.ac.at/en/nig/)
+* [Address and university map](https://zid.univie.ac.at/en/locations/)
 * Details on NIG:
 
 ```Plaintext
