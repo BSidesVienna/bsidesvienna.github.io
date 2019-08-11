@@ -65,7 +65,7 @@ hacker: n.
 
 # Submission
 
-To apply, please provide the details of your talk proposal and contact info via email at <br>**crew [at] bsidesvienna [dot] at**.
+This year we'll have a dedicated CFP Platform, stay tuned - CFP starts very soon!
 
 CFP will close on **?????**.
 
