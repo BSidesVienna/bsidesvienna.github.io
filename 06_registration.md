@@ -8,4 +8,6 @@ permalink: /registration/
 
 Tickets are free as always!
 
+**Ticket registration will be opened roughly in September/October. Stay tuned, we'll announce it on Twitter and here.**
+
 Be sure to get a ticket as we only have limited space available.
