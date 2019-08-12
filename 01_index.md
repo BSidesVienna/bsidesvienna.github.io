@@ -26,7 +26,8 @@ More information on BSidesVienna will follow [via twitter](https://twitter.com/B
 
 [Urania Dachsaal](https://www.vhs.at/de/ueber-die-vhs/veranstaltungszentren#pvhs-wiener-urania-veranstaltungssalep)
 
-Uraniastraße 1 1010 Wien/Vienna
+Uraniastraße 1     
+1010 - Wien/Vienna
 
 #### Cost
 
