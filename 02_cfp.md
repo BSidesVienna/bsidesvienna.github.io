@@ -19,7 +19,7 @@ If you want to get a feel of what we're looking for, check out the [archive](/ar
 - 2015: [Talk schedule](http://bsidesvienna.at/archive/2015/schedule/) (slides included)
 - 2014: [Talk schedule](http://bsidesvienna.at/archive/2014/schedule/) (slides included)
 
-We are currently seeking a selection of hands-on workshops, presentations and shorter (15-minute) lightning talks.
+We are currently seeking a selection of presentations and shorter (15-minute) lightning talks.
 BSides is an open, international event, the official conference language for all talks, trainings and workshops
 (as well as submitted abstracts) is English to ensure our foreign friends don't feel all sad panda about missing
 things.
