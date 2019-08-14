@@ -65,9 +65,9 @@ hacker: n.
 
 # Submission
 
-This year we'll have a dedicated CFP Platform, stay tuned - CFP starts very soon!
+To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsv19/cfp](https://cfp.bsidesvienna.at/bsv19/cfp).
 
-CFP will close on **?????**.
+CFP will close on **04th November 2019 (@ 23:59 UTC+2)**.
 
 
 # Sponsoring
