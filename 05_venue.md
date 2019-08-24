@@ -10,7 +10,7 @@ permalink: /venue/
 
 Uraniastraße 1 1010 Wien/Vienna :: Austria :: Europe :: Earth :: Milky-way
 
-**There's free and reliable WiFi available in the club!**
+**There's free and reliable WiFi available at the venue!**
 
 #### When does it start?
 - **Beginning**: 30.11.2019 - 10:00
