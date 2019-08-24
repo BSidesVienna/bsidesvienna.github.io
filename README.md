@@ -1,5 +1,5 @@
 # BsidesVienna Website
-Not much to explain here.
+Not much to explain here. This is the repo holding the website for www.bsidesvienna.at
 
 ## Testing changes locally
 ```
