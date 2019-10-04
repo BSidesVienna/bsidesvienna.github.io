@@ -13,3 +13,7 @@
 - name: "SBA-Research"
   url: "https://www.sba-research.org"
   image: "/img/sponsors/2019/sba.png"
+
+- name: "cert.at"
+  url: "https://www.cert.at"
+  image: "/img/sponsors/2019/certat.jpg"
