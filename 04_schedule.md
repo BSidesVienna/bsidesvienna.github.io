@@ -2,7 +2,7 @@
 title: Schedule
 layout: default
 year: 2019
-permalink: /schedule/
+permalink: https://cfp.bsidesvienna.at/bsv19/schedule/
 ---
 
  - [Schedule](
