@@ -66,9 +66,9 @@ hacker: n.
 
 # Submission
 
-To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsv19/cfp](https://cfp.bsidesvienna.at/bsv19/cfp).
+To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsidesvienna-2022/cfp](https://cfp.bsidesvienna.at/bsidesvienna-2022/cfp).
 
-CFP will close on **04th November 2019 (@ 23:59 UTC+2)**.
+CFP will close on **TBD**.
 
 
 # Sponsoring
