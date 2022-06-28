@@ -20,17 +20,7 @@ permalink: pretty
 highlighter: rouge
 
 exclude:
-  [
-    Gemfile,
-    Gemfile.lock,
-    CNAME,
-    Readme.md,
-    vendor,
-    travis.sh,
-    .gitignore,
-    .ruby-version,
-    .ruby-gemset,
-  ]
+  [Gemfile, Gemfile.lock, CNAME, Readme.md, vendor, travis.sh, .gitignore]
 
 plugins:
   - jekyll-sitemap
