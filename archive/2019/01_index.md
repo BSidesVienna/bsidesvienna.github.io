@@ -1,8 +1,9 @@
 ---
 title: Index
-layout: default
-year: 2022
-permalink: /
+layout: archive
+year: 2019
+permalink: /archive/2019/
+archive: true
 ---
 
 # What's BsidesVienna?
@@ -13,18 +14,21 @@ More information on BSidesVienna will follow [via twitter](https://twitter.com/B
 
 # News
 
-{% for news_entry in site.data.bs_2022.news %}
+{% for news_entry in site.data.bs_2019.news %}
 ### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
 {{ news_entry.content }}
 {% endfor %}
 
 # Event details
 
-TBD
+30.11.2019 (That's the saturday right after [DeepSec](https://deepsec.net/)).
 
 #### Location
 
-TBD
+[Urania Dachsaal](https://www.vhs.at/de/ueber-die-vhs/veranstaltungszentren#pvhs-wiener-urania-veranstaltungssalep)
+
+Uraniastraße 1     
+1010 - Wien/Vienna
 
 #### Cost
 
@@ -50,5 +54,5 @@ Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for conten
 
 #### Crew
 
-* {% for member in site.data.bs_2022.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
+* {% for member in site.data.bs_2019.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
 * ..and anonymous others

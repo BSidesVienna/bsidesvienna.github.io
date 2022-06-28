@@ -1,8 +1,9 @@
 ---
 title: CfP
-layout: default
-year: 2022
-permalink: /cfp/
+layout: archive
+year: 2019
+permalink: /archive/2019/cfp/
+archive: true
 ---
 # Propaganda
 
@@ -14,7 +15,6 @@ designed to wow the crowd and keep them coming back for more.
 
 If you want to get a feel of what we're looking for, check out the [archive](/archive/) of our past BsidesVienna events:
 
-- 2019: [Talk schedule](http://bsidesvienna.at/archive/2019/schedule/) (slides included)
 - 2017: [Talk schedule](http://bsidesvienna.at/archive/2017/schedule/) (slides included)
 - 2016: [Talk schedule](http://bsidesvienna.at/archive/2016/schedule/) (slides included)
 - 2015: [Talk schedule](http://bsidesvienna.at/archive/2015/schedule/) (slides included)

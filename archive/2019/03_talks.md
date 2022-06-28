@@ -1,7 +1,8 @@
 ---
 title: Talks
-layout: default
-year: 2022
+layout: archive
+year: 2019
+archive: true
 permalink: https://cfp.bsidesvienna.at/bsv19/talk/
 ---
 # Talks
