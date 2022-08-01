@@ -20,11 +20,14 @@ More information on BSidesVienna will follow [via twitter](https://twitter.com/B
 
 # Event details
 
-TBD
+19.11.2022
 
 #### Location
 
-TBD
+[Urania Dachsaal](https://www.vhs.at/de/ueber-die-vhs/veranstaltungszentren#1010-wien-vhs-wiener-urania-veranstaltungssale)
+
+Uraniastraße 1     
+1010 - Wien/Vienna
 
 #### Cost
 
