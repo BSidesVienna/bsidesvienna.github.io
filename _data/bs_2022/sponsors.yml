@@ -1,3 +1,15 @@
 - name: "DeepSec"
   url: "https://deepsec.net/"
   image: "/img/sponsors/2022/deepsec.png"
+
+- name: "AIT"
+  url: "https://www.ait.ac.at/"
+  image: "/img/sponsors/2022/ait.png"
+
+- name: "cert.at"
+  url: "https://www.cert.at"
+  image: "/img/sponsors/2022/certat.jpg"
+
+- name: "IPAX"
+  url: "https://www.ipax.at/"
+  image: "/img/sponsors/2022/ipax.png"
