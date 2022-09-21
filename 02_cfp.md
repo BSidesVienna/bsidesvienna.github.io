@@ -4,6 +4,11 @@ layout: default
 year: 2022
 permalink: /cfp/
 ---
+
+# TL;DR
+
+[https://cfp.bsidesvienna.at/bsidesvienna-2022/cfp](https://cfp.bsidesvienna.at/bsidesvienna-2022/cfp)
+
 # Propaganda
 
 You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back for 2022!

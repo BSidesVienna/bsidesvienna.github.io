@@ -22,6 +22,10 @@ More information on BSidesVienna will follow [via twitter](https://twitter.com/B
 
 19.11.2022
 
+# Tickets
+
+[tickets.bsidesvienna.at](https://tickets.bsidesvienna.at)
+
 #### Location
 
 [Urania Dachsaal](https://www.vhs.at/de/ueber-die-vhs/veranstaltungszentren#1010-wien-vhs-wiener-urania-veranstaltungssale)
