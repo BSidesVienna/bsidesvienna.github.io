@@ -1,3 +1,7 @@
+- name: "SBA Research"
+  url: "https://sba-research.org/"
+  image: "/img/sponsors/2022/sbaresearch.jpg"
+
 - name: "DeepSec"
   url: "https://deepsec.net/"
   image: "/img/sponsors/2022/deepsec.png"
