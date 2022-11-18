@@ -13,7 +13,3 @@
 - name: "cert.at"
   url: "https://www.cert.at"
   image: "/img/sponsors/2022/certat.jpg"
-
-- name: "IPAX"
-  url: "https://www.ipax.at/"
-  image: "/img/sponsors/2022/ipax.png"
