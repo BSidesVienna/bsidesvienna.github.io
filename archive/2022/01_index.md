@@ -1,8 +1,9 @@
 ---
 title: Index
-layout: default
-year: 2023
-permalink: /
+layout: archive
+year: 2022
+permalink: /archive/2022/
+archive: true
 ---
 
 # What's BsidesVienna?
@@ -13,14 +14,14 @@ More information on BSidesVienna will follow [via twitter](https://twitter.com/B
 
 # News
 
-{% for news_entry in site.data.bs_2023.news %}
+{% for news_entry in site.data.bs_2022.news %}
 ### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
 {{ news_entry.content }}
 {% endfor %}
 
 # Event details
 
-18.11.2023
+19.11.2022
 
 # Tickets
 
@@ -28,9 +29,9 @@ More information on BSidesVienna will follow [via twitter](https://twitter.com/B
 
 #### Location
 
-[Badeschiff Wien](https://www.badeschiff.at/)
+[Urania Dachsaal](https://www.vhs.at/de/ueber-die-vhs/veranstaltungszentren#1010-wien-vhs-wiener-urania-veranstaltungssale)
 
-Wolfgang-Schmitz-Promenade
+Uraniastraße 1     
 1010 - Wien/Vienna
 
 #### Cost
@@ -57,5 +58,5 @@ Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for conten
 
 #### Crew
 
-* {% for member in site.data.bs_2023.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
+* {% for member in site.data.bs_2022.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
 * ..and anonymous others

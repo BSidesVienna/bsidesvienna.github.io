@@ -1,16 +1,16 @@
 name: "BSidesVienna"
 title: "BSidesVienna"
 description: "BSidesVienna"
-archives: [2014, 2015, 2016, 2017, 2019]
+archives: [2014, 2015, 2016, 2017, 2019, 2022]
 url: https://bsidesvienna.at
 
 # data about the current event for google
-evt_year: "2022"
-evt_year_hex: "7E6"
-evt_startdate: "2022-11-19T10:00"
-evt_enddate: "2022-11-20T04:00"
-evt_loc_name: "Urania Dachsaal"
-evt_loc_address: "Uraniastraße 1"
+evt_year: "2023"
+evt_year_hex: "7E7"
+evt_startdate: "2023-11-18T10:00"
+evt_enddate: "2023-11-19T04:00"
+evt_loc_name: "Badeschiff Wien"
+evt_loc_address: ""
 evt_loc_zip: "1010"
 evt_loc_city: "Vienna"
 

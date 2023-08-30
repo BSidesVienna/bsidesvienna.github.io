@@ -1,8 +1,9 @@
 ---
 title: Venue
-layout: default
-year: 2023
-permalink: /venue/
+layout: archive
+year: 2022
+permalink: /archive/2022/venue/
+archive: true
 ---
 
 # Location

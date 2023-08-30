@@ -1,8 +1,9 @@
 ---
 title: CoC
-layout: default
-year: 2023
-permalink: /code_of_conduct/
+layout: archive
+year: 2022
+permalink: /archive/2022/code_of_conduct/
+archive: true
 ---
 # Code of Conduct [CoC]
 All attendees, speakers, sponsors and volunteers at BSidesVienna are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooporation from all participants to help ensuring a safe and welcoming environment for everybody.

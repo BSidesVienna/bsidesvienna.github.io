@@ -1,8 +1,9 @@
 ---
 title: CfP
-layout: default
-year: 2023
-permalink: /cfp/
+layout: archive
+year: 2022
+permalink: /archive/2022/cfp/
+archive: true
 ---
 
 # TL;DR

@@ -1,8 +1,9 @@
 ---
 title: Schedule
-layout: default
-year: 2023
+layout: archive
+year: 2022
 permalink: https://cfp.bsidesvienna.at/bsidesvienna-2022/schedule/
+archive: true
 ---
 
  - [Schedule](
