@@ -7,11 +7,11 @@ permalink: /cfp/
 
 # TL;DR
 
-[https://cfp.bsidesvienna.at/bsidesvienna-2022/cfp](https://cfp.bsidesvienna.at/bsidesvienna-2022/cfp)
+[https://cfp.bsidesvienna.at/bsidesvienna-2023/cfp](https://cfp.bsidesvienna.at/bsidesvienna-2023/cfp)
 
 # Propaganda
 
-You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back for 2022!
+You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back for 2023!
 
 We're teaming up with the very fine folks over at [DeepSec](https://deepsec.net/) again to throw a BSides event straight after their conference at the
 end of November. In true BSides fashion we're looking for a good mix of security and hacker talks
@@ -19,6 +19,7 @@ designed to wow the crowd and keep them coming back for more.
 
 If you want to get a feel of what we're looking for, check out the [archive](/archive/) of our past BsidesVienna events:
 
+- 2019: [Talk schedule](http://bsidesvienna.at/archive/2022/schedule/)
 - 2019: [Talk schedule](http://bsidesvienna.at/archive/2019/schedule/) (slides included)
 - 2017: [Talk schedule](http://bsidesvienna.at/archive/2017/schedule/) (slides included)
 - 2016: [Talk schedule](http://bsidesvienna.at/archive/2016/schedule/) (slides included)
@@ -63,7 +64,7 @@ hacker: n.
 
 [...]
 
-7. One who enjoys the intellectual challenge of creatively overcoming or circumventing limitations.
+1. One who enjoys the intellectual challenge of creatively overcoming or circumventing limitations.
 
 [...]
 ```
@@ -71,7 +72,7 @@ hacker: n.
 
 # Submission
 
-To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsidesvienna-2022/cfp](https://cfp.bsidesvienna.at/bsidesvienna-2022/cfp).
+To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsidesvienna-2023/cfp](https://cfp.bsidesvienna.at/bsidesvienna-2023/cfp).
 
 CFP will close on **TBD**.
 
