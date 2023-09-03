@@ -19,7 +19,7 @@ designed to wow the crowd and keep them coming back for more.
 
 If you want to get a feel of what we're looking for, check out the [archive](/archive/) of our past BsidesVienna events:
 
-- 2019: [Talk schedule](http://bsidesvienna.at/archive/2022/schedule/)
+- 2022: [Talk schedule](https://cfp.bsidesvienna.at/bsidesvienna-2022/schedule/)
 - 2019: [Talk schedule](http://bsidesvienna.at/archive/2019/schedule/) (slides included)
 - 2017: [Talk schedule](http://bsidesvienna.at/archive/2017/schedule/) (slides included)
 - 2016: [Talk schedule](http://bsidesvienna.at/archive/2016/schedule/) (slides included)
