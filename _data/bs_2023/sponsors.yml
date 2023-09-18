@@ -1,15 +1,19 @@
 - name: "SBA Research"
   url: "https://sba-research.org/"
-  image: "/img/sponsors/2022/SBAResearch.png"
+  image: "/img/sponsors/2023/SBAResearch.png"
 
 - name: "DeepSec"
   url: "https://deepsec.net/"
-  image: "/img/sponsors/2022/deepsec.png"
+  image: "/img/sponsors/2023/deepsec.png"
 
 - name: "AIT"
   url: "https://www.ait.ac.at/"
-  image: "/img/sponsors/2022/ait.png"
+  image: "/img/sponsors/2023/ait.png"
 
 - name: "cert.at"
   url: "https://www.cert.at"
-  image: "/img/sponsors/2022/certat.jpg"
+  image: "/img/sponsors/2023/certat.jpg"
+
+- name: "IT-S NOW - by The FH Campus Wien, University of Applied Sciences"
+  url: "https://its-now.science/"
+  image: "/img/sponsors/2023/its-now.svg"
