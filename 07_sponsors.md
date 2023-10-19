@@ -17,7 +17,7 @@ than welcome to participate in any way you feel appropriate.
 [{{ sponsor.name }}]({{ sponsor.url }})
 
 {% if sponsor.image %}
-[![{{ sponsor.name }}]({{ sponsor.image }}){:width="200px"}]({{ sponsor.url }})
+[![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
 {% endif %}
 
 {%- endfor %}
