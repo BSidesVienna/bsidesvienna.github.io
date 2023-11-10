@@ -13,8 +13,8 @@ Wolfgang-Schmitz-Promenade 1010 Wien/Vienna :: Austria :: Europe :: Earth :: Mil
 **There's free and reliable WiFi available at the venue!**
 
 #### When does it start?
-- **Beginning**: 18.11.2023 - 10:00
-- **End**: 19.11.2023 - 04:00
+- **Beginning**: 18.11.2023 - 09:30 (opens at 0915)
+- **End**: 18.11.2023 - 17:00
 
 [Local time]
 
