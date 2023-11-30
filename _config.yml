@@ -1,25 +1,24 @@
 name: "BSidesVienna"
 title: "BSidesVienna"
 description: "BSidesVienna"
-archives: [2014, 2015, 2016, 2017, 2019, 2022]
+archives: [2014, 2015, 2016, 2017, 2019, 2022, 2023]
 url: https://bsidesvienna.at
 
 # data about the current event for google
-evt_year: "2023"
-evt_year_hex: "7E7"
-evt_startdate: "2023-11-18T10:00"
-evt_enddate: "2023-11-19T04:00"
-evt_loc_name: "Badeschiff Wien"
+evt_year: "2024"
+evt_year_hex: "7E8"
+evt_startdate: "TBD"
+evt_enddate: "TBD"
+evt_loc_name: "TBD"
 evt_loc_address: ""
-evt_loc_zip: "1010"
+evt_loc_zip: "TBD"
 evt_loc_city: "Vienna"
 
 markdown: kramdown
 permalink: pretty
 highlighter: rouge
 
-exclude:
-  [Gemfile, Gemfile.lock, CNAME, Readme.md, vendor, travis.sh, .gitignore]
+exclude: [CNAME, Readme.md, vendor, .gitignore]
 
 plugins:
   - jekyll-sitemap

@@ -1,8 +1,9 @@
 ---
 title: Index
-layout: default
-year: 2024
-permalink: /
+layout: archive
+year: 2023
+permalink: /archive/2023/
+archive: true
 ---
 
 # What's BsidesVienna?
@@ -21,14 +22,14 @@ You can find us on the following social media sites:
 
 # News
 
-{% for news_entry in site.data.bs_2024.news %}
+{% for news_entry in site.data.bs_2023.news %}
 ### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
 {{ news_entry.content }}
 {% endfor %}
 
 # Event details
 
-TBD
+18.11.2023
 
 # Tickets
 
@@ -36,7 +37,10 @@ TBD
 
 #### Location
 
-TBD
+[Badeschiff Wien](https://www.badeschiff.at/)
+
+Wolfgang-Schmitz-Promenade
+1010 - Wien/Vienna
 
 #### Cost
 
@@ -61,5 +65,5 @@ Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for conten
 
 #### Crew
 
-* {% for member in site.data.bs_2024.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
+* {% for member in site.data.bs_2023.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
 * ..and anonymous others

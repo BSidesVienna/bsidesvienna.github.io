@@ -1,17 +1,18 @@
 ---
 title: CfP
-layout: default
-year: 2024
-permalink: /cfp/
+layout: archive
+year: 2023
+permalink: /archive/2023/cfp/
+archive: true
 ---
 
 # TL;DR
 
-[https://cfp.bsidesvienna.at/bsidesvienna-0x7e8/cfp](https://cfp.bsidesvienna.at/bsidesvienna-0x7e8/cfp)
+[https://cfp.bsidesvienna.at/bsidesvienna-0x7e7/cfp](https://cfp.bsidesvienna.at/bsidesvienna-0x7e7/cfp)
 
 # Propaganda
 
-You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back for 2024!
+You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back for 2023!
 
 We're teaming up with the very fine folks over at [DeepSec](https://deepsec.net/) again to throw a BSides event straight after their conference at the
 end of November. In true BSides fashion we're looking for a good mix of security and hacker talks
@@ -19,7 +20,6 @@ designed to wow the crowd and keep them coming back for more.
 
 If you want to get a feel of what we're looking for, check out the [archive](/archive/) of our past BsidesVienna events:
 
-- 2023: [Talk schedule](https://cfp.bsidesvienna.at/bsidesvienna-0x7e7/schedule/)
 - 2022: [Talk schedule](https://cfp.bsidesvienna.at/bsidesvienna-2022/schedule/)
 - 2019: [Talk schedule](http://bsidesvienna.at/archive/2019/schedule/) (slides included)
 - 2017: [Talk schedule](http://bsidesvienna.at/archive/2017/schedule/) (slides included)
@@ -73,7 +73,7 @@ hacker: n.
 
 # Submission
 
-To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsidesvienna-0x7e8/cfp](https://cfp.bsidesvienna.at/bsidesvienna-0x7e8/cfp).
+To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsidesvienna-0x7e7/cfp](https://cfp.bsidesvienna.at/bsidesvienna-0x7e7/cfp).
 
 CFP will close on **TBD**.
 

@@ -1,20 +1,15 @@
 ---
 title: Venue
 layout: default
-year: 2023
+year: 2024
 permalink: /venue/
 ---
 
 # Location
-[Badeschiff Wien](https://www.badeschiff.at/)
-
-Wolfgang-Schmitz-Promenade 1010 Wien/Vienna :: Austria :: Europe :: Earth :: Milky-way
-
-**There's free and reliable WiFi available at the venue!**
+TBD
 
 #### When does it start?
-- **Beginning**: 18.11.2023 - 09:30 (opens at 0915)
-- **End**: 18.11.2023 - 17:00
+TBD
 
 [Local time]
 
