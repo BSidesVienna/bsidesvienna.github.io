@@ -28,7 +28,7 @@ You can find us on the following social media sites:
 
 # Event details
 
-TBD
+23.11.2024 (dd.mm.yyyy)
 
 # Tickets
 

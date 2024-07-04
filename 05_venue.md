@@ -9,7 +9,8 @@ permalink: /venue/
 TBD
 
 #### When does it start?
-TBD
+- **Beginning**: 23.11.2024 - 09:30 (opens at 0915)
+- **End**: 23.11.2024 - 17:00
 
 [Local time]
 
