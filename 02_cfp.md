@@ -7,7 +7,7 @@ permalink: /cfp/
 
 # TL;DR
 
-[https://cfp.bsidesvienna.at/bsidesvienna-0x7e8/cfp](https://cfp.bsidesvienna.at/bsidesvienna-0x7e8/cfp)
+[https://cfp.bsidesvienna.at/bsv2024/cfp](https://cfp.bsidesvienna.at/bsv2024/cfp)
 
 # Propaganda
 
@@ -73,7 +73,7 @@ hacker: n.
 
 # Submission
 
-To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsidesvienna-0x7e8/cfp](https://cfp.bsidesvienna.at/bsidesvienna-0x7e8/cfp).
+To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsv2024/cfp](https://cfp.bsidesvienna.at/bsv2024/cfp).
 
 CFP will close on **TBD**.
 
