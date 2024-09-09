@@ -1,0 +1,11 @@
+- name: "SBA Research"
+  url: "https://sba-research.org/"
+  image: "/img/sponsors/2024/SBAResearch.png"
+
+- name: "AIT"
+  url: "https://www.ait.ac.at/"
+  image: "/img/sponsors/2024/ait.png"
+
+- name: "slashsec"
+  url: "https://www.slashsec.at/"
+  image: "/img/sponsors/2024/slashsec.svg"
