@@ -2,7 +2,7 @@
 title: Talks
 layout: default
 year: 2024
-permalink: https://cfp.bsidesvienna.at/bsidesvienna-0x7e8/talk/
+permalink: /talks/
 ---
 # Talks
 

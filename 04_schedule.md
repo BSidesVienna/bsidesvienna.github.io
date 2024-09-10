@@ -2,7 +2,7 @@
 title: Schedule
 layout: default
 year: 2024
-permalink: https://cfp.bsidesvienna.at/bsidesvienna-0x7e8/schedule/
+permalink: /schedule/
 ---
 
 - [Schedule](https://cfp.bsidesvienna.at/bsidesvienna-0x7e8/schedule/)
