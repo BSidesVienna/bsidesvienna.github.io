@@ -22,50 +22,50 @@ than welcome to participate in any way you feel appropriate.
 
 {%- if sponsors_platinum.size > 0 %}
 ## Platinum Sponsors
-{%- for sponsor in sponsors_platinum %}
+{% for sponsor in sponsors_platinum %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {%- if sponsor.image %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
 {%- endif %}
-{%- endfor %}
+{% endfor %}
 {%- endif %}
 
 {%- if sponsors_gold.size > 0 %}
 ## Gold Sponsors
-{%- for sponsor in sponsors_gold %}
+{% for sponsor in sponsors_gold %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {%- if sponsor.image %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
 {%- endif %}
-{%- endfor %}
+{% endfor %}
 {%- endif %}
 
 {%- if sponsors_silver.size > 0 %}
 ## Silver Sponsors
-{%- for sponsor in sponsors_silver %}
+{% for sponsor in sponsors_silver %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {%- if sponsor.image %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
 {%- endif %}
-{%- endfor %}
+{% endfor %}
 {%- endif %}
 
 {%- if sponsors_bronze.size > 0 %}
 ## Bronze Sponsors
-{%- for sponsor in sponsors_bronze %}
+{% for sponsor in sponsors_bronze %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {%- if sponsor.image %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
 {%- endif %}
-{%- endfor %}
+{% endfor %}
 {%- endif %}
 
 {%- if sponsors_community.size > 0 %}
 ## Community Sponsors
-{%- for sponsor in sponsors_community %}
+{% for sponsor in sponsors_community %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {%- if sponsor.image %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
 {%- endif %}
-{%- endfor %}
+{% endfor %}
 {%- endif %}
