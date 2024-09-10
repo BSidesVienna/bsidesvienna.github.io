@@ -17,7 +17,7 @@ You can find us on the following social media sites:
 
 [Mastodon](https://infosec.exchange/@bsidesvienna)
 
-[BlueSky](https://bsky.app/profile/bsidevienna.bsky.social)
+[BlueSky](https://bsky.app/profile/bsidesvienna.at)
 
 # News
 
