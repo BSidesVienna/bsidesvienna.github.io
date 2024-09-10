@@ -22,9 +22,9 @@ than welcome to participate in any way you feel appropriate.
 ## Platinum Sponsors
 {% for sponsor in sponsors_platinum %}
 [{{ sponsor.name }}]({{ sponsor.url }})
-{%- if sponsor.image %}
+{% if sponsor.image %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
-{%- endif %}
+{% endif %}
 {% endfor %}
 {%- endif %}
 
@@ -32,9 +32,9 @@ than welcome to participate in any way you feel appropriate.
 ## Gold Sponsors
 {% for sponsor in sponsors_gold %}
 [{{ sponsor.name }}]({{ sponsor.url }})
-{%- if sponsor.image %}
+{% if sponsor.image %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
-{%- endif %}
+{% endif %}
 {% endfor %}
 {%- endif %}
 
@@ -42,9 +42,9 @@ than welcome to participate in any way you feel appropriate.
 ## Silver Sponsors
 {% for sponsor in sponsors_silver %}
 [{{ sponsor.name }}]({{ sponsor.url }})
-{%- if sponsor.image %}
+{% if sponsor.image %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
-{%- endif %}
+{% endif %}
 {% endfor %}
 {%- endif %}
 
@@ -52,9 +52,9 @@ than welcome to participate in any way you feel appropriate.
 ## Bronze Sponsors
 {% for sponsor in sponsors_bronze %}
 [{{ sponsor.name }}]({{ sponsor.url }})
-{%- if sponsor.image %}
+{% if sponsor.image %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
-{%- endif %}
+{% endif %}
 {% endfor %}
 {%- endif %}
 
@@ -62,8 +62,8 @@ than welcome to participate in any way you feel appropriate.
 ## Community Sponsors
 {% for sponsor in sponsors_community %}
 [{{ sponsor.name }}]({{ sponsor.url }})
-{%- if sponsor.image %}
+{% if sponsor.image %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
-{%- endif %}
+{% endif %}
 {% endfor %}
 {%- endif %}
