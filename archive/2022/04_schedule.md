@@ -2,7 +2,7 @@
 title: Schedule
 layout: archive
 year: 2022
-permalink: https://cfp.bsidesvienna.at/bsidesvienna-2022/schedule/
+permalink: /archive/2022/schedule/
 archive: true
 ---
 

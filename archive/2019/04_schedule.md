@@ -3,7 +3,7 @@ title: Schedule
 layout: archive
 year: 2019
 archive: true
-permalink: https://cfp.bsidesvienna.at/bsv19/schedule/
+permalink: /archive/2019/schedule/
 ---
 
  - [Schedule](

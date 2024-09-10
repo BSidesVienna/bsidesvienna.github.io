@@ -28,5 +28,5 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 In case you need anything - Our team is happy to help you!
 
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance. 
+Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 We expect participants to follow these rules at conference and workshop venues, conference-related social events and social media.

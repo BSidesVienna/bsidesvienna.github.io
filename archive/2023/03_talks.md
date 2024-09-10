@@ -2,7 +2,7 @@
 title: Talks
 layout: archive
 year: 2023
-permalink: https://cfp.bsidesvienna.at/bsidesvienna-0x7e7/talk/
+permalink: /archive/2023/talks/
 archive: true
 ---
 # Talks
