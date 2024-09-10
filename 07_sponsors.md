@@ -4,15 +4,13 @@ layout: default
 year: 2024
 permalink: /sponsors/
 ---
-# Up your karma: sponsor hacker knowledge aquisition
+## Up your karma: sponsor hacker knowledge aquisition
 
 Getting a community event going (possibly for free) is not easy. We're looking for sponsoring to provide
 for a nice and central location, multiple tracks, tech (beamers, PA, recording equipment), and ideally
 food and drinks for attendees. If you are interested to help an event by the security community - for the
 security community please contact us either [via twitter](https://twitter.com/BSidesVienna), [via Mastodon](https://infosec.exchange/@bsidesvienna) or send us an e-mail to crew [at] bsidesvienna [dot] at. Note that BSides is not a vendor marketing event, but you're more
 than welcome to participate in any way you feel appropriate.
-
-# Our sponsors
 
 {%- assign sponsors_platinum = site.data.bs_2024.sponsors | where:"level","platinum" %}
 {%- assign sponsors_gold = site.data.bs_2024.sponsors | where:"level","gold" %}
