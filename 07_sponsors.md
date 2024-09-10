@@ -20,37 +20,52 @@ than welcome to participate in any way you feel appropriate.
 {%- assign sponsors_bronze = site.data.bs_2024.sponsors | where:"level","bronze" %}
 {%- assign sponsors_community = site.data.bs_2024.sponsors | where:"level","community" %}
 
-{%- if sponsors_platinum | size > 0 }
+{%- if sponsors_platinum.size > 0 }
 ## Platinum Sponsors
 {%- for sponsor in sponsors_platinum %}
 [{{ sponsor.name }}]({{ sponsor.url }})
+{%- if sponsor.image %}
+[![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
+{%- endif %}
 {%- endfor %}
 {%- endif %}
 
-{%- if sponsors_gold | size > 0 }
+{%- if sponsors_gold.size > 0 }
 ## Gold Sponsors
 {%- for sponsor in sponsors_gold %}
 [{{ sponsor.name }}]({{ sponsor.url }})
+{%- if sponsor.image %}
+[![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
+{%- endif %}
 {%- endfor %}
 {%- endif %}
 
-{%- if sponsors_silver | size > 0 }
+{%- if sponsors_silver.size > 0 }
 ## Silver Sponsors
 {%- for sponsor in sponsors_silver %}
 [{{ sponsor.name }}]({{ sponsor.url }})
+{%- if sponsor.image %}
+[![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
+{%- endif %}
 {%- endfor %}
 {%- endif %}
 
-{%- if sponsors_bronze | size > 0 }
+{%- if sponsors_bronze.size > 0 }
 ## Bronze Sponsors
 {%- for sponsor in sponsors_bronze %}
 [{{ sponsor.name }}]({{ sponsor.url }})
+{%- if sponsor.image %}
+[![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
+{%- endif %}
 {%- endfor %}
 {%- endif %}
 
-{%- if sponsors_community | size > 0 }
+{%- if sponsors_community.size > 0 }
 ## Community Sponsors
 {%- for sponsor in sponsors_community %}
 [{{ sponsor.name }}]({{ sponsor.url }})
+{%- if sponsor.image %}
+[![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
+{%- endif %}
 {%- endfor %}
 {%- endif %}
