@@ -45,11 +45,23 @@
     "@type": "Event",
     "name": "BSidesVienna {{ site.evt_year }}",
     "description": "BSidesVienna {{ site.evt_year }}",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "startDate": "{{ site.evt_startdate }}",
     "endDate": "{{ site.evt_enddate }}",
     "image": "https://bsidesvienna.at/img/bsides_logo_small.jpg",
     "offers": {
       "url": "https://tickets.bsidesvienna.at"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "BSidesVienna",
+      "url": "https://bsidesvienna.at"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "EUR"
     },
     "location": {
       "@type": "Place",
