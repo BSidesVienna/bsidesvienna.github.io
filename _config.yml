@@ -7,8 +7,8 @@ url: https://bsidesvienna.at
 # data about the current event for google
 evt_year: "2024"
 evt_year_hex: "7E8"
-evt_startdate: "2024-11-23T10:00+02:00"
-evt_enddate: "2024-11-24T04:00+02:00"
+evt_startdate: "2024-11-23T10:00:00+02:00"
+evt_enddate: "2024-11-24T04:00:00+02:00"
 evt_loc_name: "Urania Dachsaal"
 evt_loc_address: "Uraniastraße 1"
 evt_loc_zip: "1010"
