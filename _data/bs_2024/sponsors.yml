@@ -17,3 +17,4 @@
   url: "https://bsidesdresden.com/"
   image: "/img/sponsors/2024/bsides_dresden.png"
   level: "community"
+  nocss: true
