@@ -12,3 +12,8 @@
   url: "https://www.slashsec.at/"
   image: "/img/sponsors/2024/slashsec.svg"
   level: "silver"
+
+- name: "BSides Dresden"
+  url: "https://bsidesdresden.com/"
+  image: "/img/sponsors/2024/bsides_dresden.png"
+  level: "community"

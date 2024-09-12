@@ -4,7 +4,7 @@ layout: default
 year: 2024
 permalink: /sponsors/
 ---
-## Up your karma: sponsor hacker knowledge aquisition
+# Up your karma: sponsor hacker knowledge aquisition
 
 Getting a community event going (possibly for free) is not easy. We're looking for sponsoring to provide
 for a nice and central location, multiple tracks, tech (beamers, PA, recording equipment), and ideally
@@ -19,7 +19,7 @@ than welcome to participate in any way you feel appropriate.
 {%- assign sponsors_community = site.data.bs_2024.sponsors | where:"level","community" %}
 
 {%- if sponsors_platinum.size > 0 %}
-## Platinum Sponsors
+# Platinum Sponsors
 {% for sponsor in sponsors_platinum %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
@@ -29,7 +29,7 @@ than welcome to participate in any way you feel appropriate.
 {%- endif %}
 
 {%- if sponsors_gold.size > 0 %}
-## Gold Sponsors
+# Gold Sponsors
 {% for sponsor in sponsors_gold %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
@@ -39,7 +39,7 @@ than welcome to participate in any way you feel appropriate.
 {%- endif %}
 
 {%- if sponsors_silver.size > 0 %}
-## Silver Sponsors
+# Silver Sponsors
 {% for sponsor in sponsors_silver %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
@@ -49,7 +49,7 @@ than welcome to participate in any way you feel appropriate.
 {%- endif %}
 
 {%- if sponsors_bronze.size > 0 %}
-## Bronze Sponsors
+# Bronze Sponsors
 {% for sponsor in sponsors_bronze %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
@@ -59,7 +59,7 @@ than welcome to participate in any way you feel appropriate.
 {%- endif %}
 
 {%- if sponsors_community.size > 0 %}
-## Community Sponsors
+# Community Sponsors
 {% for sponsor in sponsors_community %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
