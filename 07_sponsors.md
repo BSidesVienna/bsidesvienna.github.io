@@ -37,7 +37,7 @@ than welcome to participate in any way you feel appropriate.
 {% for sponsor in sponsors_gold %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
-{%- if sponsor.nocss == true }
+{%- if sponsor.nocss == true %}
 [![{{ sponsor.name }}]({{ sponsor.image }})]({{ sponsor.url }})
 {%- else %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
@@ -51,7 +51,7 @@ than welcome to participate in any way you feel appropriate.
 {% for sponsor in sponsors_silver %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
-{%- if sponsor.nocss == true }
+{%- if sponsor.nocss == true %}
 [![{{ sponsor.name }}]({{ sponsor.image }})]({{ sponsor.url }})
 {%- else %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
@@ -65,7 +65,7 @@ than welcome to participate in any way you feel appropriate.
 {% for sponsor in sponsors_bronze %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
-{%- if sponsor.nocss == true }
+{%- if sponsor.nocss == true %}
 [![{{ sponsor.name }}]({{ sponsor.image }})]({{ sponsor.url }})
 {%- else %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
@@ -79,7 +79,7 @@ than welcome to participate in any way you feel appropriate.
 {% for sponsor in sponsors_community %}
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
-{%- if sponsor.nocss == true }
+{%- if sponsor.nocss == true %}
 [![{{ sponsor.name }}]({{ sponsor.image }})]({{ sponsor.url }})
 {%- else %}
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
