@@ -1,20 +1,23 @@
 - name: "SBA Research"
   url: "https://sba-research.org/"
   image: "/img/sponsors/2024/SBAResearch.png"
+  background: true
   level: "gold"
 
 - name: "AIT"
   url: "https://www.ait.ac.at/"
   image: "/img/sponsors/2024/ait.png"
+  background: true
   level: "gold"
 
 - name: "slashsec"
   url: "https://www.slashsec.at/"
   image: "/img/sponsors/2024/slashsec.svg"
+  background: true
   level: "silver"
 
 - name: "BSides Dresden"
   url: "https://bsidesdresden.com/"
   image: "/img/sponsors/2024/bsides_dresden.png"
   level: "community"
-  nocss: true
+  background: false
