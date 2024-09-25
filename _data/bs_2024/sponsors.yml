@@ -21,3 +21,9 @@
   image: "/img/sponsors/2024/bsides_dresden.png"
   level: "community"
   background: false
+
+- name: "cert.at"
+  url: "https://www.cert.at"
+  image: "/img/sponsors/2024/certat.jpg"
+  background: true
+  level: "bronze"
