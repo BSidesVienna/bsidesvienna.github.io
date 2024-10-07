@@ -16,6 +16,12 @@
   background: true
   level: "silver"
 
+- name: "NVISO"
+  url: "https://www.nviso.eu/"
+  image: "/img/sponsors/2024/nviso.svg"
+  background: true
+  level: "silver"
+
 - name: "BSides Dresden"
   url: "https://bsidesdresden.com/"
   image: "/img/sponsors/2024/bsides_dresden.png"
