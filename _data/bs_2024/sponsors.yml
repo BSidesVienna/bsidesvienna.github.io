@@ -33,3 +33,27 @@
   image: "/img/sponsors/2024/certat.jpg"
   background: true
   level: "bronze"
+
+- name: "ZTP"
+  url: "https://ztp.digital/"
+  image: "/img/sponsors/2024/ztp.png"
+  background: true
+  level: "silver"
+
+- name: "NSide Attack Logic"
+  url: "https://www.nsideattacklogic.de/"
+  image: "/img/sponsors/2024/nside.png"
+  background: true
+  level: "bronze"
+
+- name: "Certitude"
+  url: "https://www.certitude.consulting"
+  image: "/img/sponsors/2024/certitude.png"
+  background: true
+  level: "bronze"
+
+- name: "condignum"
+  url: "https://www.condignum.com/"
+  image: "/img/sponsors/2024/condignum.jpg"
+  background: false
+  level: "bronze"
