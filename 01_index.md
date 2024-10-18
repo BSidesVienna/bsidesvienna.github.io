@@ -36,7 +36,10 @@ You can find us on the following social media sites:
 
 #### Location
 
-TBD
+[Urania Dachsaal](https://www.vhs.at/de/ueber-die-vhs/veranstaltungszentren#1010-wien-vhs-wiener-urania-veranstaltungssale)
+
+Uraniastraße 1
+1010 - Wien/Vienna
 
 #### Cost
 

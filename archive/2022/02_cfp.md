@@ -74,7 +74,7 @@ hacker: n.
 
 To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsidesvienna-2022/cfp](https://cfp.bsidesvienna.at/bsidesvienna-2022/cfp).
 
-CFP will close on **TBD**.
+CFP will close on -.
 
 
 # Sponsoring
