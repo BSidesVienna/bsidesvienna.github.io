@@ -15,7 +15,7 @@ Uraniastraße 1 1010 Wien/Vienna :: Austria :: Europe :: Earth :: Milky-way
 
 #### When does it start?
 
-- **Beginning**: 23.11.2024 - 09:30 (opens at 00:00)
+- **Beginning**: 23.11.2024 - 09:30 (opens at 09:00)
 - **End**: 23.11.2024 - 18:15
 
 [Local time]
