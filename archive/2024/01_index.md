@@ -3,6 +3,7 @@ title: Index
 layout: archive
 year: 2024
 permalink: /archive/2024/
+archive: true
 ---
 
 # What's BsidesVienna?

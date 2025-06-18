@@ -3,6 +3,7 @@ title: Registration
 layout: archive
 year: 2024
 permalink: /archive/2024/registration/
+archive: true
 ---
 
 # Registration

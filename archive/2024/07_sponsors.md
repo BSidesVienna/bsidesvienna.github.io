@@ -3,6 +3,7 @@ title: Sponsors
 layout: archive
 year: 2024
 permalink: /archive/2024/sponsors/
+archive: true
 ---
 
 # Up your karma: sponsor hacker knowledge aquisition

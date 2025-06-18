@@ -3,6 +3,7 @@ title: CfP
 layout: archive
 year: 2024
 permalink: /archive/2024/cfp/
+archive: true
 ---
 
 # TL;DR

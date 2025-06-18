@@ -3,6 +3,7 @@ title: Venue
 layout: archive
 year: 2024
 permalink: /archive/2024/venue/
+archive: true
 ---
 
 # Location

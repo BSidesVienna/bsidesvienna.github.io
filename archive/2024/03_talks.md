@@ -3,6 +3,7 @@ title: Talks
 layout: archive
 year: 2024
 permalink: /archive/2024/talks/
+archive: true
 ---
 
 # Talks
