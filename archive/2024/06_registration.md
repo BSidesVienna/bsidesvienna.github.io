@@ -1,8 +1,8 @@
 ---
 title: Registration
-layout: default
-year: 2025
-permalink: /registration/
+layout: archive
+year: 2024
+permalink: /archive/2024/registration/
 ---
 
 # Registration

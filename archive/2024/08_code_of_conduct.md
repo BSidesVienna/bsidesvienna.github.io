@@ -1,8 +1,8 @@
 ---
 title: CoC
-layout: default
-year: 2025
-permalink: /code_of_conduct/
+layout: archive
+year: 2024
+permalink: /archive/2024/code_of_conduct/
 ---
 
 # Code of Conduct [CoC]

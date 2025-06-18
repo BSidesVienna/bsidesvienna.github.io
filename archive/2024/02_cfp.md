@@ -1,8 +1,8 @@
 ---
 title: CfP
-layout: default
-year: 2025
-permalink: /cfp/
+layout: archive
+year: 2024
+permalink: /archive/2024/cfp/
 ---
 
 # TL;DR
@@ -19,7 +19,6 @@ designed to wow the crowd and keep them coming back for more.
 
 If you want to get a feel of what we're looking for, check out the [archive](/archive/) of our past BsidesVienna events:
 
-- 2024: [Talk schedule](https://cfp.bsidesvienna.at/bsv2024/schedule/)
 - 2023: [Talk schedule](https://cfp.bsidesvienna.at/bsidesvienna-0x7e7/schedule/)
 - 2022: [Talk schedule](https://cfp.bsidesvienna.at/bsidesvienna-2022/schedule/)
 - 2019: [Talk schedule](http://bsidesvienna.at/archive/2019/schedule/) (slides included)

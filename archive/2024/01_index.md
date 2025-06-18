@@ -1,8 +1,8 @@
 ---
 title: Index
-layout: default
-year: 2025
-permalink: /
+layout: archive
+year: 2024
+permalink: /archive/2024/
 ---
 
 # What's BsidesVienna?
@@ -21,7 +21,7 @@ You can find us on the following social media sites:
 
 # News
 
-{% for news_entry in site.data.bs_2025.news %}
+{% for news_entry in site.data.bs_2024.news %}
 
 ### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
 
@@ -30,7 +30,7 @@ You can find us on the following social media sites:
 
 # Event details
 
-22.11.2025 (dd.mm.yyyy)
+23.11.2024 (dd.mm.yyyy)
 
 # Tickets
 
@@ -66,5 +66,5 @@ Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for conten
 
 #### Crew
 
-- {% for member in site.data.bs_2025.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
+- {% for member in site.data.bs_2024.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
 - ..and anonymous others

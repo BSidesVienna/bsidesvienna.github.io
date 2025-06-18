@@ -1,8 +1,8 @@
 ---
 title: Sponsors
-layout: default
-year: 2025
-permalink: /sponsors/
+layout: archive
+year: 2024
+permalink: /archive/2024/sponsors/
 ---
 
 # Up your karma: sponsor hacker knowledge aquisition
@@ -13,11 +13,11 @@ food and drinks for attendees. If you are interested to help an event by the sec
 security community please contact us either [via twitter](https://twitter.com/BSidesVienna), [via Mastodon](https://infosec.exchange/@bsidesvienna) or send us an e-mail to crew [at] bsidesvienna [dot] at. [We also published our sponsor levels including the perks you
 will get here](/sponsorlevel/).
 
-{%- assign sponsors_platinum = site.data.bs_2025.sponsors | where:"level","platinum" %}
-{%- assign sponsors_gold = site.data.bs_2025.sponsors | where:"level","gold" %}
-{%- assign sponsors_silver = site.data.bs_2025.sponsors | where:"level","silver" %}
-{%- assign sponsors_bronze = site.data.bs_2025.sponsors | where:"level","bronze" %}
-{%- assign sponsors_community = site.data.bs_2025.sponsors | where:"level","community" %}
+{%- assign sponsors_platinum = site.data.bs_2024.sponsors | where:"level","platinum" %}
+{%- assign sponsors_gold = site.data.bs_2024.sponsors | where:"level","gold" %}
+{%- assign sponsors_silver = site.data.bs_2024.sponsors | where:"level","silver" %}
+{%- assign sponsors_bronze = site.data.bs_2024.sponsors | where:"level","bronze" %}
+{%- assign sponsors_community = site.data.bs_2024.sponsors | where:"level","community" %}
 
 {%- if sponsors_platinum.size > 0 %}
 
