@@ -7,11 +7,11 @@ permalink: /cfp/
 
 # TL;DR
 
-[https://cfp.bsidesvienna.at/bsv2024/cfp](https://cfp.bsidesvienna.at/bsv2024/cfp)
+[https://cfp.bsidesvienna.at/bsv2025/cfp](https://cfp.bsidesvienna.at/bsv2025/cfp)
 
 # Propaganda
 
-You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back for 2024!
+You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back for 2025!
 
 We're teaming up with the very fine folks over at [DeepSec](https://deepsec.net/) again to throw a BSides event straight after their conference at the
 end of November. In true BSides fashion we're looking for a good mix of security and hacker talks
@@ -72,9 +72,9 @@ hacker: n.
 
 # Submission
 
-To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsv2024/cfp](https://cfp.bsidesvienna.at/bsv2024/cfp).
+To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsv2025/cfp](https://cfp.bsidesvienna.at/bsv2025/cfp).
 
-CFP will close on 2024/10/01.
+CFP will close on 2025/10/01.
 
 # Sponsoring
 
