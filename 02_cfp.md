@@ -7,7 +7,7 @@ permalink: /cfp/
 
 # TL;DR
 
-[https://cfp.bsidesvienna.at/bsv2025/cfp](https://cfp.bsidesvienna.at/bsv2025/cfp)
+[https://cfp.bsidesvienna.at/bsidesvienna-0x7e9-2025/cfp](https://cfp.bsidesvienna.at/bsidesvienna-0x7e9-2025/cfp)
 
 # Propaganda
 
@@ -72,7 +72,7 @@ hacker: n.
 
 # Submission
 
-To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsv2025/cfp](https://cfp.bsidesvienna.at/bsv2025/cfp).
+To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at/bsidesvienna-0x7e9-2025/cfp](https://cfp.bsidesvienna.at/bsidesvienna-0x7e9-2025/cfp).
 
 CFP will close on 2025/10/01.
 
