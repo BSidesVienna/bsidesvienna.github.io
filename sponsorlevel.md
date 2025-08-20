@@ -26,5 +26,4 @@ permalink: /sponsorlevel/
 | Host speaker dinner                                 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
 
 \*Custom Sponsorship (Platinum Level)
-All perks at the platinum level are up for discussion as are the options to support the event. Let’s talk
-how we can benefit each other
+All perks at the platinum level are up for discussion as are the options to support the event. Let’s talk how we can benefit each other!
