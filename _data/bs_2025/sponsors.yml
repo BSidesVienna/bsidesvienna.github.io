@@ -1,0 +1,5 @@
+- name: "slashsec"
+  url: "https://www.slashsec.at/"
+  image: "/img/sponsors/2025/slashsec.svg"
+  background: true
+  level: "silver"
