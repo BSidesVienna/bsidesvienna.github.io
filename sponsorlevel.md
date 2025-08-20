@@ -11,7 +11,7 @@ permalink: /sponsorlevel/
 |                                                         |        Community         |          Bronze          |          Silver          |           Gold           |     Platinum\*     |
 | ------------------------------------------------------- | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------: |
 | Available Slots                                         |            2             |            4             |            3             |            2             |         1          |
-| Cost                                                    |          0 EUR           |        1.000 EUR         |        3.000 EUR         |        5.000 EUR         |     10.000 EUR     |
+| Cost                                                    |          0 EUR           |        1.000 EUR         |        3.000 EUR         |        6.000 EUR         |     10.000 EUR     |
 | Guaranteed event tickets                                | :heavy_multiplication_x: |            1             |            3             |            6             |         12         |
 | Social media shout out                                  |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Logo on the website                                     |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
@@ -23,6 +23,7 @@ permalink: /sponsorlevel/
 | Logo on shirts                                          | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
 | Table at the exhibition space                           | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
 | Logo on speaker hoodies                                 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
+| Host speaker dinner                                 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
 
 \*Custom Sponsorship (Platinum Level)
 All perks at the platinum level are up for discussion as are the options to support the event. Let’s talk
