@@ -8,7 +8,7 @@ permalink: /sponsorlevel/
 
 # Become a Sponsor
 
-|                                                         |        Community         |          Bronze          |          Silver          |           Gold           |     Platinum\*     |
+|                                                         |        Community         |          Bronze          |          Silver          |           Gold\*           |     Platinum\*     |
 | ------------------------------------------------------- | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------: |
 | Available Slots                                         |            2             |            4             |            3             |            2             |         1          |
 | Cost                                                    |          0 EUR           |        1.000 EUR         |        3.000 EUR         |        6.000 EUR         |     10.000 EUR     |
@@ -25,5 +25,7 @@ permalink: /sponsorlevel/
 | Logo on speaker hoodies                                 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
 | Host speaker dinner                                 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
 
-\*Custom Sponsorship (Platinum Level)
-All perks at the platinum level are up for discussion as are the options to support the event. Let’s talk how we can benefit each other!
+\*There are 3 high level sponsorships available. Either three gold or two gold and one platinum.\
+\*Custom sponsorship (platinum level)
+All perks at the platinum level are up for discussion as are the options to support the event.\
+Let’s talk how we can benefit each other!
