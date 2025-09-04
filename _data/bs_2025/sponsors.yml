@@ -3,3 +3,15 @@
   image: "/img/sponsors/2025/slashsec.svg"
   background: true
   level: "silver"
+
+- name: "cert.at"
+  url: "https://www.cert.at"
+  image: "/img/sponsors/2025/certat.jpg"
+  background: true
+  level: "bronze"
+
+- name: "Certitude"
+  url: "https://www.certitude.consulting"
+  image: "/img/sponsors/2025/certitude.png"
+  background: true
+  level: "bronze"
