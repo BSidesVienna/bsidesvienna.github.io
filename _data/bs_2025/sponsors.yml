@@ -15,3 +15,21 @@
   image: "/img/sponsors/2025/certitude.png"
   background: true
   level: "bronze"
+
+- name: "ZTP"
+  url: "https://ztp.digital/"
+  image: "/img/sponsors/2025/ztp.png"
+  background: true
+  level: "silver"
+
+- name: "Fidela"
+  url: "https://fidela.at/"
+  image: "/img/sponsors/2025/fidela.png"
+  background: false
+  level: "bronze"
+
+- name: "AIT"
+  url: "https://www.ait.ac.at/"
+  image: "/img/sponsors/2025/ait.png"
+  background: true
+  level: "gold"
