@@ -25,7 +25,7 @@
 - name: "Fidela"
   url: "https://fidela.at/"
   image: "/img/sponsors/2025/fidela.png"
-  background: false
+  background: true
   level: "bronze"
 
 - name: "AIT"
