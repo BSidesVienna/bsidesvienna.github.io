@@ -1,3 +1,9 @@
+- name: "SBA Research"
+  url: "https://sba-research.org/"
+  image: "/img/sponsors/2025/SBAResearch.png"
+  background: true
+  level: "gold"
+
 - name: "slashsec"
   url: "https://www.slashsec.at/"
   image: "/img/sponsors/2025/slashsec.svg"
