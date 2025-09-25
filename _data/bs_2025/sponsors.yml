@@ -10,6 +10,18 @@
   background: true
   level: "silver"
 
+- name: "antisyphon training"
+  url: "https://www.antisyphontraining.com/course-catalog/"
+  image: "/img/sponsors/2025/antisyphon.png"
+  background: true
+  level: "silver"
+
+- name: "Black Hills Information Security"
+  url: "https://www.blackhillsinfosec.com/"
+  image: "/img/sponsors/2025/bhis.svg"
+  background: true
+  level: "silver"
+
 - name: "cert.at"
   url: "https://www.cert.at"
   image: "/img/sponsors/2025/certat.jpg"
@@ -33,9 +45,3 @@
   image: "/img/sponsors/2025/fidela.png"
   background: true
   level: "bronze"
-
-- name: "AIT"
-  url: "https://www.ait.ac.at/"
-  image: "/img/sponsors/2025/ait.png"
-  background: true
-  level: "gold"
