@@ -11,7 +11,7 @@ All attendees, speakers, sponsors and volunteers at BSidesVienna are required to
 
 #### TL;DR
 
-Walk your talk. Be excellent to each other || GTFO!
+Walk your talk. Be excellent to each other &#124;&#124; GTFO!
 
 BSidesVienna is dedicated to providing a harassment-free conference experience for everyone, regardless of skill, age, gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
 
