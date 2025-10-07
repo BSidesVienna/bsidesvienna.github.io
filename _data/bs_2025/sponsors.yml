@@ -22,6 +22,12 @@
   background: true
   level: "silver"
 
+- name: "Cancom"
+  url: "https://www.cancom.at/it-security"
+  image: "/img/sponsors/2025/cancom.png"
+  background: true
+  level: "silver"
+
 - name: "cert.at"
   url: "https://www.cert.at"
   image: "/img/sponsors/2025/certat.jpg"
