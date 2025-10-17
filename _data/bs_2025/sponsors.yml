@@ -51,3 +51,9 @@
   image: "/img/sponsors/2025/fidela.png"
   background: true
   level: "bronze"
+
+- name: "Chaos Computer Club Wien (C3W)"
+  url: "https://c3w.at/"
+  image: "/img/sponsors/2025/c3w.png"
+  background: true
+  level: "community"
