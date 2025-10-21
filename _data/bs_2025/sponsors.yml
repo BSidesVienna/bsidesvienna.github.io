@@ -16,12 +16,6 @@
   background: true
   level: "silver"
 
-- name: "Black Hills Information Security"
-  url: "https://www.blackhillsinfosec.com/"
-  image: "/img/sponsors/2025/bhis.svg"
-  background: true
-  level: "silver"
-
 - name: "CANCOM Austria AG"
   url: "https://www.cancom.at/it-security"
   image: "/img/sponsors/2025/cancom.png"
