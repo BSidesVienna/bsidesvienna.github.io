@@ -63,3 +63,9 @@
   image: "/img/sponsors/2025/wien_digital.svg"
   background: true
   level: "silver"
+
+- name: "T-Security"
+  url: "https://www.t-systems.com/at/de/security"
+  image: "/img/sponsors/2025/t-security.png"
+  background: true
+  level: "silver"
