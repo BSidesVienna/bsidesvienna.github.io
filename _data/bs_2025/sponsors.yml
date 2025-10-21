@@ -57,3 +57,9 @@
   image: "/img/sponsors/2025/c3w.png"
   background: true
   level: "community"
+
+- name: "Wien Digital"
+  url: "https://www.wien.gv.at/kontakt/ma01"
+  image: "/img/sponsors/2025/wien_digital.svg"
+  background: true
+  level: "silver"
