@@ -23,7 +23,9 @@ will get here](/sponsorlevel/).
 
 # Platinum Sponsors
 
+<div class="sponsors-container">
 {% for sponsor in sponsors_platinum %}
+<div class="sponsor-item">
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
 {%- if sponsor.background == true %}
@@ -32,14 +34,18 @@ will get here](/sponsorlevel/).
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
 {%- endif %}
 {% endif %}
+</div>
 {% endfor %}
+</div>
 {%- endif %}
 
 {%- if sponsors_gold.size > 0 %}
 
 # Gold Sponsors
 
+<div class="sponsors-container">
 {% for sponsor in sponsors_gold %}
+<div class="sponsor-item">
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
 {%- if sponsor.background == true %}
@@ -48,14 +54,18 @@ will get here](/sponsorlevel/).
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
 {%- endif %}
 {% endif %}
+</div>
 {% endfor %}
+</div>
 {%- endif %}
 
 {%- if sponsors_silver.size > 0 %}
 
 # Silver Sponsors
 
+<div class="sponsors-container">
 {% for sponsor in sponsors_silver %}
+<div class="sponsor-item">
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
 {%- if sponsor.background == true %}
@@ -64,14 +74,18 @@ will get here](/sponsorlevel/).
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
 {%- endif %}
 {% endif %}
+</div>
 {% endfor %}
+</div>
 {%- endif %}
 
 {%- if sponsors_bronze.size > 0 %}
 
 # Bronze Sponsors
 
+<div class="sponsors-container">
 {% for sponsor in sponsors_bronze %}
+<div class="sponsor-item">
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
 {%- if sponsor.background == true %}
@@ -80,14 +94,18 @@ will get here](/sponsorlevel/).
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
 {%- endif %}
 {% endif %}
+</div>
 {% endfor %}
+</div>
 {%- endif %}
 
 {%- if sponsors_community.size > 0 %}
 
 # Community Sponsors
 
+<div class="sponsors-container">
 {% for sponsor in sponsors_community %}
+<div class="sponsor-item">
 [{{ sponsor.name }}]({{ sponsor.url }})
 {% if sponsor.image %}
 {%- if sponsor.background == true %}
@@ -96,5 +114,7 @@ will get here](/sponsorlevel/).
 [![{{ sponsor.name }}]({{ sponsor.image }}){:.sponsor}]({{ sponsor.url }})
 {%- endif %}
 {% endif %}
+</div>
 {% endfor %}
+</div>
 {%- endif %}
