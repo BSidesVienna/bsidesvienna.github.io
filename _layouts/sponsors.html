@@ -1,0 +1,49 @@
+{%- include header.html %}
+
+{%- assign sponsors_platinum = site.data.bs_2025.sponsors | where:"level","platinum" %}
+{%- assign sponsors_gold = site.data.bs_2025.sponsors | where:"level","gold" %}
+{%- assign sponsors_silver = site.data.bs_2025.sponsors | where:"level","silver" %}
+{%- assign sponsors_bronze = site.data.bs_2025.sponsors | where:"level","bronze" %}
+{%- assign sponsors_community = site.data.bs_2025.sponsors | where:"level","community" %}
+
+<div class="container">
+  <div class="page-header">
+    <h1>{{ page.year }} - {{ page.title }}</h1>
+  </div>
+
+  <section id="content">
+   {{ content }}
+   
+   {%- if sponsors_platinum.size > 0 %}
+   
+   {% include _sponsor_part.html  sponsors=sponsors_platinum sponsorstitle="Platinum Sponsors" %}
+   
+   {%- endif %}
+   
+   {%- if sponsors_gold.size > 0 %}
+   
+   {% include _sponsor_part.html  sponsors=sponsors_gold sponsorstitle="Gold Sponsors" %}
+   
+   {%- endif %}
+   
+   {%- if sponsors_silver.size > 0 %}
+   
+   {% include _sponsor_part.html  sponsors=sponsors_silver sponsorstitle="Silver Sponsors" %}
+   
+   {%- endif %}
+   
+   {%- if sponsors_bronze.size > 0 %}
+   
+   {% include _sponsor_part.html  sponsors=sponsors_bronze sponsorstitle="Bronze Sponsors" %}
+   
+   {%- endif %}
+   
+   {%- if sponsors_community.size > 0 %}
+   
+   {% include _sponsor_part.html  sponsors=sponsors_community sponsorstitle="Community Sponsors" %}
+   
+   {%- endif %}
+  </section>
+</div>
+
+{%- include footer.html %}

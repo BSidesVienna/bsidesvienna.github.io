@@ -1,0 +1,17 @@
+<h1 class="sponsorstitle">{{ include.sponsorstitle }}</h1>
+
+<div class="sponsors">
+  {% for sponsor in include.sponsors %}
+    <div class="sponsorfield">
+      <p><a href="{{ sponsor.url }}">{{ sponsor.name }}</a></p>
+      {% if sponsor.image %}
+        {%- if sponsor.background == true %}
+          <p><a href="{{ sponsor.url }}"><img src="{{ sponsor.image }}" alt="{{ sponsor.name }}" class="sponsor sponsor-background"></a></p>
+        {%- else %}
+          <p><a href="{{ sponsor.url }}"><img src="{{ sponsor.image }}" alt="{{ sponsor.name }}" class="sponsor"></a></p>
+        {%- endif %}
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+
