@@ -49,3 +49,19 @@ img.sponsor {
 img.sponsor-background {
   background-color: white;
 }
+
+/* sponsor styling */
+.sponsors {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 50px;
+	margin-bottom: 10px;
+}
+
+.sponsorstitle {
+	margin-bottom: 5px;
+}
+
+.sponsorfield {
+}

@@ -4,12 +4,6 @@
   background: true
   level: "gold"
 
-- name: "slashsec"
-  url: "https://www.slashsec.at/"
-  image: "/img/sponsors/2025/slashsec.svg"
-  background: true
-  level: "silver"
-
 - name: "antisyphon training"
   url: "https://www.antisyphontraining.com/course-catalog/"
   image: "/img/sponsors/2025/antisyphon.png"
@@ -19,6 +13,24 @@
 - name: "CANCOM Austria AG"
   url: "https://www.cancom.at/it-security"
   image: "/img/sponsors/2025/cancom.png"
+  background: true
+  level: "silver"
+
+- name: "slashsec"
+  url: "https://www.slashsec.at/"
+  image: "/img/sponsors/2025/slashsec.svg"
+  background: true
+  level: "silver"
+
+- name: "T-Security"
+  url: "https://www.telekom.com/security"
+  image: "/img/sponsors/2025/t-security.png"
+  background: true
+  level: "silver"
+
+- name: "Wien Digital"
+  url: "https://www.wien.gv.at/kontakt/ma01"
+  image: "/img/sponsors/2025/wien_digital.svg"
   background: true
   level: "silver"
 
@@ -34,15 +46,15 @@
   background: true
   level: "bronze"
 
-- name: "ZTP"
-  url: "https://ztp.digital/"
-  image: "/img/sponsors/2025/ztp.png"
-  background: true
-  level: "bronze"
-
 - name: "Fidela"
   url: "https://fidela.at/"
   image: "/img/sponsors/2025/fidela.png"
+  background: true
+  level: "bronze"
+
+- name: "ZTP"
+  url: "https://ztp.digital/"
+  image: "/img/sponsors/2025/ztp.png"
   background: true
   level: "bronze"
 
@@ -52,14 +64,4 @@
   background: true
   level: "community"
 
-- name: "Wien Digital"
-  url: "https://www.wien.gv.at/kontakt/ma01"
-  image: "/img/sponsors/2025/wien_digital.svg"
-  background: true
-  level: "silver"
 
-- name: "T-Security"
-  url: "https://www.telekom.com/security"
-  image: "/img/sponsors/2025/t-security.png"
-  background: true
-  level: "silver"
