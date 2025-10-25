@@ -18,7 +18,7 @@ markdown: kramdown
 permalink: pretty
 highlighter: rouge
 
-exclude: [CNAME, Readme.md, vendor, .gitignore]
+exclude: [CNAME, Readme.md, vendor, .gitignore, .github]
 
 plugins:
   - jekyll-sitemap
