@@ -50,11 +50,12 @@ img.sponsor-background {
   background-color: white;
 }
 
+/* sponsor styling */
 .sponsors {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-	justify-content: space-between;
+	gap: 50px;
 	margin-bottom: 10px;
 }
 
