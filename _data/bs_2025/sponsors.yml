@@ -63,3 +63,9 @@
   image: "/img/sponsors/2025/c3w.png"
   background: true
   level: "community"
+
+- name: "Hack Defender"
+  url: "https://www.linkedin.com/company/hack-defender-academy/"
+  image: "/img/sponsors/2025/hack_defender.png"
+  background: true
+  level: "community"
