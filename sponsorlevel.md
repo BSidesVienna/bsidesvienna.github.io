@@ -10,7 +10,7 @@ permalink: /sponsorlevel/
 
 |                                                         |        Community         |          Bronze          |          Silver          |          Gold\*          |     Platinum\*     |
 | ------------------------------------------------------- | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------: |
-| Available Slots                                         |           3/3            |           0/4            |           2/5            |           2/3            |        1/1         |
+| Available Slots                                         |           0/3            |           0/4            |           0/5            |           2/3            |        1/1         |
 | Cost                                                    |          0 EUR           |        1.000 EUR         |        3.000 EUR         |        5.700 EUR         |     10.000 EUR     |
 | Guaranteed event tickets                                | :heavy_multiplication_x: |            1             |            3             |            5             |         10         |
 | Social media shout out                                  |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
