@@ -69,3 +69,9 @@
   image: "/img/sponsors/2025/hack_defender.png"
   background: true
   level: "community"
+
+- name: "BSides Dresden"
+  url: "https://bsidesdresden.com/"
+  image: "/img/sponsors/2025/bsides_dresden.png"
+  level: "community"
+  background: false
