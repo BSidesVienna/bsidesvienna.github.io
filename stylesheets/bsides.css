@@ -64,4 +64,6 @@ img.sponsor-background {
 }
 
 .sponsorfield {
+  display: inline-block;
+  text-align: center;
 }
