@@ -18,8 +18,8 @@ permalink: /sponsorlevel/
 | Can bring flyer and stickers                            |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Logo on the beamer in rotation                          |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Announcement on site; at the beginning and end of event | :heavy_multiplication_x: |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
-| Can bring stand-up display                              | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
-| Can put a rullup next to the stage                      | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
+| Can bring rollup                                        | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
+| Can put a rollup next to the stage                      | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
 | Logo on event badges                                    | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
 | Logo on shirts                                          | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
 | Package of 10 shirts                                    | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
