@@ -75,3 +75,9 @@
   image: "/img/sponsors/2025/bsides_dresden.png"
   level: "community"
   background: false
+
+- name: "Hacker Tracker"
+  url: "https://hackertracker.app/"
+  image: "/img/sponsors/2025/hackertracker.png"
+  level: "community"
+  background: false
