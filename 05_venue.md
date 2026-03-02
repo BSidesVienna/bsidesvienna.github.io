@@ -1,7 +1,6 @@
 ---
 title: Venue
 layout: default
-year: 2025
 permalink: /venue/
 ---
 
@@ -15,8 +14,10 @@ Uraniastraße 1 1010 Wien/Vienna :: Austria :: Europe :: Earth :: Milky-way
 
 #### When does it start?
 
-- **Beginning**: 22.11.2025 - 09:30 (opens at 09:00)
-- **End**: 22.11.2025 - 18:15
+TODO
+
+- **Beginning**: xx.xx.2026 - 09:30 (opens at 09:00)
+- **End**: xx.xx.2026 - 18:15
 
 [Local time]
 

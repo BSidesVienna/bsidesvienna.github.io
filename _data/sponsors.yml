@@ -1,0 +1,83 @@
+- name: "SBA Research"
+  url: "https://sba-research.org/"
+  image: "/img/sponsors/SBAResearch.png"
+  background: true
+  level: "gold"
+
+- name: "antisyphon training"
+  url: "https://www.antisyphontraining.com/course-catalog/"
+  image: "/img/sponsors/antisyphon.png"
+  background: true
+  level: "silver"
+
+- name: "CANCOM Austria AG"
+  url: "https://www.cancom.at/it-security"
+  image: "/img/sponsors/cancom.png"
+  background: true
+  level: "silver"
+
+- name: "slashsec"
+  url: "https://www.slashsec.at/"
+  image: "/img/sponsors/slashsec.svg"
+  background: true
+  level: "silver"
+
+- name: "T-Security"
+  url: "https://www.telekom.com/security"
+  image: "/img/sponsors/t-security.png"
+  background: true
+  level: "silver"
+
+- name: "Wien Digital"
+  url: "https://www.wien.gv.at/kontakt/ma01"
+  image: "/img/sponsors/wien_digital.svg"
+  background: true
+  level: "silver"
+
+- name: "cert.at"
+  url: "https://www.cert.at"
+  image: "/img/sponsors/certat.jpg"
+  background: true
+  level: "bronze"
+
+- name: "Certitude"
+  url: "https://www.certitude.consulting"
+  image: "/img/sponsors/certitude.png"
+  background: true
+  level: "bronze"
+
+- name: "Fidela"
+  url: "https://fidela.at/"
+  image: "/img/sponsors/fidela.png"
+  background: true
+  level: "bronze"
+
+- name: "ZTP"
+  url: "https://ztp.digital/"
+  image: "/img/sponsors/ztp.png"
+  background: true
+  level: "bronze"
+
+- name: "Chaos Computer Club Wien (C3W)"
+  url: "https://c3w.at/"
+  image: "/img/sponsors/c3w.png"
+  background: true
+  level: "community"
+
+- name: "Hack Defender"
+  url: "https://academy.hack-defender.com"
+  image: "/img/sponsors/hack_defender.png"
+  background: true
+  level: "community"
+
+- name: "BSides Dresden"
+  url: "https://bsidesdresden.com/"
+  image: "/img/sponsors/bsides_dresden.png"
+  level: "community"
+  background: false
+
+- name: "Hacker Tracker"
+  url: "https://hackertracker.app/"
+  image: "/img/sponsors/hackertracker.png"
+  level: "community"
+  background: false

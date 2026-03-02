@@ -1,7 +1,6 @@
 ---
 title: Index
 layout: default
-year: 2025
 permalink: /
 ---
 
@@ -19,18 +18,9 @@ You can find us on the following social media sites:
 
 [BlueSky](https://bsky.app/profile/bsidesvienna.at)
 
-# News
-
-{% for news_entry in site.data.bs_2025.news %}
-
-### [{{ news_entry.timestamp }}]: {{ news_entry.title }}
-
-{{ news_entry.content }}
-{% endfor %}
-
 # Event details
 
-22.11.2025 (dd.mm.yyyy)
+??.??.2026 (dd.mm.yyyy)
 
 # Tickets
 
@@ -66,5 +56,5 @@ Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for conten
 
 #### Crew
 
-- {% for member in site.data.bs_2025.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
+- {% for member in site.data.crew %} [{{ member.name }}]({{ member.url }}) {% endfor %}
 - ..and anonymous others

@@ -1,7 +1,6 @@
 ---
 title: Become a sponsor
 layout: default
-year: 2025
 nomenu: true
 permalink: /sponsorlevel/
 ---

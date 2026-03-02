@@ -1,7 +1,6 @@
 ---
 title: CoC
 layout: default
-year: 2025
 permalink: /code_of_conduct/
 ---
 

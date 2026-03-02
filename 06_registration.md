@@ -1,7 +1,6 @@
 ---
 title: Registration
 layout: default
-year: 2025
 permalink: /registration/
 ---
 

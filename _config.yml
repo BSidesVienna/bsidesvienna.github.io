@@ -1,14 +1,13 @@
 name: "BSidesVienna"
 title: "BSidesVienna"
 description: "BSidesVienna"
-archives: [2014, 2015, 2016, 2017, 2019, 2022, 2023, 2024]
 url: https://bsidesvienna.at
 
 # data about the current event for google
-evt_year: "2025"
-evt_year_hex: "7E9"
-evt_startdate: "2025-11-22T10:00:00+02:00"
-evt_enddate: "2025-11-23T04:00:00+02:00"
+evt_year: "2026"
+evt_year_hex: "7EA"
+evt_startdate: "2026-??-??T10:00:00+02:00"
+evt_enddate: "2026-??-??T04:00:00+02:00"
 evt_loc_name: "Urania Dachsaal"
 evt_loc_address: "Uraniastraße 1"
 evt_loc_zip: "1010"
@@ -18,7 +17,8 @@ markdown: kramdown
 permalink: pretty
 highlighter: rouge
 
-exclude: [CNAME, Readme.md, vendor, .gitignore, .github, Gemfile]
+exclude:
+  [CNAME, Readme.md, vendor, .gitignore, .github, Gemfile, docker-compose.yml]
 
 plugins:
   - jekyll-sitemap
