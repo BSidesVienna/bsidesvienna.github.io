@@ -2,6 +2,8 @@ name: "BSidesVienna"
 title: "BSidesVienna"
 description: "BSidesVienna"
 url: https://bsidesvienna.at
+
+quiet: false
 verbose: true
 
 # data about the current event for google

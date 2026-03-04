@@ -1,6 +1,8 @@
 services:
   jekyll:
     image: bretfisher/jekyll-serve
+    environment:
+      - JEKYLL_LOG_LEVEL=debug
     volumes:
       - .:/site
     ports:
