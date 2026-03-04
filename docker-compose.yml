@@ -3,6 +3,7 @@ services:
     image: bretfisher/jekyll-serve
     environment:
       - JEKYLL_LOG_LEVEL=debug
+      - GH_PAGES=true
     volumes:
       - .:/site
     ports:

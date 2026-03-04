@@ -5,6 +5,7 @@ url: https://bsidesvienna.at
 
 quiet: false
 verbose: true
+strict_front_matter: true
 
 # data about the current event for google
 evt_year: "2026"
