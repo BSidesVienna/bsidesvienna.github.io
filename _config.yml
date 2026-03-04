@@ -22,7 +22,7 @@ permalink: pretty
 highlighter: rouge
 
 exclude:
-  [CNAME, Readme.md, vendor, .gitignore, .github, Gemfile, docker-compose.yml]
+  [CNAME, README.md, LICENSE, vendor, .gitignore, .github, Gemfile, docker-compose.yml]
 
 plugins:
   - jekyll-sitemap
