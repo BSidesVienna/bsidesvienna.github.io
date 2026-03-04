@@ -2,6 +2,7 @@ name: "BSidesVienna"
 title: "BSidesVienna"
 description: "BSidesVienna"
 url: https://bsidesvienna.at
+verbose: true
 
 # data about the current event for google
 evt_year: "2026"
