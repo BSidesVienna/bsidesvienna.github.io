@@ -31,3 +31,6 @@ permalink: /sponsorlevel/
 \*\*Custom sponsorship (platinum level)
 All perks at the platinum level are up for discussion as are the options to support the event.\
 Let’s talk how we can benefit each other!
+
+## Add-ons
+TBD
