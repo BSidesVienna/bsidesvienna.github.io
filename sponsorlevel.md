@@ -33,4 +33,22 @@ All perks at the platinum level are up for discussion as are the options to supp
 Let’s talk how we can benefit each other!
 
 ## Add-ons
-TBD
+### Become an After Party Sponsor
+You can bring a rollup to the after party and provide other swag placed on the tables for the after party.\
+Cost: 1500* (Add-on) or 2500 (after party only)\
+Slots: 2\
+*not available for community sponsor level
+
+### Become a Swag Bag Sponsor
+Provide swag bags for the event with a logo of you choice on one site and the BSidesVienna logo on the other site.\
+You can also work with us to create a design and provide the funding.\
+Cost: swag bags or tbd\
+Slots: 1
+
+### Become a Lanyard Sponsor
+Provide lanyards for the event with a logo of you choice or work with us to create a Lanyard design and provide the funding.\
+Cost: lanyards or tbd\
+Slots: 1
+
+
+
