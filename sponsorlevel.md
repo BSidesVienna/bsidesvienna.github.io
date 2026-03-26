@@ -32,7 +32,7 @@ permalink: /sponsorlevel/
 All perks at the platinum level are up for discussion as are the options to support the event.\
 Let’s talk how we can benefit each other!
 
-# Add-ons
+# Add-ons and other Perks
 ### Become an After Party Sponsor
 You can bring a rollup to the after party and provide other swag placed on the tables for the after party.\
 Cost: 1500* (Add-on) or 2500 (after party only)\
