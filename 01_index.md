@@ -50,7 +50,7 @@ F-R-E-E!
 
 You want to volunteer? Get in touch with us [via twitter](https://twitter.com/BSidesVienna), [via Mastodon](https://infosec.exchange/@bsidesvienna) or be old fashioned and send us an e-mail to crew [at] bsidesvienna [dot] at.
 
-#### Tag for twitter, flickr etc
+#### Tag for X formerly known as Twitter, Mastodon, etc.
 
 Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for content related to this event.
 
