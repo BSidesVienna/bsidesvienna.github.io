@@ -21,7 +21,8 @@ permalink: /sponsorlevel/
 | Can put a rollup on/next to the stage                   | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
 | Logo on the front page of the website                   | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
 | Logo on event badges                                    | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
-| Logo on shirts                                          | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
+| Logo on shirts (small)                                  | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_multiplication_x:  |
+| Logo on shirts (large)                                  | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
 | Package of 10 shirts                                    | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
 | Table at the exhibition space\*\*                       | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
 | Logo on speaker hoodies\*\*                             | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
