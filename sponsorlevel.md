@@ -9,21 +9,21 @@ permalink: /sponsorlevel/
 
 |                                                         |        Community         |          Bronze          |          Silver          |          Gold\*          |     Platinum\*     |
 | ------------------------------------------------------- | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------: |
-| Available Slots                                         |           unlimited      |           0/5            |           0/5            |           0/3            |        0/1         |
+| Available Slots                                         |           unlimited      |           10             |           5              |            3             |          1         |
 | Cost                                                    |          0 EUR           |        1.500 EUR         |        3.000 EUR         |        6.000 EUR         |     12.000 EUR     |
 | Guaranteed event tickets                                | :heavy_multiplication_x: |            1             |            3             |            5             |         10         |
-| Social media shout out                                  |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Logo on the website                                     |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Can bring flyer and stickers                            |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Logo on the beamer in rotation                          |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
+| Social media shout out                                  | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Announcement on site; at the beginning and end of event | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Can bring rollup                                        | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Can put a rollup on/next to the stage                   | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
 | Logo on the front page of the website                   | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
 | Logo on event badges                                    | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
+| Package of 10 shirts                                    | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
 | Logo on shirts (small)                                  | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_multiplication_x:  |
 | Logo on shirts (large)                                  | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
-| Package of 10 shirts                                    | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
 | Table at the exhibition space\*\*                       | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
 | Logo on speaker hoodies\*\*                             | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
 | Host speaker dinner\*\*                                 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: |
