@@ -50,8 +50,9 @@ F-R-E-E!
 
 You want to volunteer? Get in touch with us [via twitter](https://twitter.com/BSidesVienna), [via Mastodon](https://infosec.exchange/@bsidesvienna) or be old fashioned and send us an e-mail to crew [at] bsidesvienna [dot] at.
 
-{%- assign sponsors_platinum = site.data.sponsors | where:"level","platinum" | sort_natural: "name" | default: [] %}
-{%- assign sponsors_gold = site.data.sponsors | where:"level","gold" | sort_natural: "name" | default: [] %}
+{%- assign empty_array = "" | split: "" %}
+{%- assign sponsors_platinum = site.data.sponsors | where:"level","platinum" | sort_natural: "name" | default: empty_array %}
+{%- assign sponsors_gold = site.data.sponsors | where:"level","gold" | sort_natural: "name" | default: empty_array %}
 {%- assign sponsors_len = sponsors_platinum | concat: sponsors_gold | size %}
 
 {%- if sponsor_len > 0 %}
