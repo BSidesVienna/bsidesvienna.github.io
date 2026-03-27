@@ -1,10 +1,9 @@
-{%- include header.html %} {%- assign sponsors_platinum = site.data.sponsors |
-where:"level","platinum" | sort_natural: "name" %} {%- assign sponsors_gold =
-site.data.sponsors | where:"level","gold" | sort_natural: "name" %} {%- assign
-sponsors_silver = site.data.sponsors | where:"level","silver" | sort_natural:
-"name" %} {%- assign sponsors_bronze = site.data.sponsors |
-where:"level","bronze" | sort_natural: "name" %} {%- assign sponsors_community =
-site.data.sponsors | where:"level","community" | sort_natural: "name" %}
+{%- include header.html %}
+{%- assign sponsors_platinum = site.data.sponsors | where:"level","platinum" | sort_natural: "name" %}
+{%- assign sponsors_gold = site.data.sponsors | where:"level","gold" | sort_natural: "name" %}
+{%- assign sponsors_silver = site.data.sponsors | where:"level","silver" | sort_natural:"name" %}
+{%- assign sponsors_bronze = site.data.sponsors | where:"level","bronze" | sort_natural: "name" %}
+{%- assign sponsors_community = site.data.sponsors | where:"level","community" | sort_natural: "name" %}
 
 <div class="container">
   <div class="page-header">
