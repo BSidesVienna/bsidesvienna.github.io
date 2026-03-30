@@ -1,1 +1,35 @@
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
+  background: true
+  level: "gold"
+  
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
+  background: true
+  level: "silver"
 
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
+  background: true
+  level: "bronze"
+
+- name: "Chaos Computer Club Wien (C3W)"
+  url: "https://c3w.at/"
+  image: "/img/sponsors/c3w.png"
+  background: true
+  level: "community"
+
+- name: "BSides Dresden"
+  url: "https://bsidesdresden.com/"
+  image: "/img/sponsors/bsides_dresden.png"
+  level: "community"
+  background: false
+
+- name: "Hacker Tracker"
+  url: "https://hackertracker.app/"
+  image: "/img/sponsors/hackertracker.png"
+  level: "community"
+  background: false
