@@ -2,6 +2,12 @@
   url: "https://bsidesvienna.at/sponsors/"
   image: "/img/sponsors/placeholder.jpeg"
   background: true
+  level: "platinum"
+
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
+  background: true
   level: "gold"
   
 - name: "placeholder"
