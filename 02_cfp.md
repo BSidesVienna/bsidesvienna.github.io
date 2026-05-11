@@ -6,7 +6,7 @@ permalink: /cfp/
 
 # TL;DR
 
-[https://cfp.bsidesvienna.at](https://cfp.bsidesvienna.at)
+[https://cfp.bsidesvienna.at](https://cfp.bsidesvienna.at/bsidesvienna-0x7ea/)
 
 # Propaganda
 
