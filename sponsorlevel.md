@@ -9,13 +9,13 @@ permalink: /sponsorlevel/
 
 |                                                         |        Community         |          Bronze          |          Silver          |          Gold\*          |     Platinum\*     |
 | ------------------------------------------------------- | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------: |
-| Available Slots                                         |           unlimited      |           10             |           5              |            3             |          1         |
+| Available Slots                                         |           unlimited      |            5             |           5              |            3             |          1         |
 | Cost                                                    |          0 EUR           |        1.500 EUR         |        3.000 EUR         |        6.000 EUR         |     12.000 EUR     |
 | Guaranteed event tickets                                | :heavy_multiplication_x: |            2             |            5             |            10            |         20         |
 | Logo on the website                                     |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Can bring flyer and stickers                            |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Logo on the beamer in rotation                          |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
-| Social media shout out                                  | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
+| Social media shout out                                  | :heavy_multiplication_x: |    :heavy_check_mark:    |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Announcement on site; at the beginning and end of event | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Can bring rollup                                        | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    |    :heavy_check_mark:    | :heavy_check_mark: |
 | Can put a rollup on/next to ONE stage                   | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |    :heavy_check_mark:    | :heavy_check_mark: |
