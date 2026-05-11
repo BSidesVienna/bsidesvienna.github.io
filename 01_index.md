@@ -58,11 +58,11 @@ You want to volunteer? Get in touch with us [via twitter](https://twitter.com/BS
 As we are a free event these companies make it possible that we can host this event
 
 {%- if sponsors_platinum.size > 0 %}
-{% include_sponsor_part.html sponsors=sponsors_platinum sponsorstitle="Platinum Sponsors" %}
+{% include _sponsor_part.html sponsors=sponsors_platinum sponsorstitle="Platinum Sponsors" %}
 {%- endif %}
 
 {%- if sponsors_gold.size > 0 %}
-{% include_sponsor_part.html sponsors=sponsors_gold sponsorstitle="Gold Sponsors" %}
+{% include _sponsor_part.html sponsors=sponsors_gold sponsorstitle="Gold Sponsors" %}
 {%- endif %}
 
 #### Tag for the socials
