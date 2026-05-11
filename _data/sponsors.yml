@@ -81,3 +81,9 @@
   image: "/img/sponsors/certitude.png"
   level: "community"
   background: true
+  
+- name: "Women4Cyber Austria"
+  url: "https://www.linkedin.com/company/women4cyber-austria/"
+  image: "/img/sponsors/Women4Cyber.png"
+  level: "community"
+  background: true
