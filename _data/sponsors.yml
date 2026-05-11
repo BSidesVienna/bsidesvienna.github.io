@@ -35,8 +35,8 @@
   level: "silver"
     
 - name: "Offensive Security"
-  url: "https://bsidesvienna.at/sponsors/"
-  image: "/img/sponsors/placeholder.jpeg"
+  url: "https://www.offsec.com/"
+  image: "/img/sponsors/offsec.png"
   background: true
   level: "silver"
     
