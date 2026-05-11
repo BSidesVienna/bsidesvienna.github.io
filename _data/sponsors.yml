@@ -87,3 +87,9 @@
   image: "/img/sponsors/Women4Cyber.png"
   level: "community"
   background: true
+
+- name: "insideDarknet"
+  url: "https://guns.lol/insidedarknet"
+  image: "/img/sponsors/insideDarknet.jpeg"
+  level: "community"
+  background: false
