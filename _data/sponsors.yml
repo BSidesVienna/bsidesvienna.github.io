@@ -1,9 +1,3 @@
-- name: "placeholder"
-  url: "https://bsidesvienna.at/sponsors/"
-  image: ""
-  background: true
-  level: "platinum"
-
 - name: "SBA Research gemeinnützige GmbH (gGmbH)"
   url: "https://www.sba-research.org/"
   image: "/img/sponsors/SBAResearch.png"
