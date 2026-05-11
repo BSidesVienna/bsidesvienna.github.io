@@ -80,4 +80,4 @@
   url: "https://certitude.consulting/"
   image: "/img/sponsors/certitude.png"
   level: "community"
-  background: false
+  background: true
