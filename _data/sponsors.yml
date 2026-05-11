@@ -4,9 +4,9 @@
   background: true
   level: "platinum"
 
-- name: "placeholder"
-  url: "https://bsidesvienna.at/sponsors/"
-  image: "/img/sponsors/placeholder.jpeg"
+- name: "SBA Research gemeinnützige GmbH (gGmbH)"
+  url: "https://www.sba-research.org/"
+  image: "/img/sponsors/SBAResearch.png"
   background: true
   level: "gold"
   
@@ -22,39 +22,45 @@
   background: true
   level: "gold"
   
-- name: "placeholder"
-  url: "https://bsidesvienna.at/sponsors/"
-  image: "/img/sponsors/placeholder.jpeg"
+- name: "slashsec Red Teaming GmbH"
+  url: "https://slashsec.at/"
+  image: "/img/sponsors/slashsec.svg"
   background: true
   level: "silver"
   
-- name: "placeholder"
+- name: "AIT Austrian Institute of Technology"
+  url: "https://www.ait.ac.at"
+  image: "/img/sponsors/ait.png"
+  background: true
+  level: "silver"
+    
+- name: "Telekom Security"
+  url: "https://telekom-security.com"
+  image: "/img/sponsors/t-security.png"
+  background: true
+  level: "silver"
+    
+- name: "Offensive Security"
   url: "https://bsidesvienna.at/sponsors/"
   image: "/img/sponsors/placeholder.jpeg"
   background: true
   level: "silver"
     
-- name: "placeholder"
-  url: "https://bsidesvienna.at/sponsors/"
-  image: "/img/sponsors/placeholder.jpeg"
+- name: "Wien Digital"
+  url: "https://www.wien.gv.at/kontakt/ma01"
+  image: "/img/sponsors/wien_digital.svg"
   background: true
   level: "silver"
-    
-- name: "placeholder"
-  url: "https://bsidesvienna.at/sponsors/"
+
+- name: "HACKNER Security Intelligence GmbH"
+  url: "https://www.hackner-security.com/"
   image: "/img/sponsors/placeholder.jpeg"
   background: true
-  level: "silver"
-    
-- name: "placeholder"
-  url: "https://bsidesvienna.at/sponsors/"
-  image: "/img/sponsors/placeholder.jpeg"
-  background: true
-  level: "silver"
+  level: "bronze"
   
-- name: "placeholder"
-  url: "https://bsidesvienna.at/sponsors/"
-  image: "/img/sponsors/placeholder.jpeg"
+- name: "CERT.at"
+  url: "https://www.cert.at/"
+  image: "/img/sponsors/certat.jpg"
   background: true
   level: "bronze"
 
