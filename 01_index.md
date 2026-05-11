@@ -18,6 +18,8 @@ You can find us on the following social media sites:
 
 [BlueSky](https://bsky.app/profile/bsidesvienna.at)
 
+[LinkedIn](https://www.linkedin.com/company/bsidesvienna/)
+
 # Event details
 
 27.06.2026 (dd.mm.yyyy)
