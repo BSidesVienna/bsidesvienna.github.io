@@ -14,10 +14,8 @@ Uraniastraße 1 1010 Wien/Vienna :: Austria :: Europe :: Earth :: Milky-way
 
 #### When does it start?
 
-TODO
-
-- **Beginning**: xx.xx.2026 - 09:30 (opens at 09:00)
-- **End**: xx.xx.2026 - 18:15
+- **Beginning**: 27.06.2026 - 09:30 (opens at 09:00)
+- **End**: 27.06.2026 - 18:15
 
 [Local time]
 

@@ -6,13 +6,13 @@ permalink: /cfp/
 
 # TL;DR
 
-TODO
+[https://cfp.bsidesvienna.at](https://cfp.bsidesvienna.at)
 
 # Propaganda
 
 You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back!
 
-We're teaming up with the very fine folks over at [DeepSec](https://deepsec.net/) again to throw a BSides event straight after their conference at the
+We're teaming up with the very fine folks over at [OWASP](https://owasp.org/) again to throw a BSides event straight after their conference at the
 end of November. In true BSides fashion we're looking for a good mix of security and hacker talks
 designed to wow the crowd and keep them coming back for more.
 
@@ -68,9 +68,7 @@ hacker: n.
 
 # Submission
 
-To apply, please provide the details of your talk proposal and contact info at TODO.
-
-CFP will close on 2026/xx/xx. TODO
+To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at](https://cfp.bsidesvienna.at).
 
 # Sponsoring
 
