@@ -6,8 +6,8 @@
   
 - name: "A-Team Rocks Consulting GmbH"
   url: "https://www.a-team.rocks/"
-  image: "/img/sponsors/placeholder.jpeg"
-  background: true
+  image: "/img/sponsors/a-team-rocks-logo-white.png"
+  background: false
   level: "gold"
   
 - name: "placeholder"
@@ -29,8 +29,8 @@
   level: "silver"
     
 - name: "Telekom Security"
-  url: "https://telekom-security.com"
-  image: "/img/sponsors/t-security.png"
+  url: "https://business.telekom.com/at/produkte-und-loesungen/cyber-security/"
+  image: "/img/sponsors/T_security_horizontal_rgb_p.png"
   background: true
   level: "silver"
     
