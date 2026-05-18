@@ -47,9 +47,9 @@
   level: "silver"
 
 - name: "HACKNER Security Intelligence GmbH"
-  url: "https://www.hackner-security.com/"
-  image: "/img/sponsors/placeholder.jpeg"
-  background: true
+  url: "https://www.hackner-security.com"
+  image: "/img/sponsors/hackner_logo_space.png"
+  background: false
   level: "bronze"
   
 - name: "CERT.at"
