@@ -3,43 +3,43 @@
   image: "/img/sponsors/SBAResearch.png"
   background: true
   level: "gold"
-  
+
 - name: "A-Team Rocks Consulting GmbH"
   url: "https://www.a-team.rocks/"
   image: "/img/sponsors/a-team-rocks-logo-white.png"
   background: false
   level: "gold"
-  
+
 - name: "placeholder"
   url: "https://bsidesvienna.at/sponsors/"
   image: "/img/sponsors/placeholder.jpeg"
   background: true
   level: "gold"
-  
+
 - name: "slashsec Red Teaming GmbH"
   url: "https://slashsec.at/"
   image: "/img/sponsors/slashsec.svg"
   background: true
   level: "silver"
-  
+
 - name: "AIT Austrian Institute of Technology"
   url: "https://www.ait.ac.at"
   image: "/img/sponsors/ait.png"
   background: true
   level: "silver"
-    
+
 - name: "Telekom Security"
   url: "https://business.telekom.com/at/produkte-und-loesungen/cyber-security/"
   image: "/img/sponsors/T_security_horizontal_rgb_p.png"
   background: true
   level: "silver"
-    
+
 - name: "Offensive Security"
   url: "https://www.offsec.com/"
   image: "/img/sponsors/offsec.png"
   background: true
   level: "silver"
-    
+
 - name: "Wien Digital"
   url: "https://www.wien.gv.at/kontakt/ma01"
   image: "/img/sponsors/wien_digital.svg"
@@ -51,7 +51,7 @@
   image: "/img/sponsors/hackner_logo_space.png"
   background: false
   level: "bronze"
-  
+
 - name: "CERT.at"
   url: "https://www.cert.at/"
   image: "/img/sponsors/certat.jpg"
@@ -81,7 +81,7 @@
   image: "/img/sponsors/certitude.png"
   level: "community"
   background: true
-  
+
 - name: "Women4Cyber Austria"
   url: "https://www.linkedin.com/company/women4cyber-austria/"
   image: "/img/sponsors/Women4Cyber.png"
