@@ -93,3 +93,9 @@
   image: "/img/sponsors/insideDarknet.jpeg"
   level: "community"
   background: false
+  
+- name: "SecCore GmbH"
+  url: "https://seccore.at"
+  image: "/img/sponsors/seccore.png"
+  level: "community"
+  background: false
