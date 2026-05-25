@@ -41,7 +41,7 @@
   level: "silver"
 
 - name: "Wien Digital"
-  url: "https://www.wien.gv.at/kontakt/ma01"
+  url: "https://digitales.wien.gv.at/bugbounty/"
   image: "/img/sponsors/wien_digital.svg"
   background: true
   level: "silver"
