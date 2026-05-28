@@ -49,7 +49,7 @@
 - name: "HACKNER Security Intelligence GmbH"
   url: "https://www.hackner-security.com"
   image: "/img/sponsors/hackner_logo_space.png"
-  background: false
+  background: true
   level: "bronze"
   
 - name: "XBC-Digital GmbH"
