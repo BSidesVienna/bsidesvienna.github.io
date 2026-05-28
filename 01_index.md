@@ -62,6 +62,8 @@ As we are a free event these companies make it possible that we can host this ev
 {% include _sponsor_part.html sponsors=sponsors_gold sponsorstitle="Gold Sponsors" %}
 {%- endif %}
 
+Also check out the full list of [sponsors](/sponsors/) and our [sponsor levels](/sponsorlevel/) including the perks.
+
 #### Tag for the socials
 
 Please use [#BSidesVienna](https://twitter.com/search?q=bsidesvienna) for content related to this event.
