@@ -7,7 +7,7 @@
 - name: "A-Team Rocks Consulting GmbH"
   url: "https://www.a-team.rocks/"
   image: "/img/sponsors/a-team-rocks-logo-white.png"
-  background: false
+  background: true
   level: "gold"
 
 - name: "Erste Bank der oesterreichischen Sparkassen AG"
@@ -104,10 +104,10 @@
   url: "https://seccore.at"
   image: "/img/sponsors/seccore.png"
   level: "community"
-  background: false
+  background: true
 
 - name: "OWASP"
   url: "https://bit.ly/OWASPGlobalAppSecVienna"
   image: "/img/sponsors/OWASP_Full_Logo_R_Black.jpg"
   level: "community"
-  background: false
+  background: true
