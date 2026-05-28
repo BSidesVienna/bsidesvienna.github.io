@@ -99,3 +99,9 @@
   image: "/img/sponsors/seccore.png"
   level: "community"
   background: false
+
+- name: "OWASP"
+  url: "https://bit.ly/OWASPGlobalAppSecVienna"
+  image: "/img/sponsors/OWASP_Full_Logo_R_Black.jpg"
+  level: "community"
+  background: false
