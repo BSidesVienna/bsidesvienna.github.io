@@ -10,10 +10,10 @@
   background: false
   level: "gold"
 
-- name: "placeholder"
-  url: "https://bsidesvienna.at/sponsors/"
-  image: "/img/sponsors/placeholder.jpeg"
-  background: true
+- name: "Erste Bank der oesterreichischen Sparkassen AG"
+  url: "https://www.sparkasse.at/erstebank"
+  image: "/img/sponsors/EBOe_Special_screen_RGB.png"
+  background: false
   level: "gold"
 
 - name: "slashsec Red Teaming GmbH"
