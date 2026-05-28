@@ -51,7 +51,13 @@
   image: "/img/sponsors/hackner_logo_space.png"
   background: false
   level: "bronze"
-
+  
+- name: "XBC-Digital GmbH"
+  url: " https://xbc-digital.com"
+  image: "/img/sponsors/XBC-LOGO-MF-RGB_LOGO-BLK.svg"
+  background: true
+  level: "bronze"
+  
 - name: "CERT.at"
   url: "https://www.cert.at/"
   image: "/img/sponsors/certat.jpg"
