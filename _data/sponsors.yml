@@ -64,6 +64,12 @@
   background: true
   level: "bronze"
 
+- name: "CERTAINITY GmbH"
+  url: "https://certainity.com/"
+  image: "/img/sponsors/CERTAINITY_Logo_VektorDatei.svg"
+  background: false
+  level: "bronze"
+
 - name: "Chaos Computer Club Wien (C3W)"
   url: "https://c3w.at/"
   image: "/img/sponsors/c3w.png"
