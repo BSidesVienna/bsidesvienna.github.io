@@ -111,3 +111,9 @@
   image: "/img/sponsors/OWASP_Full_Logo_R_Black.jpg"
   level: "community"
   background: true
+
+- name: "HXZ.ONE"
+  url: "https://hxz.one"
+  image: "/img/sponsors/HXZ.ONE.png"
+  level: "community"
+  background: false
