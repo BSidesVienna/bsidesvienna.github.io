@@ -69,6 +69,12 @@
   image: "/img/sponsors/CERTAINITY_Logo_VektorDatei.svg"
   background: false
   level: "bronze"
+  
+- name: "NVISO GmbH"
+  url: "https://www.nviso.eu"
+  image: "/img/sponsors/nviso.svg"
+  level: "bronze"
+  background: true
 
 - name: "Chaos Computer Club Wien (C3W)"
   url: "https://c3w.at/"
