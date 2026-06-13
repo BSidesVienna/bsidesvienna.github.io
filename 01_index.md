@@ -20,6 +20,8 @@ You can find us on the following social media sites:
 
 [LinkedIn](https://www.linkedin.com/company/bsidesvienna/)
 
+[Signal Messenger](https://signal.group/#CjQKIBxqEqfbcaOH2zsj8wSAiZAWjOCQQe10wu4HWKY4S2xxEhBEddbcuuDBPB6LM8PcOTgw)
+
 # Event details
 
 27.06.2026 (dd.mm.yyyy)
