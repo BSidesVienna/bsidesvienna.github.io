@@ -61,7 +61,7 @@ You want to volunteer? Get in touch with us [via twitter](https://twitter.com/BS
 As we are a free event these companies make it possible that we can host this event
 
 {%- if sponsors_gold.size > 0 %}
-{% include _sponsor_part.html sponsors=sponsors_gold sponsorstitle="Gold Sponsors" %}
+{% include _sponsor_part.html sponsors=sponsors_gold sponsorstitle="Gold Sponsors" %} <!-- markdownlint-disable-line -->
 {%- endif %}
 
 Also check out the full list of [sponsors](/sponsors/) and our [sponsor levels](/sponsorlevel/) including the perks.
