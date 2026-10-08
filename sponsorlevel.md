@@ -5,7 +5,7 @@ nomenu: true
 permalink: /sponsorlevel/
 ---
 
-## Become a Sponsor
+# Become a Sponsor <!-- markdownlint-disable-line -->
 
 |                                                         |        Community         |          Bronze          |          Silver          |          Gold\*          |     Platinum\*            |
 | ------------------------------------------------------- | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :-----------------------: |
@@ -34,9 +34,9 @@ permalink: /sponsorlevel/
 All perks at the platinum level are up for discussion as are the options to support the event.\
 Let’s talk how we can benefit each other!
 
-## Add-ons and other Perks
+# Add-ons and other Perks <!-- markdownlint-disable-line -->
 
-### Become an After Party Sponsor
+### Become an After Party Sponsor <!-- markdownlint-disable-line -->
 
 You can bring a rollup to the after party and provide other swag placed on the tables for the after party.\
 Your logo and message on rotation on a screen at the venue
@@ -48,7 +48,7 @@ Cost: 750\* Euro (Add-on) or 1500 Euro (after party only)\
 Slots: 2\
 *not available for community sponsor level
 
-### Become a Swag Bag Sponsor
+### Become a Swag Bag Sponsor <!-- markdownlint-disable-line -->
 
 Provide swag bags for the event with a logo of you choice on one site and the BSidesVienna logo on the other site.\
 You can also work with us to create a design and provide the funding.\
@@ -57,7 +57,7 @@ Logo on the website\
 Cost: 450 swag bags or tbd\
 Slots: 1
 
-### Become a Lanyard Sponsor
+### Become a Lanyard Sponsor <!-- markdownlint-disable-line -->
 
 Provide lanyards for the event with a logo of you choice or work with us to create a Lanyard design and provide the funding.\
 Guaranteed Tickets: 5\

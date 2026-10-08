@@ -4,7 +4,7 @@ layout: sponsors
 permalink: /sponsors/
 ---
 
-## Up your karma: sponsor hacker knowledge aquisition
+# Up your karma: sponsor hacker knowledge aquisition <!-- markdownlint-disable-line -->
 
 Getting a community event going (possibly for free) is not easy. We're looking for sponsoring to provide
 for a nice and central location, multiple tracks, tech (beamers, PA, recording equipment), and ideally

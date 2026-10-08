@@ -4,7 +4,7 @@ layout: default
 permalink: /registration/
 ---
 
-## Registration
+# Registration <!-- markdownlint-disable-line -->
 
 Attendance is free as always!
 
