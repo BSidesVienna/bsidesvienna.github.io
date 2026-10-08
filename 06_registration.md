@@ -4,7 +4,7 @@ layout: default
 permalink: /registration/
 ---
 
-# Registration
+## Registration
 
 Attendance is free as always!
 

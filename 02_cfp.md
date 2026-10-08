@@ -4,11 +4,11 @@ layout: default
 permalink: /cfp/
 ---
 
-# TL;DR
+## TL;DR
 
-[https://cfp.bsidesvienna.at](https://cfp.bsidesvienna.at/bsidesvienna-0x7ea/)
+[https://cfp.bsidesvienna.at](https://cfp.bsidesvienna.at/bsidesvienna-0x7eb/)
 
-# Propaganda
+## Propaganda
 
 You can't keep a good con down... so after a year off sunning ourselves BSidesVienna is back!
 
@@ -18,6 +18,7 @@ designed to wow the crowd and keep them coming back for more.
 
 If you want to get a feel of what we're looking for, check out the [past events](/past-events/) of our past BsidesVienna events:
 
+- 2026: [Talk schedule](https://cfp.bsidesvienna.at/bsidesvienna-0x7ea/schedule/)
 - 2025: [Talk schedule](https://cfp.bsidesvienna.at/bsidesvienna-0x7e9-2025/schedule/)
 - 2024: [Talk schedule](https://cfp.bsidesvienna.at/bsv2024/schedule/)
 - 2023: [Talk schedule](https://cfp.bsidesvienna.at/bsidesvienna-0x7e7/schedule/)
@@ -66,11 +67,11 @@ hacker: n.
 [...]
 ```
 
-# Submission
+## Submission
 
 To apply, please provide the details of your talk proposal and contact info at [https://cfp.bsidesvienna.at](https://cfp.bsidesvienna.at).
 
-# Sponsoring
+## Sponsoring
 
 BSides Vienna is a non-profit community driven event, and relies on the kind sponsorship of people and companies like you to succeed.
 

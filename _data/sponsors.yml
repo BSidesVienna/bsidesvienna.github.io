@@ -1,131 +1,131 @@
-- name: "SBA Research gemeinnützige GmbH (gGmbH)"
-  url: "https://www.sba-research.org/"
-  image: "/img/sponsors/SBAResearch.png"
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: ""
+  background: true
+  level: "platinum"
+
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
   background: true
   level: "gold"
 
-- name: "A-Team Rocks Consulting GmbH"
-  url: "https://www.a-team.rocks/"
-  image: "/img/sponsors/a-team-rocks-logo-white.png"
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
   background: true
   level: "gold"
 
-- name: "Erste Bank der oesterreichischen Sparkassen AG"
-  url: "https://www.sparkasse.at/erstebank"
-  image: "/img/sponsors/EBOe_Special_screen_RGB.png"
-  background: false
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
+  background: true
   level: "gold"
 
-- name: "slashsec Red Teaming GmbH"
-  url: "https://slashsec.at/"
-  image: "/img/sponsors/slashsec.svg"
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
   background: true
   level: "silver"
 
-- name: "AIT Austrian Institute of Technology"
-  url: "https://www.ait.ac.at"
-  image: "/img/sponsors/ait.png"
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
   background: true
   level: "silver"
 
-- name: "Telekom Security"
-  url: "https://business.telekom.com/at/produkte-und-loesungen/cyber-security/"
-  image: "/img/sponsors/T_security_horizontal_rgb_p.png"
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
   background: true
   level: "silver"
 
-- name: "Offensive Security"
-  url: "https://www.offsec.com/"
-  image: "/img/sponsors/offsec.png"
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
   background: true
   level: "silver"
 
-- name: "Wien Digital"
-  url: "https://digitales.wien.gv.at/bugbounty/"
-  image: "/img/sponsors/wien_digital.svg"
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
   background: true
   level: "silver"
 
-- name: "HACKNER Security Intelligence GmbH"
-  url: "https://www.hackner-security.com"
-  image: "/img/sponsors/hackner_logo_space.png"
-  background: true
-  level: "bronze"
-  
-- name: "XBC-Digital GmbH"
-  url: " https://xbc-digital.com"
-  image: "/img/sponsors/XBC-LOGO-MF-RGB_LOGO-BLK.svg"
-  background: true
-  level: "bronze"
-  
-- name: "CERT.at"
-  url: "https://www.cert.at/"
-  image: "/img/sponsors/certat.jpg"
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
   background: true
   level: "bronze"
 
-- name: "CERTAINITY GmbH"
-  url: "https://certainity.com/"
-  image: "/img/sponsors/CERTAINITY_Logo_VektorDatei.svg"
-  background: false
-  level: "bronze"
-  
-- name: "NVISO GmbH"
-  url: "https://www.nviso.eu"
-  image: "/img/sponsors/nviso.svg"
-  level: "bronze"
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
   background: true
+  level: "bronze"
+
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
+  background: true
+  level: "bronze"
+
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
+  background: true
+  level: "bronze"
+
+- name: "placeholder"
+  url: "https://bsidesvienna.at/sponsors/"
+  image: "/img/sponsors/placeholder.jpeg"
+  background: true
+  level: "bronze"
 
 - name: "Chaos Computer Club Wien (C3W)"
   url: "https://c3w.at/"
-  image: "/img/sponsors/c3w.png"
+  image: "/img/sponsors/2027/c3w.png"
   background: true
   level: "community"
 
 - name: "BSides Dresden"
   url: "https://bsidesdresden.com/"
-  image: "/img/sponsors/bsides_dresden.png"
+  image: "/img/sponsors/2027/bsides_dresden.png"
   level: "community"
   background: false
 
 - name: "Hacker Tracker"
   url: "https://hackertracker.app/"
-  image: "/img/sponsors/hackertracker.png"
+  image: "/img/sponsors/2027/hackertracker.png"
   level: "community"
   background: false
 
 - name: "Certitude Consulting"
   url: "https://certitude.consulting/"
-  image: "/img/sponsors/certitude.png"
+  image: "/img/sponsors/2027/certitude.png"
   level: "community"
   background: true
 
 - name: "Women4Cyber Austria"
   url: "https://www.linkedin.com/company/women4cyber-austria/"
-  image: "/img/sponsors/Women4Cyber.png"
+  image: "/img/sponsors/2027/Women4Cyber.png"
   level: "community"
   background: true
 
 - name: "insideDarknet"
   url: "https://guns.lol/insidedarknet"
-  image: "/img/sponsors/insideDarknet.jpeg"
+  image: "/img/sponsors/2027/insideDarknet.jpeg"
   level: "community"
   background: false
-  
-- name: "SecCore GmbH"
-  url: "https://seccore.at"
-  image: "/img/sponsors/seccore.png"
-  level: "community"
-  background: true
 
 - name: "OWASP"
   url: "https://bit.ly/OWASPGlobalAppSecVienna"
-  image: "/img/sponsors/OWASP_Full_Logo_R_Black.jpg"
+  image: "/img/sponsors/2027/OWASP_Full_Logo_R_Black.jpg"
   level: "community"
   background: true
 
 - name: "HXZ.ONE"
   url: "https://hxz.one"
-  image: "/img/sponsors/HXZ.ONE.png"
+  image: "/img/sponsors/2027/HXZ.ONE.png"
   level: "community"
   background: false

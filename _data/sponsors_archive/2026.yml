@@ -1,0 +1,131 @@
+- name: "SBA Research gemeinnützige GmbH (gGmbH)"
+  url: "https://www.sba-research.org/"
+  image: "/img/sponsors/2026/SBAResearch.png"
+  background: true
+  level: "gold"
+
+- name: "A-Team Rocks Consulting GmbH"
+  url: "https://www.a-team.rocks/"
+  image: "/img/sponsors/2026/a-team-rocks-logo-white.png"
+  background: true
+  level: "gold"
+
+- name: "Erste Bank der oesterreichischen Sparkassen AG"
+  url: "https://www.sparkasse.at/erstebank"
+  image: "/img/sponsors/2026/EBOe_Special_screen_RGB.png"
+  background: false
+  level: "gold"
+
+- name: "slashsec Red Teaming GmbH"
+  url: "https://slashsec.at/"
+  image: "/img/sponsors/2026/slashsec.svg"
+  background: true
+  level: "silver"
+
+- name: "AIT Austrian Institute of Technology"
+  url: "https://www.ait.ac.at"
+  image: "/img/sponsors/2026/ait.png"
+  background: true
+  level: "silver"
+
+- name: "Telekom Security"
+  url: "https://business.telekom.com/at/produkte-und-loesungen/cyber-security/"
+  image: "/img/sponsors/2026/T_security_horizontal_rgb_p.png"
+  background: true
+  level: "silver"
+
+- name: "Offensive Security"
+  url: "https://www.offsec.com/"
+  image: "/img/sponsors/2026/offsec.png"
+  background: true
+  level: "silver"
+
+- name: "Wien Digital"
+  url: "https://digitales.wien.gv.at/bugbounty/"
+  image: "/img/sponsors/2026/wien_digital.svg"
+  background: true
+  level: "silver"
+
+- name: "HACKNER Security Intelligence GmbH"
+  url: "https://www.hackner-security.com"
+  image: "/img/sponsors/2026/hackner_logo_space.png"
+  background: true
+  level: "bronze"
+
+- name: "XBC-Digital GmbH"
+  url: " https://xbc-digital.com"
+  image: "/img/sponsors/2026/XBC-LOGO-MF-RGB_LOGO-BLK.svg"
+  background: true
+  level: "bronze"
+
+- name: "CERT.at"
+  url: "https://www.cert.at/"
+  image: "/img/sponsors/2026/certat.jpg"
+  background: true
+  level: "bronze"
+
+- name: "CERTAINITY GmbH"
+  url: "https://certainity.com/"
+  image: "/img/sponsors/2026/CERTAINITY_Logo_VektorDatei.svg"
+  background: false
+  level: "bronze"
+
+- name: "NVISO GmbH"
+  url: "https://www.nviso.eu"
+  image: "/img/sponsors/2026/nviso.svg"
+  level: "bronze"
+  background: true
+
+- name: "Chaos Computer Club Wien (C3W)"
+  url: "https://c3w.at/"
+  image: "/img/sponsors/2026/c3w.png"
+  background: true
+  level: "community"
+
+- name: "BSides Dresden"
+  url: "https://bsidesdresden.com/"
+  image: "/img/sponsors/2026/bsides_dresden.png"
+  level: "community"
+  background: false
+
+- name: "Hacker Tracker"
+  url: "https://hackertracker.app/"
+  image: "/img/sponsors/2026/hackertracker.png"
+  level: "community"
+  background: false
+
+- name: "Certitude Consulting"
+  url: "https://certitude.consulting/"
+  image: "/img/sponsors/2026/certitude.png"
+  level: "community"
+  background: true
+
+- name: "Women4Cyber Austria"
+  url: "https://www.linkedin.com/company/women4cyber-austria/"
+  image: "/img/sponsors/2026/Women4Cyber.png"
+  level: "community"
+  background: true
+
+- name: "insideDarknet"
+  url: "https://guns.lol/insidedarknet"
+  image: "/img/sponsors/2026/insideDarknet.jpeg"
+  level: "community"
+  background: false
+
+- name: "SecCore GmbH"
+  url: "https://seccore.at"
+  image: "/img/sponsors/2026/seccore.png"
+  level: "community"
+  background: true
+
+- name: "OWASP"
+  url: "https://bit.ly/OWASPGlobalAppSecVienna"
+  image: "/img/sponsors/2026/OWASP_Full_Logo_R_Black.jpg"
+  level: "community"
+  background: true
+
+- name: "HXZ.ONE"
+  url: "https://hxz.one"
+  image: "/img/sponsors/2026/HXZ.ONE.png"
+  level: "community"
+  background: false

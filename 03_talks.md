@@ -4,6 +4,6 @@ layout: default
 permalink: /talks/
 ---
 
-# Talks
+## Talks
 
-All talks can be found [here](https://cfp.bsidesvienna.at/bsidesvienna-0x7ea/talk/)
+All talks can be found [on our CFP page](https://cfp.bsidesvienna.at/bsidesvienna-0x7eb/talk/)
