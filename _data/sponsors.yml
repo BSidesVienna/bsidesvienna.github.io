@@ -1,6 +1,6 @@
 - name: "placeholder"
   url: "https://bsidesvienna.at/sponsors/"
-  image: ""
+  image: "/img/sponsors/placeholder.jpeg"
   background: true
   level: "platinum"
 
