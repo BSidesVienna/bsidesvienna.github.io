@@ -88,6 +88,12 @@
   background: true
   level: "community"
 
+- name: "BSides Tirol"
+  url: "https://www.bsides.tirol/"
+  image: "/img/sponsors/2027/bsides_tirol.jpg"
+  level: "community"
+  background: false
+
 - name: "BSides Dresden"
   url: "https://bsidesdresden.com/"
   image: "/img/sponsors/2027/bsides_dresden.png"

@@ -55,12 +55,21 @@ F-R-E-E!
 You want to volunteer? Get in touch with us [via twitter](https://twitter.com/BSidesVienna), [via Mastodon](https://infosec.exchange/@bsidesvienna) or be old fashioned and send us an e-mail to crew [at] bsidesvienna [dot] at.
 
 {%- assign sponsors_gold = site.data.sponsors | where:"level","gold" | sort_natural: "name" %}
+{%- assign sponsors_platinum = site.data.sponsors | where:"level","platinum" | sort_natural: "name" %}
 
-# Our gold sponsors <!-- markdownlint-disable-line -->
+# Our top sponsors <!-- markdownlint-disable-line -->
 
 As we are a free event these companies make it possible that we can host this event
 
+{%- if sponsors_platinum.size > 0 %}
+# Platinum sponsors <!-- markdownlint-disable-line -->
+
+{% include _sponsor_part.html sponsors=sponsors_platinum sponsorstitle="Platinum Sponsors" %} <!-- markdownlint-disable-line -->
+{%- endif %}
+
 {%- if sponsors_gold.size > 0 %}
+# Gold sponsors <!-- markdownlint-disable-line -->
+
 {% include _sponsor_part.html sponsors=sponsors_gold sponsorstitle="Gold Sponsors" %} <!-- markdownlint-disable-line -->
 {%- endif %}
 
