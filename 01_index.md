@@ -24,7 +24,7 @@ You can find us on the following social media sites:
 
 # Event details <!-- markdownlint-disable-line -->
 
-??.??.2027 (dd.mm.yyyy)
+26.06.2027 (dd.mm.yyyy)
 
 # Tickets <!-- markdownlint-disable-line -->
 

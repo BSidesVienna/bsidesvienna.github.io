@@ -10,8 +10,8 @@ strict_front_matter: true
 # data about the current event for google
 evt_year: "2027"
 evt_year_hex: "7EB"
-evt_startdate: "2027-??-??T10:00:00+02:00"
-evt_enddate: "2027-??-??T04:00:00+02:00"
+evt_startdate: "2027-06-26T10:00:00+02:00"
+evt_enddate: "2027-06-27T04:00:00+02:00"
 evt_loc_name: "Urania Dachsaal"
 evt_loc_address: "Uraniastraße 1"
 evt_loc_zip: "1010"

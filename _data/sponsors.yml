@@ -4,9 +4,9 @@
   background: true
   level: "platinum"
 
-- name: "placeholder"
-  url: "https://bsidesvienna.at/sponsors/"
-  image: "/img/sponsors/placeholder.jpeg"
+- name: "SBA Research gemeinnützige GmbH (gGmbH)"
+  url: "https://www.sba-research.org/"
+  image: "/img/sponsors/2027/SBAResearch.png"
   background: true
   level: "gold"
 
