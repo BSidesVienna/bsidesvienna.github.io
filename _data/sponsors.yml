@@ -135,3 +135,9 @@
   image: "/img/sponsors/2027/HXZ.ONE.png"
   level: "community"
   background: false
+
+- name: "DeepSec"
+  url: "https://deepsec.net/"
+  image: "/img/sponsors/2027/DeepSec_Hat.png"
+  level: "community"
+  background: false
