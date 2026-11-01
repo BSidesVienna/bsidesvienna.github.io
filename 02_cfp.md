@@ -16,7 +16,7 @@ We're teaming up with the very fine folks over at [OWASP](https://owasp.org/) ag
 end of November. In true BSides fashion we're looking for a good mix of security and hacker talks
 designed to wow the crowd and keep them coming back for more.
 
-If you want to get a feel of what we're looking for, check out the [past events](/past-events/) of our past BsidesVienna events:
+If you want to get a feel of what we're looking for, check out the [past events](/past-events/) of our past BSidesVienna events:
 
 - 2026: [Talk schedule](https://cfp.bsidesvienna.at/bsidesvienna-0x7ea/schedule/)
 - 2025: [Talk schedule](https://cfp.bsidesvienna.at/bsidesvienna-0x7e9-2025/schedule/)
@@ -53,7 +53,7 @@ Topics of interest include (but are in no way limited to) the following:
 - History & Philosophy of computing
 - Ethical and philosophical implications of hacking
 - Disrupting politics & society (in a constructive way)
-- Creating and maintaining safe-spaces & encouragement of female participation
+- Creating and maintaining safe spaces & encouragement of female participation
 
 The Jargon Lexicon contains [a nice definition](http://www.catb.org/jargon/html/H/hacker.html) we think fits very well here:
 
@@ -73,6 +73,6 @@ To apply, please provide the details of your talk proposal and contact info at [
 
 # Sponsoring <!-- markdownlint-disable-line -->
 
-BSides Vienna is a non-profit community driven event, and relies on the kind sponsorship of people and companies like you to succeed.
+BSides Vienna is a non-profit community-driven event, and relies on the kind sponsorship of people and companies like you to succeed.
 
 If you want to support the initiative and gain visibility by sponsoring, please contact us by writing an e-mail to **crew [at] bsidesvienna [dot] at\***.
