@@ -50,17 +50,17 @@ Slots: 2\
 
 ### Become a Swag Bag Sponsor <!-- markdownlint-disable-line -->
 
-Provide swag bags for the event with a logo of you choice on one site and the BSidesVienna logo on the other site.\
+Provide swag bags for the event with a logo of your choice on one side and the BSidesVienna logo on the other side.\
 You can also work with us to create a design and provide the funding.\
 Guaranteed Tickets: 5\
 Logo on the website\
-Cost: 450 swag bags or tbd\
+Cost: 450 swag bags or TBD\
 Slots: 1
 
 ### Become a Lanyard Sponsor <!-- markdownlint-disable-line -->
 
-Provide lanyards for the event with a logo of you choice or work with us to create a Lanyard design and provide the funding.\
+Provide lanyards for the event with a logo of your choice or work with us to create a lanyard design and provide the funding.\
 Guaranteed Tickets: 5\
 Logo on the website\
-Cost: 450 lanyards or tbd\
+Cost: 450 lanyards or TBD\
 Slots: 1
