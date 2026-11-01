@@ -6,7 +6,7 @@ permalink: /code_of_conduct/
 
 # Code of Conduct [CoC] <!-- markdownlint-disable-line -->
 
-All attendees, speakers, sponsors and volunteers at BSidesVienna are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooporation from all participants to help ensuring a safe and welcoming environment for everybody.
+All attendees, speakers, sponsors and volunteers at BSidesVienna are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe and welcoming environment for everybody.
 
 # TL;DR <!-- markdownlint-disable-line -->
 
@@ -14,7 +14,7 @@ Walk your talk. Be excellent to each other &#124;&#124; GTFO!
 
 BSidesVienna is dedicated to providing a harassment-free conference experience for everyone, regardless of skill, age, gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
 
-Think about your speech and how it might affect/offend others around you. Offensive sexual language and imagery is not appropriate and entirely unprofessional for any conference venue, in partciular in workshops and talks.
+Think about your speech and how it might affect/offend others around you. Offensive sexual language and imagery is not appropriate and entirely unprofessional for any conference venue, in particular in workshops and talks.
 Conference participants (including sponsors, staff and volunteers) violating these rules may be sanctioned or expelled from the venue at the discretion of- and after deliberation by the organisers.
 
 # What is Harassment? <!-- markdownlint-disable-line -->
